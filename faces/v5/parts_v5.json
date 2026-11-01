@@ -1,0 +1,956 @@
+{
+ "odds": {
+  "Common": 50,
+  "Uncommon": 30,
+  "Rare": 15,
+  "Legendary": 5
+ },
+ "eyes": [
+  {
+   "id": "c01",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c01_white.png",
+    "iris": "eyes_c01_iris.png",
+    "lines": "eyes_c01_lines.png"
+   }
+  },
+  {
+   "id": "c02",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c02_white.png",
+    "iris": "eyes_c02_iris.png",
+    "lines": "eyes_c02_lines.png"
+   }
+  },
+  {
+   "id": "c03",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c03_white.png",
+    "iris": "eyes_c03_iris.png",
+    "lines": "eyes_c03_lines.png"
+   }
+  },
+  {
+   "id": "c04",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c04_white.png",
+    "iris": "eyes_c04_iris.png",
+    "lines": "eyes_c04_lines.png"
+   }
+  },
+  {
+   "id": "c05",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c05_white.png",
+    "iris": "eyes_c05_iris.png",
+    "lines": "eyes_c05_lines.png"
+   }
+  },
+  {
+   "id": "c06",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c06_white.png",
+    "iris": "eyes_c06_iris.png",
+    "lines": "eyes_c06_lines.png"
+   }
+  },
+  {
+   "id": "c07",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c07_white.png",
+    "iris": "eyes_c07_iris.png",
+    "lines": "eyes_c07_lines.png"
+   }
+  },
+  {
+   "id": "c08",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c08_white.png",
+    "iris": "eyes_c08_iris.png",
+    "lines": "eyes_c08_lines.png"
+   }
+  },
+  {
+   "id": "c_round",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c_round_white.png",
+    "iris": "eyes_c_round_iris.png",
+    "lines": "eyes_c_round_lines.png"
+   }
+  },
+  {
+   "id": "c_sleepy",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c_sleepy_white.png",
+    "iris": "eyes_c_sleepy_iris.png",
+    "lines": "eyes_c_sleepy_lines.png"
+   }
+  },
+  {
+   "id": "u01",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u01_white.png",
+    "iris": "eyes_u01_iris.png",
+    "lines": "eyes_u01_lines.png"
+   }
+  },
+  {
+   "id": "u02",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u02_white.png",
+    "iris": "eyes_u02_iris.png",
+    "lines": "eyes_u02_lines.png"
+   }
+  },
+  {
+   "id": "u03",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u03_white.png",
+    "iris": "eyes_u03_iris.png",
+    "lines": "eyes_u03_lines.png"
+   }
+  },
+  {
+   "id": "u04",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u04_white.png",
+    "iris": "eyes_u04_iris.png",
+    "lines": "eyes_u04_lines.png"
+   }
+  },
+  {
+   "id": "u05",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u05_white.png",
+    "iris": "eyes_u05_iris.png",
+    "lines": "eyes_u05_lines.png"
+   }
+  },
+  {
+   "id": "u06",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u06_white.png",
+    "iris": "eyes_u06_iris.png",
+    "lines": "eyes_u06_lines.png"
+   }
+  },
+  {
+   "id": "u07",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u07_white.png",
+    "iris": "eyes_u07_iris.png",
+    "lines": "eyes_u07_lines.png"
+   }
+  },
+  {
+   "id": "u08",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u08_white.png",
+    "iris": "eyes_u08_iris.png",
+    "lines": "eyes_u08_lines.png"
+   }
+  },
+  {
+   "id": "u09",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u09_white.png",
+    "iris": "eyes_u09_iris.png",
+    "lines": "eyes_u09_lines.png"
+   }
+  },
+  {
+   "id": "u10",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u10_white.png",
+    "iris": "eyes_u10_iris.png",
+    "lines": "eyes_u10_lines.png"
+   }
+  },
+  {
+   "id": "r01",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_r01_white.png",
+    "iris": "eyes_r01_iris.png",
+    "lines": "eyes_r01_lines.png"
+   }
+  },
+  {
+   "id": "r02",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_r02_white.png",
+    "iris": "eyes_r02_iris.png",
+    "lines": "eyes_r02_lines.png"
+   }
+  },
+  {
+   "id": "r03",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_r03_white.png",
+    "iris": "eyes_r03_iris.png",
+    "lines": "eyes_r03_lines.png"
+   }
+  },
+  {
+   "id": "r04",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_r04_white.png",
+    "iris": "eyes_r04_iris.png",
+    "lines": "eyes_r04_lines.png"
+   }
+  },
+  {
+   "id": "r05",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_r05_white.png",
+    "iris": "eyes_r05_iris.png",
+    "lines": "eyes_r05_lines.png"
+   }
+  },
+  {
+   "id": "r06",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_r06_white.png",
+    "iris": "eyes_r06_iris.png",
+    "lines": "eyes_r06_lines.png"
+   }
+  },
+  {
+   "id": "r_dead",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_r_dead_white.png",
+    "iris": "eyes_r_dead_iris.png",
+    "lines": "eyes_r_dead_lines.png"
+   }
+  },
+  {
+   "id": "l_dragon",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_dragon.png"
+   }
+  },
+  {
+   "id": "l_void",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_void.png"
+   }
+  },
+  {
+   "id": "l_thrall",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_thrall.png"
+   }
+  },
+  {
+   "id": "l_frost",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_frost.png"
+   }
+  },
+  {
+   "id": "l_ember",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_ember.png"
+   }
+  },
+  {
+   "id": "l_odd",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_odd.png"
+   }
+  }
+ ],
+ "brows": [
+  {
+   "id": "c01",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "full": "brows_c01.png"
+   }
+  },
+  {
+   "id": "c02",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "full": "brows_c02.png"
+   }
+  },
+  {
+   "id": "c03",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "full": "brows_c03.png"
+   }
+  },
+  {
+   "id": "c04",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "full": "brows_c04.png"
+   }
+  },
+  {
+   "id": "c05",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "full": "brows_c05.png"
+   }
+  },
+  {
+   "id": "u06",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "full": "brows_u06.png"
+   }
+  },
+  {
+   "id": "u07",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "full": "brows_u07.png"
+   }
+  },
+  {
+   "id": "u08",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "full": "brows_u08.png"
+   }
+  },
+  {
+   "id": "u09",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "full": "brows_u09.png"
+   }
+  },
+  {
+   "id": "u10",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "full": "brows_u10.png"
+   }
+  },
+  {
+   "id": "u11",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "full": "brows_u11.png"
+   }
+  },
+  {
+   "id": "r12",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "full": "brows_r12.png"
+   }
+  },
+  {
+   "id": "r13",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "full": "brows_r13.png"
+   }
+  },
+  {
+   "id": "r14",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "full": "brows_r14.png"
+   }
+  },
+  {
+   "id": "r_slashed",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "full": "brows_r_slashed.png"
+   }
+  },
+  {
+   "id": "c_thin",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "full": "brows_c_thin.png"
+   }
+  }
+ ],
+ "noses": [
+  {
+   "id": "c01",
+   "rarity": "Common",
+   "files": {
+    "full": "noses_c01.png"
+   }
+  },
+  {
+   "id": "c02",
+   "rarity": "Common",
+   "files": {
+    "full": "noses_c02.png"
+   }
+  },
+  {
+   "id": "c03",
+   "rarity": "Common",
+   "files": {
+    "full": "noses_c03.png"
+   }
+  },
+  {
+   "id": "c04",
+   "rarity": "Common",
+   "files": {
+    "full": "noses_c04.png"
+   }
+  },
+  {
+   "id": "c05",
+   "rarity": "Common",
+   "files": {
+    "full": "noses_c05.png"
+   }
+  },
+  {
+   "id": "u06",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "noses_u06.png"
+   }
+  },
+  {
+   "id": "u07",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "noses_u07.png"
+   }
+  },
+  {
+   "id": "u08",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "noses_u08.png"
+   }
+  },
+  {
+   "id": "u09",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "noses_u09.png"
+   }
+  },
+  {
+   "id": "u10",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "noses_u10.png"
+   }
+  },
+  {
+   "id": "c_button",
+   "rarity": "Common",
+   "files": {
+    "full": "noses_c_button.png"
+   }
+  },
+  {
+   "id": "r_bandage",
+   "rarity": "Rare",
+   "files": {
+    "full": "noses_r_bandage.png"
+   }
+  },
+  {
+   "id": "r_broken",
+   "rarity": "Rare",
+   "files": {
+    "full": "noses_r_broken.png"
+   }
+  }
+ ],
+ "mouths": [
+  {
+   "id": "c01",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c01.png"
+   }
+  },
+  {
+   "id": "c02",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c02.png"
+   }
+  },
+  {
+   "id": "c03",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c03.png"
+   }
+  },
+  {
+   "id": "c04",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c04.png"
+   }
+  },
+  {
+   "id": "c05",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c05.png"
+   }
+  },
+  {
+   "id": "c06",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c06.png"
+   }
+  },
+  {
+   "id": "c07",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c07.png"
+   }
+  },
+  {
+   "id": "c08",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c08.png"
+   }
+  },
+  {
+   "id": "u01",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u01.png"
+   }
+  },
+  {
+   "id": "u02",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u02.png"
+   }
+  },
+  {
+   "id": "u03",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u03.png"
+   }
+  },
+  {
+   "id": "u04",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u04.png"
+   }
+  },
+  {
+   "id": "u05",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u05.png"
+   }
+  },
+  {
+   "id": "u06",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u06.png"
+   }
+  },
+  {
+   "id": "u07",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u07.png"
+   }
+  },
+  {
+   "id": "u_grin",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u_grin.png"
+   }
+  },
+  {
+   "id": "c_o",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c_o.png"
+   }
+  },
+  {
+   "id": "r_fang",
+   "rarity": "Rare",
+   "files": {
+    "full": "mouths_r_fang.png"
+   }
+  },
+  {
+   "id": "r_gritted",
+   "rarity": "Rare",
+   "files": {
+    "full": "mouths_r_gritted.png"
+   }
+  },
+  {
+   "id": "r_scarlip",
+   "rarity": "Rare",
+   "files": {
+    "full": "mouths_r_scarlip.png"
+   }
+  },
+  {
+   "id": "r_vampire",
+   "rarity": "Rare",
+   "files": {
+    "full": "mouths_r_vampire.png"
+   }
+  },
+  {
+   "id": "l_sharp",
+   "rarity": "Legendary",
+   "files": {
+    "full": "mouths_l_sharp.png"
+   }
+  },
+  {
+   "id": "l_stitched",
+   "rarity": "Legendary",
+   "files": {
+    "full": "mouths_l_stitched.png"
+   }
+  }
+ ],
+ "marks": [
+  {
+   "id": "warts",
+   "rarity": "Common",
+   "story": false,
+   "files": {
+    "full": "marks_warts.png"
+   }
+  },
+  {
+   "id": "pimples",
+   "rarity": "Common",
+   "story": false,
+   "files": {
+    "full": "marks_pimples.png"
+   }
+  },
+  {
+   "id": "dirt",
+   "rarity": "Common",
+   "story": false,
+   "files": {
+    "full": "marks_dirt.png"
+   }
+  },
+  {
+   "id": "bandaid",
+   "rarity": "Common",
+   "story": false,
+   "files": {
+    "full": "marks_bandaid.png"
+   }
+  },
+  {
+   "id": "black_eye",
+   "rarity": "Common",
+   "story": false,
+   "files": {
+    "full": "marks_black_eye.png"
+   }
+  },
+  {
+   "id": "burn",
+   "rarity": "Uncommon",
+   "story": false,
+   "files": {
+    "full": "marks_burn.png"
+   }
+  },
+  {
+   "id": "stitches",
+   "rarity": "Uncommon",
+   "story": false,
+   "files": {
+    "full": "marks_stitches.png"
+   }
+  },
+  {
+   "id": "tears",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_tears.png"
+   }
+  },
+  {
+   "id": "tribal",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_tribal.png"
+   }
+  },
+  {
+   "id": "star_freckles",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_star_freckles.png"
+   }
+  },
+  {
+   "id": "cracks",
+   "rarity": "Legendary",
+   "story": true,
+   "files": {
+    "full": "marks_cracks.png"
+   }
+  },
+  {
+   "id": "stubble",
+   "rarity": "Common",
+   "story": false,
+   "files": {
+    "full": "marks_stubble.png"
+   }
+  },
+  {
+   "id": "eye_scar",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_eye_scar.png"
+   }
+  },
+  {
+   "id": "warpaint",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_warpaint.png"
+   }
+  },
+  {
+   "id": "scales",
+   "rarity": "Legendary",
+   "story": false,
+   "files": {
+    "full": "marks_scales.png"
+   }
+  },
+  {
+   "id": "freckles",
+   "rarity": "Common",
+   "story": false,
+   "files": {
+    "full": "marks_freckles.png"
+   }
+  },
+  {
+   "id": "freckles_heavy",
+   "rarity": "Uncommon",
+   "story": false,
+   "files": {
+    "full": "marks_freckles_heavy.png"
+   }
+  },
+  {
+   "id": "mole",
+   "rarity": "Common",
+   "story": false,
+   "files": {
+    "full": "marks_mole.png"
+   }
+  },
+  {
+   "id": "beauty_mark",
+   "rarity": "Uncommon",
+   "story": false,
+   "files": {
+    "full": "marks_beauty_mark.png"
+   }
+  },
+  {
+   "id": "blush",
+   "rarity": "Uncommon",
+   "story": false,
+   "files": {
+    "full": "marks_blush.png"
+   }
+  },
+  {
+   "id": "nose_scar",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_nose_scar.png"
+   }
+  },
+  {
+   "id": "cheek_scar",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_cheek_scar.png"
+   }
+  },
+  {
+   "id": "x_scar",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_x_scar.png"
+   }
+  },
+  {
+   "id": "white_stripes",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_white_stripes.png"
+   }
+  },
+  {
+   "id": "blue_stripes",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_blue_stripes.png"
+   }
+  },
+  {
+   "id": "eyeliner",
+   "rarity": "Uncommon",
+   "story": false,
+   "files": {
+    "full": "marks_eyeliner.png"
+   }
+  },
+  {
+   "id": "gold_lines",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_gold_lines.png"
+   }
+  },
+  {
+   "id": "rune_tear",
+   "rarity": "Legendary",
+   "story": false,
+   "files": {
+    "full": "marks_rune_tear.png"
+   }
+  },
+  {
+   "id": "embers",
+   "rarity": "Legendary",
+   "story": false,
+   "files": {
+    "full": "marks_embers.png"
+   }
+  },
+  {
+   "id": "frost",
+   "rarity": "Legendary",
+   "story": false,
+   "files": {
+    "full": "marks_frost.png"
+   }
+  }
+ ]
+}

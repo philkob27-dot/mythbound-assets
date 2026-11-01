@@ -49,6 +49,10 @@ def eye_list():
     for i in range(8):  # Common: calm, open shapes
         add(f"c{i + 1:02d}", "Common", F(open=rng.uniform(54, 68), tilt=rng.uniform(0, 8), lidW=rng.uniform(12, 15), flick=rng.uniform(16, 30),
                                        iris=rng.uniform(0.62, 0.74), irisY=rng.uniform(0.14, 0.24), crease=1, hatch=0, hatchLow=0, seed=i + 1))
+    # c03 with the smaller iris (Philip picked it from the "iris klein" preview, 1 Nov)
+    for it in out:
+        if it["id"] == "c03":
+            it["f"]["iris"] /= 1.15
     add("c_round", "Common", F(open=82, tilt=-2, lidW=11, flick=10, iris=0.48, irisY=0.0, crease=0, hatch=0, lowerGap=0.1, seed=31))
     add("c_sleepy", "Common", F(open=40, tilt=-4, lidW=16, flick=14, iris=0.8, irisY=0.34, crease=2, hatch=0, hatchLow=2, seed=32))
     for i in range(10):  # Uncommon: sharper, the anime look

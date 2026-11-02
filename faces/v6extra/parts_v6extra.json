@@ -1,0 +1,277 @@
+{
+ "eyes": [
+  {
+   "id": "c_gentle",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c_gentle_white.png",
+    "iris": "eyes_c_gentle_iris.png",
+    "lines": "eyes_c_gentle_lines.png"
+   }
+  },
+  {
+   "id": "c_wide",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c_wide_white.png",
+    "iris": "eyes_c_wide_iris.png",
+    "lines": "eyes_c_wide_lines.png"
+   }
+  },
+  {
+   "id": "c_calm",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_c_calm_white.png",
+    "iris": "eyes_c_calm_iris.png",
+    "lines": "eyes_c_calm_lines.png"
+   }
+  },
+  {
+   "id": "u_fox",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u_fox_white.png",
+    "iris": "eyes_u_fox_iris.png",
+    "lines": "eyes_u_fox_lines.png"
+   }
+  },
+  {
+   "id": "u_hooded",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u_hooded_white.png",
+    "iris": "eyes_u_hooded_iris.png",
+    "lines": "eyes_u_hooded_lines.png"
+   }
+  },
+  {
+   "id": "u_bright",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_u_bright_white.png",
+    "iris": "eyes_u_bright_iris.png",
+    "lines": "eyes_u_bright_lines.png"
+   }
+  },
+  {
+   "id": "r_hawk",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_r_hawk_white.png",
+    "iris": "eyes_r_hawk_iris.png",
+    "lines": "eyes_r_hawk_lines.png"
+   }
+  },
+  {
+   "id": "r_scarred",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "white": "eyes_r_scarred_white.png",
+    "iris": "eyes_r_scarred_iris.png",
+    "lines": "eyes_r_scarred_lines.png"
+   }
+  },
+  {
+   "id": "l_storm",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_storm.png"
+   }
+  },
+  {
+   "id": "l_tide",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_tide.png"
+   }
+  },
+  {
+   "id": "l_moon",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_moon.png"
+   }
+  },
+  {
+   "id": "l_gold",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_gold.png"
+   }
+  },
+  {
+   "id": "l_crimson",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_crimson.png"
+   }
+  },
+  {
+   "id": "l_rune",
+   "rarity": "Legendary",
+   "mode": "fixed",
+   "files": {
+    "full": "eyes_l_rune.png"
+   }
+  }
+ ],
+ "brows": [
+  {
+   "id": "c_soft",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "full": "brows_c_soft.png"
+   }
+  },
+  {
+   "id": "c_straight",
+   "rarity": "Common",
+   "mode": "tint",
+   "files": {
+    "full": "brows_c_straight.png"
+   }
+  },
+  {
+   "id": "u_arch",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "full": "brows_u_arch.png"
+   }
+  },
+  {
+   "id": "u_worried",
+   "rarity": "Uncommon",
+   "mode": "tint",
+   "files": {
+    "full": "brows_u_worried.png"
+   }
+  },
+  {
+   "id": "r_heavy",
+   "rarity": "Rare",
+   "mode": "tint",
+   "files": {
+    "full": "brows_r_heavy.png"
+   }
+  }
+ ],
+ "noses": [],
+ "mouths": [
+  {
+   "id": "c_soft",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c_soft.png"
+   }
+  },
+  {
+   "id": "c_flat",
+   "rarity": "Common",
+   "files": {
+    "full": "mouths_c_flat.png"
+   }
+  },
+  {
+   "id": "u_smug",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u_smug.png"
+   }
+  },
+  {
+   "id": "u_frown",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u_frown.png"
+   }
+  },
+  {
+   "id": "u_laugh",
+   "rarity": "Uncommon",
+   "files": {
+    "full": "mouths_u_laugh.png"
+   }
+  },
+  {
+   "id": "r_fangs_low",
+   "rarity": "Rare",
+   "files": {
+    "full": "mouths_r_fangs_low.png"
+   }
+  }
+ ],
+ "marks": [
+  {
+   "id": "lightning",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_lightning.png"
+   }
+  },
+  {
+   "id": "sun_dots",
+   "rarity": "Uncommon",
+   "story": false,
+   "files": {
+    "full": "marks_sun_dots.png"
+   }
+  },
+  {
+   "id": "ash_smear",
+   "rarity": "Common",
+   "story": false,
+   "files": {
+    "full": "marks_ash_smear.png"
+   }
+  },
+  {
+   "id": "tide_lines",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_tide_lines.png"
+   }
+  },
+  {
+   "id": "moon_mark",
+   "rarity": "Rare",
+   "story": false,
+   "files": {
+    "full": "marks_moon_mark.png"
+   }
+  },
+  {
+   "id": "rune_brow",
+   "rarity": "Legendary",
+   "story": false,
+   "files": {
+    "full": "marks_rune_brow.png"
+   }
+  },
+  {
+   "id": "storm_veins",
+   "rarity": "Legendary",
+   "story": false,
+   "files": {
+    "full": "marks_storm_veins.png"
+   }
+  }
+ ]
+}

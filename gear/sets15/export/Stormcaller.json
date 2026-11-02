@@ -1,0 +1,3147 @@
+{
+ "set": "stormcaller",
+ "model": "Stormcaller",
+ "name": "Storm Caller Regalia",
+ "glow": [
+  150,
+  222,
+  255
+ ],
+ "axes": "Roblox studs: X = character right, Y = up, -Z = front; centres relative to the body part centre",
+ "objects": [
+  {
+   "object": "Armor_Stormcaller_Helm_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_Helm",
+   "part": "Copper_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.7514,
+    -0.1026
+   ],
+   "size": [
+    0.972,
+    0.4228,
+    1.2348
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 184
+  },
+  {
+   "object": "Armor_Stormcaller_Helm_Copper_Rare",
+   "entry": "Armor_Stormcaller_Helm",
+   "part": "Copper_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.1276,
+    -0.1127
+   ],
+   "size": [
+    0.732,
+    1.2952,
+    1.2446
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 324
+  },
+  {
+   "object": "Armor_Stormcaller_Helm_Copper_Legendary",
+   "entry": "Armor_Stormcaller_Helm",
+   "part": "Copper_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.8544,
+    0.1
+   ],
+   "size": [
+    1.636,
+    0.4872,
+    0.052
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 80
+  },
+  {
+   "object": "Armor_Stormcaller_Helm_Glow_Epic",
+   "entry": "Armor_Stormcaller_Helm",
+   "part": "Glow_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    150,
+    222,
+    255
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    150,
+    222,
+    255
+   ],
+   "center": [
+    -0.0,
+    1.19,
+    -0.1267
+   ],
+   "size": [
+    0.1331,
+    1.36,
+    1.2666
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Stormcaller_Helm_Glow_Legendary",
+   "entry": "Armor_Stormcaller_Helm",
+   "part": "Glow_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    150,
+    222,
+    255
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    150,
+    222,
+    255
+   ],
+   "center": [
+    -0.0,
+    1.11,
+    0.1
+   ],
+   "size": [
+    1.74,
+    0.2,
+    0.0866
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 144
+  },
+  {
+   "object": "Armor_Stormcaller_Helm_Robe_Common",
+   "entry": "Armor_Stormcaller_Helm",
+   "part": "Robe_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Robe",
+   "color": [
+    58,
+    70,
+    98
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.235,
+    0.1868
+   ],
+   "size": [
+    1.6311,
+    2.472,
+    1.7345
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 264
+  },
+  {
+   "object": "Armor_Stormcaller_Helm_Sky_Common",
+   "entry": "Armor_Stormcaller_Helm",
+   "part": "Sky_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.025,
+    -0.6805
+   ],
+   "size": [
+    1.399,
+    1.352,
+    0.08
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_Copper_Common",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "Copper_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.695,
+    -0.0606
+   ],
+   "size": [
+    1.5327,
+    0.47,
+    1.2189
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "Copper_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.12,
+    -0.05,
+    -0.62
+   ],
+   "size": [
+    0.71,
+    1.7,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_Copper_Rare",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "Copper_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.2347,
+    -0.161,
+    0.0611
+   ],
+   "size": [
+    1.1095,
+    1.9619,
+    1.7022
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 228
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_Glow_Epic",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "Glow_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    150,
+    222,
+    255
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    150,
+    222,
+    255
+   ],
+   "center": [
+    -0.0,
+    0.5,
+    -0.79
+   ],
+   "size": [
+    0.14,
+    0.14,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_GlowSway_Legendary",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "GlowSway_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    150,
+    222,
+    255
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    150,
+    222,
+    255
+   ],
+   "center": [
+    -0.0,
+    -1.575,
+    1.045
+   ],
+   "size": [
+    1.23,
+    0.6,
+    0.07
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 60
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_Leather_Rare",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "Leather_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.025,
+    -0.1166,
+    0.1441
+   ],
+   "size": [
+    1.5288,
+    1.8992,
+    1.4981
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 124
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_Robe_Common",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "Robe_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Robe",
+   "color": [
+    58,
+    70,
+    98
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.083,
+    1.838,
+    1.144
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_RobeSway_Common",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "RobeSway_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Robe",
+   "color": [
+    58,
+    70,
+    98
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.3877,
+    0.7123
+   ],
+   "size": [
+    2.1506,
+    2.4155,
+    0.6754
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 416
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_Robe_Rare",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "Robe_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Robe",
+   "color": [
+    58,
+    70,
+    98
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.5,
+    -0.73
+   ],
+   "size": [
+    0.52,
+    0.52,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 60
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_Sky_Common",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "Sky_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.12,
+    -0.05,
+    -0.58
+   ],
+   "size": [
+    0.62,
+    1.7,
+    0.08
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_SkySway_Common",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "SkySway_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.7048,
+    0.7317
+   ],
+   "size": [
+    2.07,
+    3.0096,
+    0.7366
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 528
+  },
+  {
+   "object": "Armor_Stormcaller_Chest_Sky_Rare",
+   "entry": "Armor_Stormcaller_Chest",
+   "part": "Sky_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0403,
+    0.515,
+    -0.76
+   ],
+   "size": [
+    0.2807,
+    0.31,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 264
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_Copper_Common",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "Copper_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.6
+   ],
+   "size": [
+    0.34,
+    0.3,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_CopperSway_Uncommon",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "CopperSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.4753,
+    -0.4053,
+    -0.2534
+   ],
+   "size": [
+    1.5906,
+    0.5306,
+    0.7932
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 200
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_CopperSway_Rare",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "CopperSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0102,
+    -0.4562,
+    -0.01
+   ],
+   "size": [
+    2.5616,
+    0.4295,
+    0.9665
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 564
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_GlassSway_Uncommon",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "GlassSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Glass",
+   "color": [
+    176,
+    214,
+    240
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    -1.12,
+    -0.52,
+    0.0
+   ],
+   "size": [
+    0.26,
+    0.26,
+    0.2473
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 100
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_GlassSway_Rare",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "GlassSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Glass",
+   "color": [
+    176,
+    214,
+    240
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    0.01,
+    -0.46,
+    -0.01
+   ],
+   "size": [
+    2.52,
+    0.38,
+    0.9273
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 300
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_GlowSway_Epic",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "GlowSway_Epic",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Epic",
+   "sway": true,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    150,
+    222,
+    255
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    150,
+    222,
+    255
+   ],
+   "center": [
+    -1.12,
+    -0.46,
+    -0.01
+   ],
+   "size": [
+    0.117,
+    0.237,
+    0.7813
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 108
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_GlowSway_Legendary",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "GlowSway_Legendary",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    150,
+    222,
+    255
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    150,
+    222,
+    255
+   ],
+   "center": [
+    1.12,
+    -0.5,
+    -0.15
+   ],
+   "size": [
+    0.135,
+    0.135,
+    0.1169
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_Leather_Common",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "Leather_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.151,
+    0.32,
+    1.164
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_LeatherSway_Uncommon",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "LeatherSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -1.12,
+    -0.265,
+    0.0
+   ],
+   "size": [
+    0.03,
+    0.25,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_LeatherSway_Rare",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "LeatherSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.185,
+    -0.01
+   ],
+   "size": [
+    2.27,
+    0.33,
+    0.71
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_RobeSway_Common",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "RobeSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Robe",
+   "color": [
+    58,
+    70,
+    98
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.6718,
+    0.0198
+   ],
+   "size": [
+    1.8275,
+    1.1168,
+    1.5587
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 120
+  },
+  {
+   "object": "Armor_Stormcaller_Belt_Sky_Uncommon",
+   "entry": "Armor_Stormcaller_Belt",
+   "part": "Sky_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0022,
+    0.0,
+    -0.64
+   ],
+   "size": [
+    0.0836,
+    0.22,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 24
+  },
+  {
+   "object": "Armor_Stormcaller_PauldronL_Copper_Common",
+   "entry": "Armor_Stormcaller_PauldronL",
+   "part": "Copper_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.08,
+    0.5,
+    0.0
+   ],
+   "size": [
+    1.2438,
+    0.36,
+    1.2308
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_PauldronL_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_PauldronL",
+   "part": "Copper_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.18,
+    0.22,
+    0.0
+   ],
+   "size": [
+    1.2857,
+    0.22,
+    1.2692
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_PauldronL_Copper_Rare",
+   "entry": "Armor_Stormcaller_PauldronL",
+   "part": "Copper_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.58,
+    0.86,
+    0.0
+   ],
+   "size": [
+    0.1361,
+    0.8,
+    0.64
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 360
+  },
+  {
+   "object": "Armor_Stormcaller_PauldronL_Copper_Epic",
+   "entry": "Armor_Stormcaller_PauldronL",
+   "part": "Copper_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.64,
+    1.1,
+    0.0
+   ],
+   "size": [
+    0.06,
+    0.4,
+    0.052
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Stormcaller_PauldronL_Glow_Epic",
+   "entry": "Armor_Stormcaller_PauldronL",
+   "part": "Glow_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    150,
+    222,
+    255
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    150,
+    222,
+    255
+   ],
+   "center": [
+    -0.64,
+    1.33,
+    0.0
+   ],
+   "size": [
+    0.1331,
+    0.14,
+    0.1331
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 64
+  },
+  {
+   "object": "Armor_Stormcaller_PauldronL_Robe_Common",
+   "entry": "Armor_Stormcaller_PauldronL",
+   "part": "Robe_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Robe",
+   "color": [
+    58,
+    70,
+    98
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_PauldronR_Robe_Common",
+   "entry": "Armor_Stormcaller_PauldronR",
+   "part": "Robe_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Robe",
+   "color": [
+    58,
+    70,
+    98
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.05,
+    0.1125,
+    0.0
+   ],
+   "size": [
+    1.2092,
+    1.075,
+    1.1998
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Stormcaller_PauldronR_Sky_Common",
+   "entry": "Armor_Stormcaller_PauldronR",
+   "part": "Sky_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.32,
+    0.0
+   ],
+   "size": [
+    1.261,
+    0.06,
+    1.262
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_PauldronR_SkySway_Rare",
+   "entry": "Armor_Stormcaller_PauldronR",
+   "part": "SkySway_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.6401,
+    0.158,
+    0.0
+   ],
+   "size": [
+    0.0798,
+    0.404,
+    0.9
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 60
+  },
+  {
+   "object": "Armor_Stormcaller_BracerL_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_BracerL",
+   "part": "Copper_Uncommon",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.221,
+    0.05,
+    1.222
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_BracerL_Copper_Rare",
+   "entry": "Armor_Stormcaller_BracerL",
+   "part": "Copper_Rare",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.221,
+    0.45,
+    1.222
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Stormcaller_BracerL_Glow_Epic",
+   "entry": "Armor_Stormcaller_BracerL",
+   "part": "Glow_Epic",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    150,
+    222,
+    255
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    150,
+    222,
+    255
+   ],
+   "center": [
+    -0.58,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    0.02,
+    0.04,
+    0.5
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Stormcaller_BracerL_Leather_Common",
+   "entry": "Armor_Stormcaller_BracerL",
+   "part": "Leather_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.141,
+    0.9,
+    1.142
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_BracerL_Sky_Common",
+   "entry": "Armor_Stormcaller_BracerL",
+   "part": "Sky_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.4,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.12,
+    1.202
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_BracerR_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_BracerR",
+   "part": "Copper_Uncommon",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.221,
+    0.05,
+    1.222
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_BracerR_Copper_Rare",
+   "entry": "Armor_Stormcaller_BracerR",
+   "part": "Copper_Rare",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.221,
+    0.45,
+    1.222
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Stormcaller_BracerR_Glow_Epic",
+   "entry": "Armor_Stormcaller_BracerR",
+   "part": "Glow_Epic",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    150,
+    222,
+    255
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    150,
+    222,
+    255
+   ],
+   "center": [
+    0.58,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    0.02,
+    0.04,
+    0.5
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Stormcaller_BracerR_Leather_Common",
+   "entry": "Armor_Stormcaller_BracerR",
+   "part": "Leather_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.141,
+    0.9,
+    1.142
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_BracerR_Sky_Common",
+   "entry": "Armor_Stormcaller_BracerR",
+   "part": "Sky_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.4,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.12,
+    1.202
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GloveL_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_GloveL",
+   "part": "Copper_Uncommon",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.57
+   ],
+   "size": [
+    0.6,
+    0.12,
+    0.04
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GloveL_Leather_Common",
+   "entry": "Armor_Stormcaller_GloveL",
+   "part": "Leather_Common",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.08,
+    0.36,
+    1.1
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GloveR_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_GloveR",
+   "part": "Copper_Uncommon",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.57
+   ],
+   "size": [
+    0.6,
+    0.12,
+    0.04
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GloveR_Leather_Common",
+   "entry": "Armor_Stormcaller_GloveR",
+   "part": "Leather_Common",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.08,
+    0.36,
+    1.1
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_ThighL_Robe_Common",
+   "entry": "Armor_Stormcaller_ThighL",
+   "part": "Robe_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Robe",
+   "color": [
+    58,
+    70,
+    98
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    1.093,
+    1.15,
+    1.073
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_ThighR_Robe_Common",
+   "entry": "Armor_Stormcaller_ThighR",
+   "part": "Robe_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Robe",
+   "color": [
+    58,
+    70,
+    98
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    1.093,
+    1.15,
+    1.073
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GreaveL_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_GreaveL",
+   "part": "Copper_Uncommon",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.35,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.06,
+    1.173
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GreaveL_Copper_Rare",
+   "entry": "Armor_Stormcaller_GreaveL",
+   "part": "Copper_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.003,
+    0.05,
+    -0.59
+   ],
+   "size": [
+    0.114,
+    0.3,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 24
+  },
+  {
+   "object": "Armor_Stormcaller_GreaveL_Leather_Common",
+   "entry": "Armor_Stormcaller_GreaveL",
+   "part": "Leather_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.133,
+    1.0,
+    1.113
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GreaveL_Sky_Common",
+   "entry": "Armor_Stormcaller_GreaveL",
+   "part": "Sky_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    -0.55
+   ],
+   "size": [
+    0.36,
+    0.5,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GreaveR_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_GreaveR",
+   "part": "Copper_Uncommon",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.35,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.06,
+    1.173
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GreaveR_Copper_Rare",
+   "entry": "Armor_Stormcaller_GreaveR",
+   "part": "Copper_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.003,
+    0.05,
+    -0.59
+   ],
+   "size": [
+    0.114,
+    0.3,
+    0.03
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 24
+  },
+  {
+   "object": "Armor_Stormcaller_GreaveR_Leather_Common",
+   "entry": "Armor_Stormcaller_GreaveR",
+   "part": "Leather_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.133,
+    1.0,
+    1.113
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_GreaveR_Sky_Common",
+   "entry": "Armor_Stormcaller_GreaveR",
+   "part": "Sky_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sky",
+   "color": [
+    122,
+    172,
+    222
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.05,
+    -0.55
+   ],
+   "size": [
+    0.36,
+    0.5,
+    0.06
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_BootL_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_BootL",
+   "part": "Copper_Uncommon",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.05,
+    -0.62
+   ],
+   "size": [
+    0.5,
+    0.12,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_BootL_Leather_Common",
+   "entry": "Armor_Stormcaller_BootL",
+   "part": "Leather_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.06
+   ],
+   "size": [
+    1.1,
+    0.38,
+    1.24
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_BootR_Copper_Uncommon",
+   "entry": "Armor_Stormcaller_BootR",
+   "part": "Copper_Uncommon",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Copper",
+   "color": [
+    198,
+    112,
+    60
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    -0.62
+   ],
+   "size": [
+    0.5,
+    0.12,
+    0.06
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Stormcaller_BootR_Leather_Common",
+   "entry": "Armor_Stormcaller_BootR",
+   "part": "Leather_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    72,
+    56,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.06
+   ],
+   "size": [
+    1.1,
+    0.38,
+    1.24
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  }
+ ],
+ "tris": {
+  "Common": 2560,
+  "Uncommon": 3564,
+  "Rare": 6108,
+  "Epic": 6440,
+  "Legendary": 6760
+ },
+ "largestMesh": [
+  564,
+  "Armor_Stormcaller_Belt_CopperSway_Rare"
+ ],
+ "slots": {
+  "Head": [
+   "Armor_Stormcaller_Helm"
+  ],
+  "Chest": [
+   "Armor_Stormcaller_Chest",
+   "Armor_Stormcaller_Belt"
+  ],
+  "Shoulders": [
+   "Armor_Stormcaller_PauldronL",
+   "Armor_Stormcaller_PauldronR"
+  ],
+  "Arms": [
+   "Armor_Stormcaller_BracerL",
+   "Armor_Stormcaller_BracerR",
+   "Armor_Stormcaller_GloveL",
+   "Armor_Stormcaller_GloveR"
+  ],
+  "Legs": [
+   "Armor_Stormcaller_ThighL",
+   "Armor_Stormcaller_ThighR",
+   "Armor_Stormcaller_GreaveL",
+   "Armor_Stormcaller_GreaveR",
+   "Armor_Stormcaller_BootL",
+   "Armor_Stormcaller_BootR"
+  ]
+ }
+}

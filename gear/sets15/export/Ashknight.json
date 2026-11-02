@@ -1,0 +1,3082 @@
+{
+ "set": "ashknight",
+ "model": "Ashknight",
+ "name": "Ashfall Knight",
+ "glow": [
+  255,
+  122,
+  60
+ ],
+ "axes": "Roblox studs: X = character right, Y = up, -Z = front; centres relative to the body part centre",
+ "objects": [
+  {
+   "object": "Armor_Ashknight_Helm_Ash_Rare",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Ash_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    196,
+    192,
+    186
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.308,
+    0.92,
+    -0.12
+   ],
+   "size": [
+    0.512,
+    0.1584,
+    0.472
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 192
+  },
+  {
+   "object": "Armor_Ashknight_Helm_Ashcloth_Common",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Ashcloth_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    152,
+    148,
+    142
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.345,
+    0.1
+   ],
+   "size": [
+    0.14,
+    0.55,
+    1.5
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Ashknight_Helm_AshclothSway_Rare",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "AshclothSway_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    152,
+    148,
+    142
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.4731,
+    0.9295
+   ],
+   "size": [
+    0.4227,
+    1.0537,
+    0.4972
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 108
+  },
+  {
+   "object": "Armor_Ashknight_Helm_Char_Common",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Char_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Char",
+   "color": [
+    34,
+    30,
+    30
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.18,
+    -0.71
+   ],
+   "size": [
+    0.9,
+    0.1,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_Helm_Char_Uncommon",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Char_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Char",
+   "color": [
+    34,
+    30,
+    30
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.6225,
+    0.085
+   ],
+   "size": [
+    0.92,
+    2.155,
+    1.63
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 288
+  },
+  {
+   "object": "Armor_Ashknight_Helm_Char_Legendary",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Char_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Char",
+   "color": [
+    34,
+    30,
+    30
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.36,
+    -0.1
+   ],
+   "size": [
+    1.4813,
+    0.1094,
+    0.0866
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 40
+  },
+  {
+   "object": "Armor_Ashknight_Helm_Glow_Epic",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Glow_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    122,
+    60
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    122,
+    60
+   ],
+   "center": [
+    -0.0,
+    0.18,
+    -0.735
+   ],
+   "size": [
+    0.7,
+    0.04,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Ashknight_Helm_Plate_Common",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Plate_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.175,
+    0.0
+   ],
+   "size": [
+    1.4,
+    1.61,
+    1.4
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ashknight_Helm_Silver_Common",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Silver_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.3,
+    -0.2325
+   ],
+   "size": [
+    0.16,
+    1.7,
+    1.025
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 72
+  },
+  {
+   "object": "Armor_Ashknight_Helm_Silver_Uncommon",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Silver_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.32,
+    -0.72
+   ],
+   "size": [
+    1.0,
+    0.1,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_Helm_Silver_Legendary",
+   "entry": "Armor_Ashknight_Helm",
+   "part": "Silver_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.0966,
+    -0.1
+   ],
+   "size": [
+    1.4462,
+    0.504,
+    0.1039
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 40
+  },
+  {
+   "object": "Armor_Ashknight_Chest_AshclothSway_Common",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "AshclothSway_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    152,
+    148,
+    142
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.42,
+    -0.4714,
+    0.7251
+   ],
+   "size": [
+    1.4341,
+    2.6629,
+    0.6004
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 248
+  },
+  {
+   "object": "Armor_Ashknight_Chest_CharSway_Common",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "CharSway_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Char",
+   "color": [
+    34,
+    30,
+    30
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.42,
+    -0.6389,
+    0.7042
+   ],
+   "size": [
+    1.5201,
+    2.9578,
+    0.5823
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 248
+  },
+  {
+   "object": "Armor_Ashknight_Chest_Char_Uncommon",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "Char_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Char",
+   "color": [
+    34,
+    30,
+    30
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0859,
+    -0.1927,
+    -0.66
+   ],
+   "size": [
+    1.4516,
+    0.7701,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Ashknight_Chest_Char_Rare",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "Char_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Char",
+   "color": [
+    34,
+    30,
+    30
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.45,
+    0.323,
+    -0.71
+   ],
+   "size": [
+    0.45,
+    0.504,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 16
+  },
+  {
+   "object": "Armor_Ashknight_Chest_Glow_Epic",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "Glow_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    122,
+    60
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    122,
+    60
+   ],
+   "center": [
+    -0.0902,
+    -0.0765,
+    -0.7175
+   ],
+   "size": [
+    1.3635,
+    0.9341,
+    0.105
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 48
+  },
+  {
+   "object": "Armor_Ashknight_Chest_GlowSway_Legendary",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "GlowSway_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    122,
+    60
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    122,
+    60
+   ],
+   "center": [
+    -0.42,
+    -1.85,
+    1.05
+   ],
+   "size": [
+    0.98,
+    0.13,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 48
+  },
+  {
+   "object": "Armor_Ashknight_Chest_Leather_Common",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "Leather_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    82,
+    62,
+    50
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.043,
+    1.798,
+    1.104
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_Chest_Plate_Common",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "Plate_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.145,
+    -0.0515
+   ],
+   "size": [
+    2.2233,
+    1.87,
+    1.357
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 176
+  },
+  {
+   "object": "Armor_Ashknight_Chest_Silver_Common",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "Silver_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.86,
+    0.02
+   ],
+   "size": [
+    2.28,
+    0.14,
+    1.42
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ashknight_Chest_Silver_Uncommon",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "Silver_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.2,
+    -0.02
+   ],
+   "size": [
+    2.06,
+    0.06,
+    1.26
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_Chest_Silver_Rare",
+   "entry": "Armor_Ashknight_Chest",
+   "part": "Silver_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.45,
+    0.3177,
+    -0.7025
+   ],
+   "size": [
+    0.54,
+    0.6194,
+    0.105
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 96
+  },
+  {
+   "object": "Armor_Ashknight_Belt_AshclothSway_Common",
+   "entry": "Armor_Ashknight_Belt",
+   "part": "AshclothSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    152,
+    148,
+    142
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.5754,
+    0.6546
+   ],
+   "size": [
+    1.819,
+    0.9107,
+    0.2468
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 108
+  },
+  {
+   "object": "Armor_Ashknight_Belt_Char_Rare",
+   "entry": "Armor_Ashknight_Belt",
+   "part": "Char_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Char",
+   "color": [
+    34,
+    30,
+    30
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.038,
+    -0.68
+   ],
+   "size": [
+    0.3,
+    0.336,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 16
+  },
+  {
+   "object": "Armor_Ashknight_Belt_PlateSway_Common",
+   "entry": "Armor_Ashknight_Belt",
+   "part": "PlateSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.44,
+    -0.13
+   ],
+   "size": [
+    2.38,
+    0.68,
+    1.18
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 220
+  },
+  {
+   "object": "Armor_Ashknight_Belt_Silver_Common",
+   "entry": "Armor_Ashknight_Belt",
+   "part": "Silver_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.171,
+    0.3,
+    1.184
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_Belt_SilverSway_Uncommon",
+   "entry": "Armor_Ashknight_Belt",
+   "part": "SilverSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.76,
+    -0.73
+   ],
+   "size": [
+    1.8,
+    0.06,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Ashknight_Belt_Silver_Rare",
+   "entry": "Armor_Ashknight_Belt",
+   "part": "Silver_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.0415,
+    -0.6725
+   ],
+   "size": [
+    0.36,
+    0.413,
+    0.105
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 96
+  },
+  {
+   "object": "Armor_Ashknight_PauldronL_Ash_Uncommon",
+   "entry": "Armor_Ashknight_PauldronL",
+   "part": "Ash_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    196,
+    192,
+    186
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.16,
+    0.86,
+    -0.025
+   ],
+   "size": [
+    0.64,
+    0.198,
+    0.59
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 192
+  },
+  {
+   "object": "Armor_Ashknight_PauldronL_Glow_Epic",
+   "entry": "Armor_Ashknight_PauldronL",
+   "part": "Glow_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    122,
+    60
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    122,
+    60
+   ],
+   "center": [
+    -0.12,
+    0.3,
+    -0.8
+   ],
+   "size": [
+    0.6,
+    0.033,
+    0.0249
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Ashknight_PauldronL_Leather_Common",
+   "entry": "Armor_Ashknight_PauldronL",
+   "part": "Leather_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    82,
+    62,
+    50
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_PauldronL_Plate_Common",
+   "entry": "Armor_Ashknight_PauldronL",
+   "part": "Plate_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.1744,
+    0.515,
+    0.0
+   ],
+   "size": [
+    1.4987,
+    0.63,
+    1.3717
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ashknight_PauldronL_Plate_Rare",
+   "entry": "Armor_Ashknight_PauldronL",
+   "part": "Plate_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.12,
+    0.42,
+    -0.72
+   ],
+   "size": [
+    1.05,
+    0.6914,
+    0.221
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_PauldronL_Silver_Uncommon",
+   "entry": "Armor_Ashknight_PauldronL",
+   "part": "Silver_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.22,
+    0.19,
+    0.0
+   ],
+   "size": [
+    1.44,
+    0.06,
+    1.4
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_PauldronL_Silver_Rare",
+   "entry": "Armor_Ashknight_PauldronL",
+   "part": "Silver_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.12,
+    0.72,
+    -0.79
+   ],
+   "size": [
+    1.07,
+    0.0823,
+    0.0498
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_PauldronR_Ash_Uncommon",
+   "entry": "Armor_Ashknight_PauldronR",
+   "part": "Ash_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    196,
+    192,
+    186
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    0.14,
+    0.86,
+    -0.025
+   ],
+   "size": [
+    0.64,
+    0.198,
+    0.59
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 192
+  },
+  {
+   "object": "Armor_Ashknight_PauldronR_Leather_Common",
+   "entry": "Armor_Ashknight_PauldronR",
+   "part": "Leather_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    82,
+    62,
+    50
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_PauldronR_Plate_Common",
+   "entry": "Armor_Ashknight_PauldronR",
+   "part": "Plate_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.2026,
+    0.515,
+    0.0
+   ],
+   "size": [
+    1.4424,
+    0.63,
+    1.3717
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ashknight_PauldronR_Plate_Rare",
+   "entry": "Armor_Ashknight_PauldronR",
+   "part": "Plate_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.2,
+    0.45,
+    -0.79
+   ],
+   "size": [
+    0.44,
+    0.429,
+    0.04
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 52
+  },
+  {
+   "object": "Armor_Ashknight_PauldronR_Silver_Uncommon",
+   "entry": "Armor_Ashknight_PauldronR",
+   "part": "Silver_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.22,
+    0.19,
+    0.0
+   ],
+   "size": [
+    1.44,
+    0.06,
+    1.4
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_PauldronR_Silver_Rare",
+   "entry": "Armor_Ashknight_PauldronR",
+   "part": "Silver_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.2,
+    0.45,
+    -0.75
+   ],
+   "size": [
+    0.6,
+    0.585,
+    0.06
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 52
+  },
+  {
+   "object": "Armor_Ashknight_BracerL_Plate_Common",
+   "entry": "Armor_Ashknight_BracerL",
+   "part": "Plate_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.95,
+    1.202
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_BracerL_Plate_Rare",
+   "entry": "Armor_Ashknight_BracerL",
+   "part": "Plate_Rare",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.5,
+    -0.05
+   ],
+   "size": [
+    1.2843,
+    0.2,
+    1.2881
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_BracerL_Silver_Common",
+   "entry": "Armor_Ashknight_BracerL",
+   "part": "Silver_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.38,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.06,
+    1.282
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_BracerL_Silver_Uncommon",
+   "entry": "Armor_Ashknight_BracerL",
+   "part": "Silver_Uncommon",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.48,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.06,
+    1.282
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_BracerR_Plate_Common",
+   "entry": "Armor_Ashknight_BracerR",
+   "part": "Plate_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.95,
+    1.202
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_BracerR_Plate_Rare",
+   "entry": "Armor_Ashknight_BracerR",
+   "part": "Plate_Rare",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.5,
+    -0.05
+   ],
+   "size": [
+    1.2843,
+    0.2,
+    1.2881
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_BracerR_Silver_Common",
+   "entry": "Armor_Ashknight_BracerR",
+   "part": "Silver_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.38,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.06,
+    1.282
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_BracerR_Silver_Uncommon",
+   "entry": "Armor_Ashknight_BracerR",
+   "part": "Silver_Uncommon",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.48,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.06,
+    1.282
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_GloveL_Plate_Common",
+   "entry": "Armor_Ashknight_GloveL",
+   "part": "Plate_Common",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.12,
+    0.38,
+    1.14
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_GloveL_Silver_Uncommon",
+   "entry": "Armor_Ashknight_GloveL",
+   "part": "Silver_Uncommon",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.08,
+    -0.58
+   ],
+   "size": [
+    0.7,
+    0.08,
+    0.04
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_GloveR_Plate_Common",
+   "entry": "Armor_Ashknight_GloveR",
+   "part": "Plate_Common",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.12,
+    0.38,
+    1.14
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_GloveR_Silver_Uncommon",
+   "entry": "Armor_Ashknight_GloveR",
+   "part": "Silver_Uncommon",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.08,
+    -0.58
+   ],
+   "size": [
+    0.7,
+    0.08,
+    0.04
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_ThighL_Plate_Common",
+   "entry": "Armor_Ashknight_ThighL",
+   "part": "Plate_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.15,
+    0.0
+   ],
+   "size": [
+    1.153,
+    1.0,
+    1.133
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_ThighL_Silver_Uncommon",
+   "entry": "Armor_Ashknight_ThighL",
+   "part": "Silver_Uncommon",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.06,
+    1.173
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_ThighR_Plate_Common",
+   "entry": "Armor_Ashknight_ThighR",
+   "part": "Plate_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.15,
+    0.0
+   ],
+   "size": [
+    1.153,
+    1.0,
+    1.133
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_ThighR_Silver_Uncommon",
+   "entry": "Armor_Ashknight_ThighR",
+   "part": "Silver_Uncommon",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.06,
+    1.173
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_GreaveL_Char_Rare",
+   "entry": "Armor_Ashknight_GreaveL",
+   "part": "Char_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Char",
+   "color": [
+    34,
+    30,
+    30
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.0144,
+    0.4377,
+    -0.73
+   ],
+   "size": [
+    0.1375,
+    0.3825,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 80
+  },
+  {
+   "object": "Armor_Ashknight_GreaveL_Plate_Common",
+   "entry": "Armor_Ashknight_GreaveL",
+   "part": "Plate_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.005,
+    -0.0568
+   ],
+   "size": [
+    1.193,
+    1.25,
+    1.2865
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ashknight_GreaveL_Silver_Uncommon",
+   "entry": "Armor_Ashknight_GreaveL",
+   "part": "Silver_Uncommon",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    -0.0432,
+    -0.0667
+   ],
+   "size": [
+    1.213,
+    1.1736,
+    1.3265
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 80
+  },
+  {
+   "object": "Armor_Ashknight_GreaveR_Char_Rare",
+   "entry": "Armor_Ashknight_GreaveR",
+   "part": "Char_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Char",
+   "color": [
+    34,
+    30,
+    30
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.0144,
+    0.4377,
+    -0.73
+   ],
+   "size": [
+    0.1375,
+    0.3825,
+    0.02
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 80
+  },
+  {
+   "object": "Armor_Ashknight_GreaveR_Plate_Common",
+   "entry": "Armor_Ashknight_GreaveR",
+   "part": "Plate_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.005,
+    -0.0568
+   ],
+   "size": [
+    1.193,
+    1.25,
+    1.2865
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ashknight_GreaveR_Silver_Uncommon",
+   "entry": "Armor_Ashknight_GreaveR",
+   "part": "Silver_Uncommon",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.0432,
+    -0.0667
+   ],
+   "size": [
+    1.213,
+    1.1736,
+    1.3265
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 80
+  },
+  {
+   "object": "Armor_Ashknight_BootL_Plate_Common",
+   "entry": "Armor_Ashknight_BootL",
+   "part": "Plate_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.08
+   ],
+   "size": [
+    1.16,
+    0.42,
+    1.3
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_BootL_Silver_Rare",
+   "entry": "Armor_Ashknight_BootL",
+   "part": "Silver_Rare",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.05,
+    0.72
+   ],
+   "size": [
+    0.12,
+    0.18,
+    0.34
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ashknight_BootR_Plate_Common",
+   "entry": "Armor_Ashknight_BootR",
+   "part": "Plate_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Plate",
+   "color": [
+    122,
+    118,
+    116
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.08
+   ],
+   "size": [
+    1.16,
+    0.42,
+    1.3
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ashknight_BootR_Silver_Rare",
+   "entry": "Armor_Ashknight_BootR",
+   "part": "Silver_Rare",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    204,
+    208,
+    214
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.72
+   ],
+   "size": [
+    0.12,
+    0.18,
+    0.34
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 56
+  }
+ ],
+ "tris": {
+  "Common": 2280,
+  "Uncommon": 3720,
+  "Rare": 4796,
+  "Epic": 4868,
+  "Legendary": 4996
+ },
+ "largestMesh": [
+  288,
+  "Armor_Ashknight_Helm_Char_Uncommon"
+ ],
+ "slots": {
+  "Head": [
+   "Armor_Ashknight_Helm"
+  ],
+  "Chest": [
+   "Armor_Ashknight_Chest",
+   "Armor_Ashknight_Belt"
+  ],
+  "Shoulders": [
+   "Armor_Ashknight_PauldronL",
+   "Armor_Ashknight_PauldronR"
+  ],
+  "Arms": [
+   "Armor_Ashknight_BracerL",
+   "Armor_Ashknight_BracerR",
+   "Armor_Ashknight_GloveL",
+   "Armor_Ashknight_GloveR"
+  ],
+  "Legs": [
+   "Armor_Ashknight_ThighL",
+   "Armor_Ashknight_ThighR",
+   "Armor_Ashknight_GreaveL",
+   "Armor_Ashknight_GreaveR",
+   "Armor_Ashknight_BootL",
+   "Armor_Ashknight_BootR"
+  ]
+ }
+}

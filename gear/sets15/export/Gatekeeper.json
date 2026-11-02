@@ -1,0 +1,3262 @@
+{
+ "set": "gatekeeper",
+ "model": "Gatekeeper",
+ "name": "Abyss Gatekeeper",
+ "glow": [
+  90,
+  255,
+  230
+ ],
+ "axes": "Roblox studs: X = character right, Y = up, -Z = front; centres relative to the body part centre",
+ "objects": [
+  {
+   "object": "Armor_Gatekeeper_Helm_Glow_Epic",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "Glow_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    90,
+    255,
+    230
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    90,
+    255,
+    230
+   ],
+   "center": [
+    -0.0,
+    0.05,
+    -0.735
+   ],
+   "size": [
+    0.72,
+    0.06,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_Lobster_Uncommon",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "Lobster_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.95,
+    -0.11
+   ],
+   "size": [
+    0.4642,
+    0.26,
+    0.5881
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_Lobster_Rare",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "Lobster_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.6856,
+    0.6372
+   ],
+   "size": [
+    0.9,
+    0.5488,
+    0.9624
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 104
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_LobsterSway_Rare",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "LobsterSway_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.7778,
+    1.207,
+    -0.45
+   ],
+   "size": [
+    1.2056,
+    0.7472,
+    0.7612
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 108
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_LobsterSway_Epic",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "LobsterSway_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.2756,
+    1.4111,
+    -0.35
+   ],
+   "size": [
+    1.01,
+    1.1389,
+    0.7612
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 108
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_Nacre_Common",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "Nacre_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.1225,
+    0.0
+   ],
+   "size": [
+    1.419,
+    1.557,
+    1.421
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_Silver_Common",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "Silver_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    -0.75
+   ],
+   "size": [
+    0.69,
+    0.44,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 220
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_Silver_Uncommon",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "Silver_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.32,
+    -0.72
+   ],
+   "size": [
+    1.1,
+    0.1,
+    0.1
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_Silver_Legendary",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "Silver_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.3895,
+    -0.25
+   ],
+   "size": [
+    0.798,
+    0.879,
+    0.098
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 188
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_Steel_Common",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "Steel_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    62,
+    74,
+    84
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    -0.72
+   ],
+   "size": [
+    0.8,
+    0.4,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_Helm_Steel_Legendary",
+   "entry": "Armor_Gatekeeper_Helm",
+   "part": "Steel_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    62,
+    74,
+    84
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.3475,
+    -0.24
+   ],
+   "size": [
+    0.392,
+    0.795,
+    0.042
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Gatekeeper_Chest_Glow_Epic",
+   "entry": "Armor_Gatekeeper_Chest",
+   "part": "Glow_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    90,
+    255,
+    230
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    90,
+    255,
+    230
+   ],
+   "center": [
+    -0.0,
+    0.145,
+    -0.766
+   ],
+   "size": [
+    0.0475,
+    0.114,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Gatekeeper_Chest_KelpSway_Common",
+   "entry": "Armor_Gatekeeper_Chest",
+   "part": "KelpSway_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Kelp",
+   "color": [
+    52,
+    94,
+    58
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.1198,
+    -0.6557,
+    0.885
+   ],
+   "size": [
+    1.7814,
+    2.9914,
+    0.5299
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 320
+  },
+  {
+   "object": "Armor_Gatekeeper_Chest_KelpSway_Rare",
+   "entry": "Armor_Gatekeeper_Chest",
+   "part": "KelpSway_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Kelp",
+   "color": [
+    52,
+    94,
+    58
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.1197,
+    -0.626,
+    0.8801
+   ],
+   "size": [
+    1.7811,
+    2.932,
+    0.5201
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 320
+  },
+  {
+   "object": "Armor_Gatekeeper_Chest_Nacre_Common",
+   "entry": "Armor_Gatekeeper_Chest",
+   "part": "Nacre_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.04,
+    -0.02
+   ],
+   "size": [
+    2.2626,
+    1.62,
+    1.2942
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_Chest_Nacre_Rare",
+   "entry": "Armor_Gatekeeper_Chest",
+   "part": "Nacre_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.84,
+    0.74
+   ],
+   "size": [
+    2.02,
+    0.32,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_Chest_Silver_Common",
+   "entry": "Armor_Gatekeeper_Chest",
+   "part": "Silver_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.3607,
+    -0.0033
+   ],
+   "size": [
+    2.32,
+    1.4215,
+    1.5265
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 388
+  },
+  {
+   "object": "Armor_Gatekeeper_Chest_Silver_Uncommon",
+   "entry": "Armor_Gatekeeper_Chest",
+   "part": "Silver_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.135,
+    -0.02
+   ],
+   "size": [
+    2.18,
+    1.39,
+    1.34
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Gatekeeper_Chest_Steel_Common",
+   "entry": "Armor_Gatekeeper_Chest",
+   "part": "Steel_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    62,
+    74,
+    84
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.365,
+    -0.0616
+   ],
+   "size": [
+    1.4553,
+    1.43,
+    1.2989
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 220
+  },
+  {
+   "object": "Armor_Gatekeeper_Chest_Teal_Common",
+   "entry": "Armor_Gatekeeper_Chest",
+   "part": "Teal_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Teal",
+   "color": [
+    30,
+    108,
+    116
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.043,
+    1.798,
+    1.104
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_Belt_NacreSway_Common",
+   "entry": "Armor_Gatekeeper_Belt",
+   "part": "NacreSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.47,
+    0.005
+   ],
+   "size": [
+    2.38,
+    0.72,
+    1.43
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 220
+  },
+  {
+   "object": "Armor_Gatekeeper_Belt_Silver_Common",
+   "entry": "Armor_Gatekeeper_Belt",
+   "part": "Silver_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.191,
+    0.34,
+    1.204
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_Belt_SilverSway_Uncommon",
+   "entry": "Armor_Gatekeeper_Belt",
+   "part": "SilverSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.82,
+    -0.72
+   ],
+   "size": [
+    1.88,
+    0.07,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_Belt_Silver_Rare",
+   "entry": "Armor_Gatekeeper_Belt",
+   "part": "Silver_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0686,
+    -0.678
+   ],
+   "size": [
+    0.4104,
+    0.4772,
+    0.096
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 300
+  },
+  {
+   "object": "Armor_Gatekeeper_Belt_Steel_Rare",
+   "entry": "Armor_Gatekeeper_Belt",
+   "part": "Steel_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    62,
+    74,
+    84
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0424,
+    -0.65
+   ],
+   "size": [
+    0.1416,
+    0.4247,
+    0.042
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_Belt_TealSway_Common",
+   "entry": "Armor_Gatekeeper_Belt",
+   "part": "TealSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Teal",
+   "color": [
+    30,
+    108,
+    116
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.6666,
+    -0.6998
+   ],
+   "size": [
+    0.5975,
+    1.1068,
+    0.1995
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronL_Glow_Epic",
+   "entry": "Armor_Gatekeeper_PauldronL",
+   "part": "Glow_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    90,
+    255,
+    230
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    90,
+    255,
+    230
+   ],
+   "center": [
+    -0.5,
+    1.2,
+    -0.12
+   ],
+   "size": [
+    0.12,
+    0.12,
+    0.1039
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronL_Lobster_Common",
+   "entry": "Armor_Gatekeeper_PauldronL",
+   "part": "Lobster_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.135,
+    0.61,
+    0.0
+   ],
+   "size": [
+    1.3549,
+    0.46,
+    1.3084
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronL_Lobster_Uncommon",
+   "entry": "Armor_Gatekeeper_PauldronL",
+   "part": "Lobster_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.2,
+    0.28,
+    0.0
+   ],
+   "size": [
+    1.3649,
+    0.24,
+    1.3084
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronL_Lobster_Rare",
+   "entry": "Armor_Gatekeeper_PauldronL",
+   "part": "Lobster_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.6841,
+    1.3734,
+    0.0
+   ],
+   "size": [
+    0.774,
+    0.8799,
+    0.22
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 32
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronL_Silver_Common",
+   "entry": "Armor_Gatekeeper_PauldronL",
+   "part": "Silver_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.135,
+    0.5,
+    0.0
+   ],
+   "size": [
+    1.41,
+    0.26,
+    1.36
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronL_Silver_Uncommon",
+   "entry": "Armor_Gatekeeper_PauldronL",
+   "part": "Silver_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.2,
+    0.17,
+    0.0
+   ],
+   "size": [
+    1.42,
+    0.04,
+    1.36
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronL_Silver_Rare",
+   "entry": "Armor_Gatekeeper_PauldronL",
+   "part": "Silver_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.45,
+    0.95,
+    0.0
+   ],
+   "size": [
+    0.5374,
+    0.3352,
+    0.264
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronL_Teal_Common",
+   "entry": "Armor_Gatekeeper_PauldronL",
+   "part": "Teal_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Teal",
+   "color": [
+    30,
+    108,
+    116
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronR_Glow_Epic",
+   "entry": "Armor_Gatekeeper_PauldronR",
+   "part": "Glow_Epic",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    90,
+    255,
+    230
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    90,
+    255,
+    230
+   ],
+   "center": [
+    0.72,
+    0.5,
+    0.0
+   ],
+   "size": [
+    0.03,
+    0.03,
+    0.9
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronR_Lobster_Common",
+   "entry": "Armor_Gatekeeper_PauldronR",
+   "part": "Lobster_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.135,
+    0.61,
+    0.0
+   ],
+   "size": [
+    1.3549,
+    0.46,
+    1.3084
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronR_Lobster_Uncommon",
+   "entry": "Armor_Gatekeeper_PauldronR",
+   "part": "Lobster_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.2,
+    0.28,
+    0.0
+   ],
+   "size": [
+    1.3649,
+    0.24,
+    1.3084
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronR_Lobster_Rare",
+   "entry": "Armor_Gatekeeper_PauldronR",
+   "part": "Lobster_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.45,
+    0.92,
+    0.0
+   ],
+   "size": [
+    0.3842,
+    0.35,
+    0.4821
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronR_Silver_Common",
+   "entry": "Armor_Gatekeeper_PauldronR",
+   "part": "Silver_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.135,
+    0.5,
+    0.0
+   ],
+   "size": [
+    1.41,
+    0.26,
+    1.36
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronR_Silver_Uncommon",
+   "entry": "Armor_Gatekeeper_PauldronR",
+   "part": "Silver_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.2,
+    0.17,
+    0.0
+   ],
+   "size": [
+    1.42,
+    0.04,
+    1.36
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_PauldronR_Teal_Common",
+   "entry": "Armor_Gatekeeper_PauldronR",
+   "part": "Teal_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Teal",
+   "color": [
+    30,
+    108,
+    116
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BracerL_Lobster_Uncommon",
+   "entry": "Armor_Gatekeeper_BracerL",
+   "part": "Lobster_Uncommon",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.12,
+    0.0
+   ],
+   "size": [
+    1.261,
+    0.08,
+    1.262
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BracerL_Nacre_Common",
+   "entry": "Armor_Gatekeeper_BracerL",
+   "part": "Nacre_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.95,
+    1.202
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BracerL_Silver_Common",
+   "entry": "Armor_Gatekeeper_BracerL",
+   "part": "Silver_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.38,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.07,
+    1.282
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BracerL_Silver_Rare",
+   "entry": "Armor_Gatekeeper_BracerL",
+   "part": "Silver_Rare",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.48,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.07,
+    1.282
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BracerR_Lobster_Uncommon",
+   "entry": "Armor_Gatekeeper_BracerR",
+   "part": "Lobster_Uncommon",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.12,
+    0.0
+   ],
+   "size": [
+    1.261,
+    0.08,
+    1.262
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BracerR_Nacre_Common",
+   "entry": "Armor_Gatekeeper_BracerR",
+   "part": "Nacre_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.95,
+    1.202
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BracerR_Silver_Common",
+   "entry": "Armor_Gatekeeper_BracerR",
+   "part": "Silver_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.38,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.07,
+    1.282
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BracerR_Silver_Rare",
+   "entry": "Armor_Gatekeeper_BracerR",
+   "part": "Silver_Rare",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.48,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.07,
+    1.282
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GloveL_Silver_Common",
+   "entry": "Armor_Gatekeeper_GloveL",
+   "part": "Silver_Common",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.12,
+    0.38,
+    1.14
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GloveL_Steel_Uncommon",
+   "entry": "Armor_Gatekeeper_GloveL",
+   "part": "Steel_Uncommon",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    62,
+    74,
+    84
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    -0.58
+   ],
+   "size": [
+    0.8,
+    0.1,
+    0.04
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GloveR_Silver_Common",
+   "entry": "Armor_Gatekeeper_GloveR",
+   "part": "Silver_Common",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.12,
+    0.38,
+    1.14
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GloveR_Steel_Uncommon",
+   "entry": "Armor_Gatekeeper_GloveR",
+   "part": "Steel_Uncommon",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    62,
+    74,
+    84
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    -0.58
+   ],
+   "size": [
+    0.8,
+    0.1,
+    0.04
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_ThighL_Nacre_Common",
+   "entry": "Armor_Gatekeeper_ThighL",
+   "part": "Nacre_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.15,
+    0.0
+   ],
+   "size": [
+    1.153,
+    1.0,
+    1.133
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_ThighL_Silver_Uncommon",
+   "entry": "Armor_Gatekeeper_ThighL",
+   "part": "Silver_Uncommon",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.06,
+    1.173
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_ThighR_Nacre_Common",
+   "entry": "Armor_Gatekeeper_ThighR",
+   "part": "Nacre_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.15,
+    0.0
+   ],
+   "size": [
+    1.153,
+    1.0,
+    1.133
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_ThighR_Silver_Uncommon",
+   "entry": "Armor_Gatekeeper_ThighR",
+   "part": "Silver_Uncommon",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.06,
+    1.173
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveL_Lobster_Common",
+   "entry": "Armor_Gatekeeper_GreaveL",
+   "part": "Lobster_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    -0.6
+   ],
+   "size": [
+    0.7,
+    0.42,
+    0.2
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveL_Nacre_Common",
+   "entry": "Armor_Gatekeeper_GreaveL",
+   "part": "Nacre_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.12,
+    0.0
+   ],
+   "size": [
+    1.193,
+    1.0,
+    1.173
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveL_Silver_Uncommon",
+   "entry": "Armor_Gatekeeper_GreaveL",
+   "part": "Silver_Uncommon",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    -0.6,
+    0.0
+   ],
+   "size": [
+    1.213,
+    0.06,
+    1.193
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveL_Silver_Rare",
+   "entry": "Armor_Gatekeeper_GreaveL",
+   "part": "Silver_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.4698,
+    -0.71
+   ],
+   "size": [
+    0.3192,
+    0.3996,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 188
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveL_Steel_Rare",
+   "entry": "Armor_Gatekeeper_GreaveL",
+   "part": "Steel_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    62,
+    74,
+    84
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.4494,
+    -0.7
+   ],
+   "size": [
+    0.1101,
+    0.3588,
+    0.042
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveR_Lobster_Common",
+   "entry": "Armor_Gatekeeper_GreaveR",
+   "part": "Lobster_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    -0.6
+   ],
+   "size": [
+    0.7,
+    0.42,
+    0.2
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveR_Nacre_Common",
+   "entry": "Armor_Gatekeeper_GreaveR",
+   "part": "Nacre_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Nacre",
+   "color": [
+    212,
+    226,
+    226
+   ],
+   "material": {
+    "kind": "pearl",
+    "metal": 0.15,
+    "roughness": 0.25,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.12,
+    0.0
+   ],
+   "size": [
+    1.193,
+    1.0,
+    1.173
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveR_Silver_Uncommon",
+   "entry": "Armor_Gatekeeper_GreaveR",
+   "part": "Silver_Uncommon",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.6,
+    0.0
+   ],
+   "size": [
+    1.213,
+    0.06,
+    1.193
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveR_Silver_Rare",
+   "entry": "Armor_Gatekeeper_GreaveR",
+   "part": "Silver_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.4698,
+    -0.71
+   ],
+   "size": [
+    0.3192,
+    0.3996,
+    0.06
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 188
+  },
+  {
+   "object": "Armor_Gatekeeper_GreaveR_Steel_Rare",
+   "entry": "Armor_Gatekeeper_GreaveR",
+   "part": "Steel_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    62,
+    74,
+    84
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.4494,
+    -0.7
+   ],
+   "size": [
+    0.1101,
+    0.3588,
+    0.042
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Gatekeeper_BootL_Lobster_Uncommon",
+   "entry": "Armor_Gatekeeper_BootL",
+   "part": "Lobster_Uncommon",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.12,
+    -0.5
+   ],
+   "size": [
+    1.0,
+    0.14,
+    0.4
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BootL_Silver_Common",
+   "entry": "Armor_Gatekeeper_BootL",
+   "part": "Silver_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.08
+   ],
+   "size": [
+    1.16,
+    0.42,
+    1.3
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BootR_Lobster_Uncommon",
+   "entry": "Armor_Gatekeeper_BootR",
+   "part": "Lobster_Uncommon",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lobster",
+   "color": [
+    52,
+    86,
+    122
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.12,
+    -0.5
+   ],
+   "size": [
+    1.0,
+    0.14,
+    0.4
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Gatekeeper_BootR_Silver_Common",
+   "entry": "Armor_Gatekeeper_BootR",
+   "part": "Silver_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silver",
+   "color": [
+    196,
+    204,
+    212
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.08
+   ],
+   "size": [
+    1.16,
+    0.42,
+    1.3
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  }
+ ],
+ "tris": {
+  "Common": 2776,
+  "Uncommon": 3744,
+  "Rare": 5512,
+  "Epic": 5692,
+  "Legendary": 6012
+ },
+ "largestMesh": [
+  388,
+  "Armor_Gatekeeper_Chest_Silver_Common"
+ ],
+ "slots": {
+  "Head": [
+   "Armor_Gatekeeper_Helm"
+  ],
+  "Chest": [
+   "Armor_Gatekeeper_Chest",
+   "Armor_Gatekeeper_Belt"
+  ],
+  "Shoulders": [
+   "Armor_Gatekeeper_PauldronL",
+   "Armor_Gatekeeper_PauldronR"
+  ],
+  "Arms": [
+   "Armor_Gatekeeper_BracerL",
+   "Armor_Gatekeeper_BracerR",
+   "Armor_Gatekeeper_GloveL",
+   "Armor_Gatekeeper_GloveR"
+  ],
+  "Legs": [
+   "Armor_Gatekeeper_ThighL",
+   "Armor_Gatekeeper_ThighR",
+   "Armor_Gatekeeper_GreaveL",
+   "Armor_Gatekeeper_GreaveR",
+   "Armor_Gatekeeper_BootL",
+   "Armor_Gatekeeper_BootR"
+  ]
+ }
+}

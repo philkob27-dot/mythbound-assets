@@ -1,0 +1,3270 @@
+{
+ "set": "castaway",
+ "model": "Castaway",
+ "name": "Castaway",
+ "glow": [
+  170,
+  255,
+  236
+ ],
+ "axes": "Roblox studs: X = character right, Y = up, -Z = front; centres relative to the body part centre",
+ "objects": [
+  {
+   "object": "Armor_Castaway_Helm_Ashcloth_Common",
+   "entry": "Armor_Castaway_Helm",
+   "part": "Ashcloth_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.455,
+    0.04
+   ],
+   "size": [
+    1.28,
+    0.51,
+    1.28
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_Helm_AshclothSway_Uncommon",
+   "entry": "Armor_Castaway_Helm",
+   "part": "AshclothSway_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.7,
+    -0.0049,
+    0.3631
+   ],
+   "size": [
+    0.195,
+    0.5097,
+    0.1638
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Castaway_Helm_BoneSway_Uncommon",
+   "entry": "Armor_Castaway_Helm",
+   "part": "BoneSway_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.66,
+    -0.1506,
+    -0.13
+   ],
+   "size": [
+    0.04,
+    0.1988,
+    0.1575
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 68
+  },
+  {
+   "object": "Armor_Castaway_Helm_Bone_Rare",
+   "entry": "Armor_Castaway_Helm",
+   "part": "Bone_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.25,
+    0.5165,
+    -0.7315
+   ],
+   "size": [
+    0.33,
+    0.363,
+    0.4769
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 154
+  },
+  {
+   "object": "Armor_Castaway_Helm_Drift_Legendary",
+   "entry": "Armor_Castaway_Helm",
+   "part": "Drift_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Drift",
+   "color": [
+    132,
+    110,
+    86
+   ],
+   "material": {
+    "kind": "wood",
+    "metal": 0.0,
+    "roughness": 0.75,
+    "roblox": "Wood"
+   },
+   "glow": null,
+   "center": [
+    -0.15,
+    1.1,
+    0.1
+   ],
+   "size": [
+    0.08,
+    0.9,
+    0.0693
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Castaway_Helm_Glow_Epic",
+   "entry": "Armor_Castaway_Helm",
+   "part": "Glow_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    170,
+    255,
+    236
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    170,
+    255,
+    236
+   ],
+   "center": [
+    0.25,
+    0.522,
+    -0.8205
+   ],
+   "size": [
+    0.176,
+    0.033,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 24
+  },
+  {
+   "object": "Armor_Castaway_Helm_Rope_Uncommon",
+   "entry": "Armor_Castaway_Helm",
+   "part": "Rope_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    0.0
+   ],
+   "size": [
+    1.32,
+    0.05,
+    1.32
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_Helm_Rope_Legendary",
+   "entry": "Armor_Castaway_Helm",
+   "part": "Rope_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.325,
+    1.175,
+    0.15
+   ],
+   "size": [
+    0.3676,
+    0.6595,
+    0.1198
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Castaway_Helm_Sail_Common",
+   "entry": "Armor_Castaway_Helm",
+   "part": "Sail_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0416,
+    0.3,
+    0.0
+   ],
+   "size": [
+    1.3831,
+    0.28,
+    1.3
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 108
+  },
+  {
+   "object": "Armor_Castaway_Helm_SailSway_Common",
+   "entry": "Armor_Castaway_Helm",
+   "part": "SailSway_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.62,
+    -0.0713,
+    0.506
+   ],
+   "size": [
+    0.2168,
+    0.6426,
+    0.2479
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Castaway_Helm_Sail_Legendary",
+   "entry": "Armor_Castaway_Helm",
+   "part": "Sail_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.3708,
+    1.2,
+    0.1604
+   ],
+   "size": [
+    0.4143,
+    0.7,
+    0.1753
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 8
+  },
+  {
+   "object": "Armor_Castaway_Helm_Tar_Rare",
+   "entry": "Armor_Castaway_Helm",
+   "part": "Tar_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Tar",
+   "color": [
+    62,
+    54,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.25,
+    0.522,
+    -0.804
+   ],
+   "size": [
+    0.209,
+    0.066,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_Chest_Ashcloth_Common",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Ashcloth_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.063,
+    1.818,
+    1.124
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_Chest_Ashcloth_Uncommon",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Ashcloth_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.4,
+    -0.2,
+    0.83
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_Chest_Bone_Common",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Bone_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0018,
+    0.1,
+    -0.36
+   ],
+   "size": [
+    2.2985,
+    1.3,
+    0.717
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 1148
+  },
+  {
+   "object": "Armor_Castaway_Chest_Bone_Uncommon",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Bone_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0018,
+    0.1945,
+    -0.091
+   ],
+   "size": [
+    2.2985,
+    1.511,
+    1.2551
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 412
+  },
+  {
+   "object": "Armor_Castaway_Chest_Bone_Rare",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Bone_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.405,
+    0.04,
+    0.03
+   ],
+   "size": [
+    1.01,
+    1.28,
+    1.54
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 304
+  },
+  {
+   "object": "Armor_Castaway_Chest_Glow_Epic",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Glow_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    170,
+    255,
+    236
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    170,
+    255,
+    236
+   ],
+   "center": [
+    -0.0,
+    0.1,
+    -0.69
+   ],
+   "size": [
+    0.04,
+    0.9,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Castaway_Chest_GlowSway_Legendary",
+   "entry": "Armor_Castaway_Chest",
+   "part": "GlowSway_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    170,
+    255,
+    236
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    170,
+    255,
+    236
+   ],
+   "center": [
+    -0.0,
+    -1.05,
+    0.99
+   ],
+   "size": [
+    0.9,
+    0.4,
+    0.1666
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 108
+  },
+  {
+   "object": "Armor_Castaway_Chest_Rope_Uncommon",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Rope_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.002,
+    0.0021,
+    0.0
+   ],
+   "size": [
+    1.7372,
+    1.6395,
+    1.2971
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 32
+  },
+  {
+   "object": "Armor_Castaway_Chest_Sail_Common",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Sail_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.55,
+    0.78,
+    0.0
+   ],
+   "size": [
+    0.95,
+    0.16,
+    1.22
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_Chest_SailSway_Common",
+   "entry": "Armor_Castaway_Chest",
+   "part": "SailSway_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.3659,
+    0.1551
+   ],
+   "size": [
+    2.1506,
+    2.4118,
+    1.7298
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 380
+  },
+  {
+   "object": "Armor_Castaway_Chest_Sail_Rare",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Sail_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.54,
+    -0.205,
+    -0.72
+   ],
+   "size": [
+    0.22,
+    0.35,
+    0.025
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 8
+  },
+  {
+   "object": "Armor_Castaway_Chest_Tar_Rare",
+   "entry": "Armor_Castaway_Chest",
+   "part": "Tar_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Tar",
+   "color": [
+    62,
+    54,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.5225,
+    -0.35,
+    0.11
+   ],
+   "size": [
+    0.495,
+    1.15,
+    1.57
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_Belt_AshclothSway_Common",
+   "entry": "Armor_Castaway_Belt",
+   "part": "AshclothSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.5264,
+    0.0004
+   ],
+   "size": [
+    1.9165,
+    0.8701,
+    1.5192
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 280
+  },
+  {
+   "object": "Armor_Castaway_Belt_BoneSway_Uncommon",
+   "entry": "Armor_Castaway_Belt",
+   "part": "BoneSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.85,
+    -0.605,
+    -0.45
+   ],
+   "size": [
+    0.1,
+    0.45,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Castaway_Belt_Bone_Rare",
+   "entry": "Armor_Castaway_Belt",
+   "part": "Bone_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0642,
+    0.0843,
+    -0.66
+   ],
+   "size": [
+    0.3317,
+    0.1687,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 84
+  },
+  {
+   "object": "Armor_Castaway_Belt_BoneSway_Rare",
+   "entry": "Armor_Castaway_Belt",
+   "part": "BoneSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.85,
+    -0.332,
+    -0.55
+   ],
+   "size": [
+    0.36,
+    0.396,
+    0.3424
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 144
+  },
+  {
+   "object": "Armor_Castaway_Belt_DriftSway_Uncommon",
+   "entry": "Armor_Castaway_Belt",
+   "part": "DriftSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Drift",
+   "color": [
+    132,
+    110,
+    86
+   ],
+   "material": {
+    "kind": "wood",
+    "metal": 0.0,
+    "roughness": 0.75,
+    "roblox": "Wood"
+   },
+   "glow": null,
+   "center": [
+    -0.85,
+    -0.2,
+    -0.45
+   ],
+   "size": [
+    0.1,
+    0.4,
+    0.12
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_Belt_GlowSway_Epic",
+   "entry": "Armor_Castaway_Belt",
+   "part": "GlowSway_Epic",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Epic",
+   "sway": true,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    170,
+    255,
+    236
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    170,
+    255,
+    236
+   ],
+   "center": [
+    0.85,
+    -0.326,
+    -0.736
+   ],
+   "size": [
+    0.192,
+    0.036,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 24
+  },
+  {
+   "object": "Armor_Castaway_Belt_Rope_Common",
+   "entry": "Armor_Castaway_Belt",
+   "part": "Rope_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.02,
+    -0.0282
+   ],
+   "size": [
+    2.34,
+    0.22,
+    1.3929
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 244
+  },
+  {
+   "object": "Armor_Castaway_Belt_RopeSway_Uncommon",
+   "entry": "Armor_Castaway_Belt",
+   "part": "RopeSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.2823,
+    -0.2997,
+    -0.64
+   ],
+   "size": [
+    0.1239,
+    0.5089,
+    0.0969
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 16
+  },
+  {
+   "object": "Armor_Castaway_Belt_RopeSway_Rare",
+   "entry": "Armor_Castaway_Belt",
+   "part": "RopeSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.85,
+    -0.11,
+    -0.55
+   ],
+   "size": [
+    0.04,
+    0.18,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Castaway_Belt_Sail_Rare",
+   "entry": "Armor_Castaway_Belt",
+   "part": "Sail_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.045,
+    0.0725,
+    -0.68
+   ],
+   "size": [
+    0.11,
+    0.175,
+    0.025
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 8
+  },
+  {
+   "object": "Armor_Castaway_Belt_Tar_Common",
+   "entry": "Armor_Castaway_Belt",
+   "part": "Tar_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Tar",
+   "color": [
+    62,
+    54,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.131,
+    0.28,
+    1.144
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_Belt_TarSway_Rare",
+   "entry": "Armor_Castaway_Belt",
+   "part": "TarSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Tar",
+   "color": [
+    62,
+    54,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.85,
+    -0.326,
+    -0.718
+   ],
+   "size": [
+    0.228,
+    0.072,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_PauldronL_Ashcloth_Common",
+   "entry": "Armor_Castaway_PauldronL",
+   "part": "Ashcloth_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_PauldronL_Bone_Common",
+   "entry": "Armor_Castaway_PauldronL",
+   "part": "Bone_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.1,
+    0.625,
+    0.0
+   ],
+   "size": [
+    1.1538,
+    0.75,
+    1.1449
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Castaway_PauldronL_Bone_Rare",
+   "entry": "Armor_Castaway_PauldronL",
+   "part": "Bone_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.5308,
+    0.8375,
+    0.0
+   ],
+   "size": [
+    0.2311,
+    0.3281,
+    0.4866
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Castaway_PauldronL_Glow_Epic",
+   "entry": "Armor_Castaway_PauldronL",
+   "part": "Glow_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    170,
+    255,
+    236
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    170,
+    255,
+    236
+   ],
+   "center": [
+    -0.5,
+    0.3,
+    -0.55
+   ],
+   "size": [
+    0.2,
+    0.03,
+    0.02
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Castaway_PauldronL_Rope_Uncommon",
+   "entry": "Armor_Castaway_PauldronL",
+   "part": "Rope_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0016,
+    0.4975,
+    0.0
+   ],
+   "size": [
+    1.2443,
+    0.355,
+    1.242
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 60
+  },
+  {
+   "object": "Armor_Castaway_PauldronR_Ashcloth_Common",
+   "entry": "Armor_Castaway_PauldronR",
+   "part": "Ashcloth_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_PauldronR_Glow_Epic",
+   "entry": "Armor_Castaway_PauldronR",
+   "part": "Glow_Epic",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    170,
+    255,
+    236
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    170,
+    255,
+    236
+   ],
+   "center": [
+    0.5,
+    0.3,
+    -0.55
+   ],
+   "size": [
+    0.2,
+    0.03,
+    0.02
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Castaway_PauldronR_Rope_Uncommon",
+   "entry": "Armor_Castaway_PauldronR",
+   "part": "Rope_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.2,
+    0.65,
+    0.0
+   ],
+   "size": [
+    0.6,
+    0.5706,
+    0.86
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 72
+  },
+  {
+   "object": "Armor_Castaway_PauldronR_Sail_Common",
+   "entry": "Armor_Castaway_PauldronR",
+   "part": "Sail_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.2,
+    0.65,
+    0.0
+   ],
+   "size": [
+    0.56,
+    0.5326,
+    1.3
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Castaway_PauldronR_SailSway_Rare",
+   "entry": "Armor_Castaway_PauldronR",
+   "part": "SailSway_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.6432,
+    0.1986,
+    -0.1
+   ],
+   "size": [
+    0.0662,
+    0.4027,
+    0.5
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 60
+  },
+  {
+   "object": "Armor_Castaway_BracerL_Bone_Rare",
+   "entry": "Armor_Castaway_BracerL",
+   "part": "Bone_Rare",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.42,
+    0.0
+   ],
+   "size": [
+    1.241,
+    0.08,
+    1.242
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_BracerL_Rope_Common",
+   "entry": "Armor_Castaway_BracerL",
+   "part": "Rope_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.36,
+    1.202
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_BracerL_Rope_Uncommon",
+   "entry": "Armor_Castaway_BracerL",
+   "part": "Rope_Uncommon",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.36,
+    1.202
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_BracerL_Sail_Common",
+   "entry": "Armor_Castaway_BracerL",
+   "part": "Sail_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.15,
+    0.0
+   ],
+   "size": [
+    1.151,
+    0.6,
+    1.152
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_BracerR_Rope_Common",
+   "entry": "Armor_Castaway_BracerR",
+   "part": "Rope_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.36,
+    1.202
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_BracerR_Rope_Uncommon",
+   "entry": "Armor_Castaway_BracerR",
+   "part": "Rope_Uncommon",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.36,
+    1.202
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_BracerR_Sail_Common",
+   "entry": "Armor_Castaway_BracerR",
+   "part": "Sail_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.15,
+    0.0
+   ],
+   "size": [
+    1.151,
+    0.6,
+    1.152
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_GloveL_Rope_Uncommon",
+   "entry": "Armor_Castaway_GloveL",
+   "part": "Rope_Uncommon",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.1,
+    0.0
+   ],
+   "size": [
+    1.08,
+    0.05,
+    1.12
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_GloveL_Sail_Common",
+   "entry": "Armor_Castaway_GloveL",
+   "part": "Sail_Common",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    0.0
+   ],
+   "size": [
+    1.04,
+    0.32,
+    1.08
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_GloveR_Rope_Uncommon",
+   "entry": "Armor_Castaway_GloveR",
+   "part": "Rope_Uncommon",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.1,
+    0.0
+   ],
+   "size": [
+    1.08,
+    0.05,
+    1.12
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_GloveR_Sail_Common",
+   "entry": "Armor_Castaway_GloveR",
+   "part": "Sail_Common",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    0.0
+   ],
+   "size": [
+    1.04,
+    0.32,
+    1.08
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_ThighL_Ashcloth_Common",
+   "entry": "Armor_Castaway_ThighL",
+   "part": "Ashcloth_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.115,
+    0.0
+   ],
+   "size": [
+    1.12,
+    1.23,
+    1.1
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_ThighR_Ashcloth_Common",
+   "entry": "Armor_Castaway_ThighR",
+   "part": "Ashcloth_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.115,
+    0.0
+   ],
+   "size": [
+    1.12,
+    1.23,
+    1.1
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_GreaveL_Ashcloth_Common",
+   "entry": "Armor_Castaway_GreaveL",
+   "part": "Ashcloth_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.48,
+    0.0
+   ],
+   "size": [
+    1.1,
+    0.3,
+    1.08
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_GreaveL_Rope_Common",
+   "entry": "Armor_Castaway_GreaveL",
+   "part": "Rope_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.39,
+    0.0
+   ],
+   "size": [
+    1.113,
+    0.18,
+    1.093
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_GreaveR_Ashcloth_Common",
+   "entry": "Armor_Castaway_GreaveR",
+   "part": "Ashcloth_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ashcloth",
+   "color": [
+    122,
+    114,
+    104
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.48,
+    0.0
+   ],
+   "size": [
+    1.1,
+    0.3,
+    1.08
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_GreaveR_Bone_Rare",
+   "entry": "Armor_Castaway_GreaveR",
+   "part": "Bone_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    234,
+    224,
+    198
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.55
+   ],
+   "size": [
+    0.3,
+    0.6,
+    0.08
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_GreaveR_Rope_Common",
+   "entry": "Armor_Castaway_GreaveR",
+   "part": "Rope_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.39,
+    0.0
+   ],
+   "size": [
+    1.113,
+    0.18,
+    1.093
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Castaway_GreaveR_Rope_Rare",
+   "entry": "Armor_Castaway_GreaveR",
+   "part": "Rope_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.12,
+    0.0
+   ],
+   "size": [
+    1.153,
+    0.05,
+    1.133
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_BootL_Rope_Uncommon",
+   "entry": "Armor_Castaway_BootL",
+   "part": "Rope_Uncommon",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.06,
+    -0.3
+   ],
+   "size": [
+    1.0098,
+    0.05,
+    0.249
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Castaway_BootL_Sail_Common",
+   "entry": "Armor_Castaway_BootL",
+   "part": "Sail_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    -0.05,
+    -0.06
+   ],
+   "size": [
+    1.04,
+    0.22,
+    1.2
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_BootL_Tar_Common",
+   "entry": "Armor_Castaway_BootL",
+   "part": "Tar_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Tar",
+   "color": [
+    62,
+    54,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    -0.14,
+    -0.06
+   ],
+   "size": [
+    1.06,
+    0.06,
+    1.22
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_BootR_Rope_Uncommon",
+   "entry": "Armor_Castaway_BootR",
+   "part": "Rope_Uncommon",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rope",
+   "color": [
+    196,
+    158,
+    96
+   ],
+   "material": {
+    "kind": "rope",
+    "metal": 0.0,
+    "roughness": 0.9,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.06,
+    -0.3
+   ],
+   "size": [
+    1.0098,
+    0.05,
+    0.249
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Castaway_BootR_Sail_Common",
+   "entry": "Armor_Castaway_BootR",
+   "part": "Sail_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sail",
+   "color": [
+    218,
+    206,
+    176
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    -0.06
+   ],
+   "size": [
+    1.04,
+    0.22,
+    1.2
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Castaway_BootR_Tar_Common",
+   "entry": "Armor_Castaway_BootR",
+   "part": "Tar_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Tar",
+   "color": [
+    62,
+    54,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.14,
+    -0.06
+   ],
+   "size": [
+    1.06,
+    0.06,
+    1.22
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  }
+ ],
+ "tris": {
+  "Common": 3556,
+  "Uncommon": 4676,
+  "Rare": 5866,
+  "Epic": 5950,
+  "Legendary": 6098
+ },
+ "largestMesh": [
+  1148,
+  "Armor_Castaway_Chest_Bone_Common"
+ ],
+ "slots": {
+  "Head": [
+   "Armor_Castaway_Helm"
+  ],
+  "Chest": [
+   "Armor_Castaway_Chest",
+   "Armor_Castaway_Belt"
+  ],
+  "Shoulders": [
+   "Armor_Castaway_PauldronL",
+   "Armor_Castaway_PauldronR"
+  ],
+  "Arms": [
+   "Armor_Castaway_BracerL",
+   "Armor_Castaway_BracerR",
+   "Armor_Castaway_GloveL",
+   "Armor_Castaway_GloveR"
+  ],
+  "Legs": [
+   "Armor_Castaway_ThighL",
+   "Armor_Castaway_ThighR",
+   "Armor_Castaway_GreaveL",
+   "Armor_Castaway_GreaveR",
+   "Armor_Castaway_BootL",
+   "Armor_Castaway_BootR"
+  ]
+ }
+}

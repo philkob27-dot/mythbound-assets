@@ -1,0 +1,2685 @@
+{
+ "set": "racer",
+ "model": "Racer",
+ "name": "Midnight Racer",
+ "glow": [
+  255,
+  222,
+  150
+ ],
+ "axes": "Roblox studs: X = character right, Y = up, -Z = front; centres relative to the body part centre",
+ "objects": [
+  {
+   "object": "Armor_Racer_Helm_Glow_Epic",
+   "entry": "Armor_Racer_Helm",
+   "part": "Glow_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    222,
+    150
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    222,
+    150
+   ],
+   "center": [
+    -0.0,
+    0.47,
+    -0.735
+   ],
+   "size": [
+    0.7,
+    0.05,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Racer_Helm_Gold_Uncommon",
+   "entry": "Armor_Racer_Helm",
+   "part": "Gold_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.69,
+    0.0927
+   ],
+   "size": [
+    1.08,
+    0.28,
+    1.6754
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Racer_Helm_Gold_Rare",
+   "entry": "Armor_Racer_Helm",
+   "part": "Gold_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.2161,
+    0.1
+   ],
+   "size": [
+    2.3209,
+    0.4115,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 72
+  },
+  {
+   "object": "Armor_Racer_Helm_GoldSway_Legendary",
+   "entry": "Armor_Racer_Helm",
+   "part": "GoldSway_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.12,
+    -0.1208,
+    1.2428
+   ],
+   "size": [
+    0.1653,
+    1.3417,
+    1.1377
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Racer_Helm_Night_Common",
+   "entry": "Armor_Racer_Helm",
+   "part": "Night_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Night",
+   "color": [
+    40,
+    24,
+    38
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.025,
+    -0.6405
+   ],
+   "size": [
+    1.319,
+    1.312,
+    0.08
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Racer_Helm_Silk_Common",
+   "entry": "Armor_Racer_Helm",
+   "part": "Silk_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0545,
+    0.1708
+   ],
+   "size": [
+    1.5422,
+    1.771,
+    1.7415
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 308
+  },
+  {
+   "object": "Armor_Racer_Helm_SilkSway_Legendary",
+   "entry": "Armor_Racer_Helm",
+   "part": "SilkSway_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.12,
+    -0.0716,
+    1.2361
+   ],
+   "size": [
+    0.1648,
+    1.1432,
+    1.1221
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Racer_Helm_Visor_Uncommon",
+   "entry": "Armor_Racer_Helm",
+   "part": "Visor_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Visor",
+   "color": [
+    70,
+    50,
+    90
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.47,
+    -0.7
+   ],
+   "size": [
+    1.04,
+    0.16,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_Chest_Glow_Epic",
+   "entry": "Armor_Racer_Chest",
+   "part": "Glow_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    222,
+    150
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    222,
+    150
+   ],
+   "center": [
+    -0.0,
+    0.1,
+    0.6
+   ],
+   "size": [
+    1.06,
+    1.06,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 160
+  },
+  {
+   "object": "Armor_Racer_Chest_Gold_Common",
+   "entry": "Armor_Racer_Chest",
+   "part": "Gold_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.15,
+    -0.58
+   ],
+   "size": [
+    0.0856,
+    0.69,
+    0.0856
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 192
+  },
+  {
+   "object": "Armor_Racer_Chest_Gold_Uncommon",
+   "entry": "Armor_Racer_Chest",
+   "part": "Gold_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    -0.565
+   ],
+   "size": [
+    1.9191,
+    1.5,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Racer_Chest_Gold_Rare",
+   "entry": "Armor_Racer_Chest",
+   "part": "Gold_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.1727,
+    -0.001
+   ],
+   "size": [
+    1.1,
+    1.2455,
+    1.252
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 708
+  },
+  {
+   "object": "Armor_Racer_Chest_Night_Common",
+   "entry": "Armor_Racer_Chest",
+   "part": "Night_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Night",
+   "color": [
+    40,
+    24,
+    38
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.115,
+    0.0
+   ],
+   "size": [
+    1.3642,
+    1.63,
+    1.1226
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Racer_Chest_Silk_Common",
+   "entry": "Armor_Racer_Chest",
+   "part": "Silk_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.043,
+    1.798,
+    1.104
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_Chest_Silk_Rare",
+   "entry": "Armor_Racer_Chest",
+   "part": "Silk_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.1,
+    0.58
+   ],
+   "size": [
+    0.96,
+    0.96,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 76
+  },
+  {
+   "object": "Armor_Racer_Belt_Gold_Common",
+   "entry": "Armor_Racer_Belt",
+   "part": "Gold_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.58
+   ],
+   "size": [
+    0.42,
+    0.24,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_Belt_Gold_Uncommon",
+   "entry": "Armor_Racer_Belt",
+   "part": "Gold_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.13,
+    0.56
+   ],
+   "size": [
+    2.002,
+    0.06,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Racer_Belt_Gold_Rare",
+   "entry": "Armor_Racer_Belt",
+   "part": "Gold_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0971,
+    0.0,
+    -0.62
+   ],
+   "size": [
+    0.4342,
+    0.234,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 236
+  },
+  {
+   "object": "Armor_Racer_Belt_GoldSway_Epic",
+   "entry": "Armor_Racer_Belt",
+   "part": "GoldSway_Epic",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Epic",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.6,
+    -0.5724,
+    1.1267
+   ],
+   "size": [
+    0.1642,
+    0.9447,
+    1.1003
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Racer_Belt_Leather_Common",
+   "entry": "Armor_Racer_Belt",
+   "part": "Leather_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.131,
+    0.3,
+    1.144
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_Belt_SilkSway_Common",
+   "entry": "Armor_Racer_Belt",
+   "part": "SilkSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.4719,
+    0.0513
+   ],
+   "size": [
+    1.9157,
+    0.7355,
+    1.6174
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 164
+  },
+  {
+   "object": "Armor_Racer_PauldronL_Glow_Epic",
+   "entry": "Armor_Racer_PauldronL",
+   "part": "Glow_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    222,
+    150
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    222,
+    150
+   ],
+   "center": [
+    -0.0,
+    0.36,
+    -0.6
+   ],
+   "size": [
+    0.6,
+    0.03,
+    0.02
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Racer_PauldronL_Gold_Common",
+   "entry": "Armor_Racer_PauldronL",
+   "part": "Gold_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.36,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.05,
+    1.202
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_PauldronL_GoldSway_Common",
+   "entry": "Armor_Racer_PauldronL",
+   "part": "GoldSway_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.25,
+    -0.0212,
+    0.9897
+   ],
+   "size": [
+    0.165,
+    1.2424,
+    1.1305
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Racer_PauldronL_Leather_Common",
+   "entry": "Armor_Racer_PauldronL",
+   "part": "Leather_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.05,
+    0.5,
+    0.0
+   ],
+   "size": [
+    1.1494,
+    0.28,
+    1.1357
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_PauldronL_NightSway_Rare",
+   "entry": "Armor_Racer_PauldronL",
+   "part": "NightSway_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Night",
+   "color": [
+    40,
+    24,
+    38
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.45,
+    0.1773,
+    0.9705
+   ],
+   "size": [
+    0.1637,
+    0.8455,
+    1.0858
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Racer_PauldronL_Silk_Common",
+   "entry": "Armor_Racer_PauldronL",
+   "part": "Silk_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_PauldronL_SilkSway_Uncommon",
+   "entry": "Armor_Racer_PauldronL",
+   "part": "SilkSway_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.35,
+    0.078,
+    0.9818
+   ],
+   "size": [
+    0.1645,
+    1.0439,
+    1.1121
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Racer_PauldronR_Glow_Epic",
+   "entry": "Armor_Racer_PauldronR",
+   "part": "Glow_Epic",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    222,
+    150
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    222,
+    150
+   ],
+   "center": [
+    -0.0,
+    0.36,
+    -0.6
+   ],
+   "size": [
+    0.6,
+    0.03,
+    0.02
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Racer_PauldronR_Gold_Common",
+   "entry": "Armor_Racer_PauldronR",
+   "part": "Gold_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.36,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.05,
+    1.202
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_PauldronR_GoldSway_Uncommon",
+   "entry": "Armor_Racer_PauldronR",
+   "part": "GoldSway_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.3,
+    0.0284,
+    0.9861
+   ],
+   "size": [
+    0.1648,
+    1.1432,
+    1.1221
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Racer_PauldronR_Gold_Rare",
+   "entry": "Armor_Racer_PauldronR",
+   "part": "Gold_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.4069,
+    0.4199,
+    -0.6
+   ],
+   "size": [
+    0.4403,
+    0.3657,
+    0.04
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Racer_PauldronR_Leather_Common",
+   "entry": "Armor_Racer_PauldronR",
+   "part": "Leather_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.05,
+    0.5,
+    0.0
+   ],
+   "size": [
+    1.1494,
+    0.28,
+    1.1357
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_PauldronR_Silk_Common",
+   "entry": "Armor_Racer_PauldronR",
+   "part": "Silk_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_BracerL_Gold_Uncommon",
+   "entry": "Armor_Racer_BracerL",
+   "part": "Gold_Uncommon",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.361,
+    0.05,
+    1.362
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_BracerL_Gold_Rare",
+   "entry": "Armor_Racer_BracerL",
+   "part": "Gold_Rare",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0081,
+    -0.2719,
+    -0.69
+   ],
+   "size": [
+    0.1538,
+    0.2662,
+    0.03
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Racer_BracerL_Leather_Common",
+   "entry": "Armor_Racer_BracerL",
+   "part": "Leather_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.25,
+    0.0
+   ],
+   "size": [
+    1.3092,
+    0.55,
+    1.3092
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_BracerL_Silk_Common",
+   "entry": "Armor_Racer_BracerL",
+   "part": "Silk_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.141,
+    0.95,
+    1.142
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_BracerR_Gold_Uncommon",
+   "entry": "Armor_Racer_BracerR",
+   "part": "Gold_Uncommon",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.361,
+    0.05,
+    1.362
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_BracerR_Gold_Rare",
+   "entry": "Armor_Racer_BracerR",
+   "part": "Gold_Rare",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.28,
+    -0.69
+   ],
+   "size": [
+    0.17,
+    0.2825,
+    0.03
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 264
+  },
+  {
+   "object": "Armor_Racer_BracerR_Leather_Common",
+   "entry": "Armor_Racer_BracerR",
+   "part": "Leather_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.25,
+    0.0
+   ],
+   "size": [
+    1.3092,
+    0.55,
+    1.3092
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_BracerR_Silk_Common",
+   "entry": "Armor_Racer_BracerR",
+   "part": "Silk_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Silk",
+   "color": [
+    128,
+    30,
+    54
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.141,
+    0.95,
+    1.142
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_GloveL_Leather_Common",
+   "entry": "Armor_Racer_GloveL",
+   "part": "Leather_Common",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.06,
+    0.36,
+    1.1
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_GloveR_Leather_Common",
+   "entry": "Armor_Racer_GloveR",
+   "part": "Leather_Common",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.06,
+    0.36,
+    1.1
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_ThighL_Gold_Uncommon",
+   "entry": "Armor_Racer_ThighL",
+   "part": "Gold_Uncommon",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.56,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    0.03,
+    1.1,
+    0.12
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_ThighL_Night_Common",
+   "entry": "Armor_Racer_ThighL",
+   "part": "Night_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Night",
+   "color": [
+    40,
+    24,
+    38
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    1.113,
+    1.15,
+    1.093
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_ThighR_Gold_Uncommon",
+   "entry": "Armor_Racer_ThighR",
+   "part": "Gold_Uncommon",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.56,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    0.03,
+    1.1,
+    0.12
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_ThighR_Night_Common",
+   "entry": "Armor_Racer_ThighR",
+   "part": "Night_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Night",
+   "color": [
+    40,
+    24,
+    38
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    1.113,
+    1.15,
+    1.093
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_GreaveL_Glow_Epic",
+   "entry": "Armor_Racer_GreaveL",
+   "part": "Glow_Epic",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    222,
+    150
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    222,
+    150
+   ],
+   "center": [
+    -0.0,
+    -0.0,
+    -0.6
+   ],
+   "size": [
+    0.04,
+    0.5,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Racer_GreaveL_Gold_Uncommon",
+   "entry": "Armor_Racer_GreaveL",
+   "part": "Gold_Uncommon",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.36,
+    0.0
+   ],
+   "size": [
+    1.313,
+    0.05,
+    1.293
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_GreaveL_Leather_Common",
+   "entry": "Armor_Racer_GreaveL",
+   "part": "Leather_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.015,
+    -0.04
+   ],
+   "size": [
+    1.2643,
+    1.17,
+    1.2806
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Racer_GreaveR_Glow_Epic",
+   "entry": "Armor_Racer_GreaveR",
+   "part": "Glow_Epic",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    222,
+    150
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    222,
+    150
+   ],
+   "center": [
+    -0.0,
+    -0.0,
+    -0.6
+   ],
+   "size": [
+    0.04,
+    0.5,
+    0.02
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Racer_GreaveR_Gold_Uncommon",
+   "entry": "Armor_Racer_GreaveR",
+   "part": "Gold_Uncommon",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.36,
+    0.0
+   ],
+   "size": [
+    1.313,
+    0.05,
+    1.293
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_GreaveR_Leather_Common",
+   "entry": "Armor_Racer_GreaveR",
+   "part": "Leather_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.015,
+    -0.04
+   ],
+   "size": [
+    1.2643,
+    1.17,
+    1.2806
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Racer_BootL_Gold_Rare",
+   "entry": "Armor_Racer_BootL",
+   "part": "Gold_Rare",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.69
+   ],
+   "size": [
+    0.14,
+    0.16,
+    0.34
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Racer_BootL_Leather_Common",
+   "entry": "Armor_Racer_BootL",
+   "part": "Leather_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.03,
+    -0.08
+   ],
+   "size": [
+    1.12,
+    0.38,
+    1.28
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Racer_BootR_Gold_Rare",
+   "entry": "Armor_Racer_BootR",
+   "part": "Gold_Rare",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    232,
+    206,
+    140
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.05,
+    0.69
+   ],
+   "size": [
+    0.14,
+    0.16,
+    0.34
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Racer_BootR_Leather_Common",
+   "entry": "Armor_Racer_BootR",
+   "part": "Leather_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    38,
+    34,
+    40
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.03,
+    -0.08
+   ],
+   "size": [
+    1.12,
+    0.38,
+    1.28
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  }
+ ],
+ "tris": {
+  "Common": 1932,
+  "Uncommon": 2544,
+  "Rare": 4216,
+  "Epic": 4472,
+  "Legendary": 4544
+ },
+ "largestMesh": [
+  708,
+  "Armor_Racer_Chest_Gold_Rare"
+ ],
+ "slots": {
+  "Head": [
+   "Armor_Racer_Helm"
+  ],
+  "Chest": [
+   "Armor_Racer_Chest",
+   "Armor_Racer_Belt"
+  ],
+  "Shoulders": [
+   "Armor_Racer_PauldronL",
+   "Armor_Racer_PauldronR"
+  ],
+  "Arms": [
+   "Armor_Racer_BracerL",
+   "Armor_Racer_BracerR",
+   "Armor_Racer_GloveL",
+   "Armor_Racer_GloveR"
+  ],
+  "Legs": [
+   "Armor_Racer_ThighL",
+   "Armor_Racer_ThighR",
+   "Armor_Racer_GreaveL",
+   "Armor_Racer_GreaveR",
+   "Armor_Racer_BootL",
+   "Armor_Racer_BootR"
+  ]
+ }
+}

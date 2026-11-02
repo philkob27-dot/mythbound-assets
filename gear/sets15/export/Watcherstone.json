@@ -1,0 +1,4280 @@
+{
+ "set": "watcherstone",
+ "model": "Watcherstone",
+ "name": "Watcherstone",
+ "glow": [
+  110,
+  255,
+  160
+ ],
+ "axes": "Roblox studs: X = character right, Y = up, -Z = front; centres relative to the body part centre",
+ "objects": [
+  {
+   "object": "Armor_Watcherstone_Helm_Bronze_Common",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Bronze_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.5,
+    -0.72
+   ],
+   "size": [
+    1.06,
+    0.1,
+    0.12
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Bronze_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.225,
+    -0.04
+   ],
+   "size": [
+    1.06,
+    1.59,
+    1.48
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Bronze_Epic",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Bronze_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.82,
+    0.1
+   ],
+   "size": [
+    1.86,
+    0.08,
+    0.6
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Bronze_Legendary",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Bronze_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.68,
+    -0.79
+   ],
+   "size": [
+    0.5,
+    0.22,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Darkstone_Common",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Darkstone_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkstone",
+   "color": [
+    140,
+    134,
+    124
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.12,
+    -0.755
+   ],
+   "size": [
+    0.66,
+    0.07,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Darkstone_Legendary",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Darkstone_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkstone",
+   "color": [
+    140,
+    134,
+    124
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.68,
+    -0.82
+   ],
+   "size": [
+    0.41,
+    0.165,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Eye_Legendary",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Eye_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Eye",
+   "color": [
+    86,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.68,
+    -0.84
+   ],
+   "size": [
+    0.13,
+    0.13,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Glow_Epic",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Glow_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    -0.0,
+    0.12,
+    -0.77
+   ],
+   "size": [
+    0.6,
+    0.04,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 24
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Glow_Legendary",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Glow_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    -0.0,
+    0.68,
+    -0.87
+   ],
+   "size": [
+    0.06,
+    0.06,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Moss_Rare",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Moss_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.73,
+    0.0
+   ],
+   "size": [
+    1.38,
+    0.1,
+    1.32
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_MossSway_Rare",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "MossSway_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.47,
+    0.385
+   ],
+   "size": [
+    1.7267,
+    0.3,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Stone_Common",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Stone_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.12,
+    -0.0247
+   ],
+   "size": [
+    1.399,
+    1.542,
+    1.4505
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Stone_Rare",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Stone_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.08,
+    0.05
+   ],
+   "size": [
+    0.1,
+    0.2,
+    1.1
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_Helm_Stone_Epic",
+   "entry": "Armor_Watcherstone_Helm",
+   "part": "Stone_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.25,
+    0.1
+   ],
+   "size": [
+    1.82,
+    1.1,
+    0.8857
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Bronze_Common",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Bronze_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.43,
+    -0.0225
+   ],
+   "size": [
+    2.34,
+    0.94,
+    1.345
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 104
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Bronze_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.3,
+    -0.02
+   ],
+   "size": [
+    2.04,
+    1.0,
+    1.32
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Bronze_Legendary",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Bronze_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.3,
+    0.82
+   ],
+   "size": [
+    0.7,
+    0.308,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Cloth_Common",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Cloth_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Cloth",
+   "color": [
+    70,
+    94,
+    66
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.043,
+    1.798,
+    1.104
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_ClothSway_Common",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "ClothSway_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Cloth",
+   "color": [
+    70,
+    94,
+    66
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.6064,
+    0.7262
+   ],
+   "size": [
+    2.106,
+    2.9127,
+    0.5676
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 248
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Darkstone_Common",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Darkstone_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkstone",
+   "color": [
+    140,
+    134,
+    124
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.55,
+    -0.0661
+   ],
+   "size": [
+    1.4553,
+    1.06,
+    1.3079
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 104
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Darkstone_Legendary",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Darkstone_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkstone",
+   "color": [
+    140,
+    134,
+    124
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.3,
+    0.85
+   ],
+   "size": [
+    0.574,
+    0.231,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Eye_Uncommon",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Eye_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Eye",
+   "color": [
+    86,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.32,
+    -0.7
+   ],
+   "size": [
+    0.44,
+    0.44,
+    0.24
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 120
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Eye_Legendary",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Eye_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Eye",
+   "color": [
+    86,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.3,
+    0.87
+   ],
+   "size": [
+    0.182,
+    0.182,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Glow_Epic",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Glow_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    -0.0,
+    0.32,
+    -0.83
+   ],
+   "size": [
+    0.2,
+    0.1902,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Glow_Legendary",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Glow_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    -0.0,
+    0.3,
+    0.9
+   ],
+   "size": [
+    0.084,
+    0.084,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Moss_Uncommon",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Moss_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.11,
+    -0.02
+   ],
+   "size": [
+    2.0,
+    0.07,
+    1.2
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Moss_Rare",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Moss_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.66
+   ],
+   "size": [
+    1.1206,
+    0.4835,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_MossSway_Rare",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "MossSway_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.6644,
+    0.7155
+   ],
+   "size": [
+    2.0392,
+    2.9887,
+    0.5467
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 472
+  },
+  {
+   "object": "Armor_Watcherstone_Chest_Stone_Common",
+   "entry": "Armor_Watcherstone_Chest",
+   "part": "Stone_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.09,
+    0.0663
+   ],
+   "size": [
+    2.281,
+    1.7,
+    1.4674
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Watcherstone_Belt_Bronze_Common",
+   "entry": "Armor_Watcherstone_Belt",
+   "part": "Bronze_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.171,
+    0.34,
+    1.184
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_Belt_BronzeSway_Uncommon",
+   "entry": "Armor_Watcherstone_Belt",
+   "part": "BronzeSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.28,
+    -0.71
+   ],
+   "size": [
+    1.77,
+    0.07,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Watcherstone_Belt_Bronze_Rare",
+   "entry": "Armor_Watcherstone_Belt",
+   "part": "Bronze_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.64
+   ],
+   "size": [
+    0.55,
+    0.242,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_Belt_Darkstone_Rare",
+   "entry": "Armor_Watcherstone_Belt",
+   "part": "Darkstone_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkstone",
+   "color": [
+    140,
+    134,
+    124
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.67
+   ],
+   "size": [
+    0.451,
+    0.1815,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_Belt_Eye_Rare",
+   "entry": "Armor_Watcherstone_Belt",
+   "part": "Eye_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Eye",
+   "color": [
+    86,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.69
+   ],
+   "size": [
+    0.143,
+    0.143,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_Belt_Glow_Epic",
+   "entry": "Armor_Watcherstone_Belt",
+   "part": "Glow_Epic",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    -0.0,
+    0.0,
+    -0.72
+   ],
+   "size": [
+    0.066,
+    0.066,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Watcherstone_Belt_MossSway_Rare",
+   "entry": "Armor_Watcherstone_Belt",
+   "part": "MossSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.91,
+    -0.735
+   ],
+   "size": [
+    1.515,
+    0.1,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 40
+  },
+  {
+   "object": "Armor_Watcherstone_Belt_StoneSway_Common",
+   "entry": "Armor_Watcherstone_Belt",
+   "part": "StoneSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.505,
+    0.0
+   ],
+   "size": [
+    2.34,
+    0.71,
+    1.4
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 264
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "Bronze_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.22,
+    0.5025,
+    0.0
+   ],
+   "size": [
+    1.42,
+    0.755,
+    1.4
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_Bronze_Epic",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "Bronze_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.22,
+    0.32,
+    -0.71
+   ],
+   "size": [
+    0.42,
+    0.1848,
+    0.06
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_Cloth_Common",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "Cloth_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Cloth",
+   "color": [
+    70,
+    94,
+    66
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_Darkstone_Epic",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "Darkstone_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkstone",
+   "color": [
+    140,
+    134,
+    124
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.22,
+    0.32,
+    -0.74
+   ],
+   "size": [
+    0.3444,
+    0.1386,
+    0.04
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_Eye_Epic",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "Eye_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Eye",
+   "color": [
+    86,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    -0.22,
+    0.32,
+    -0.76
+   ],
+   "size": [
+    0.1092,
+    0.1092,
+    0.05
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_Glow_Legendary",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "Glow_Legendary",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    -0.3,
+    1.18,
+    0.0
+   ],
+   "size": [
+    0.1141,
+    0.12,
+    0.1141
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 64
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_Moss_Rare",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "Moss_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.12,
+    0.9,
+    0.0
+   ],
+   "size": [
+    0.9,
+    0.06,
+    0.95
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_MossSway_Rare",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "MossSway_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.92,
+    0.185,
+    -0.315
+   ],
+   "size": [
+    0.2131,
+    0.23,
+    0.03
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_Stone_Common",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "Stone_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.1719,
+    0.5,
+    0.0
+   ],
+   "size": [
+    1.4686,
+    0.66,
+    1.3562
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronL_Stone_Legendary",
+   "entry": "Armor_Watcherstone_PauldronL",
+   "part": "Stone_Legendary",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.3,
+    1.0,
+    0.0
+   ],
+   "size": [
+    0.4785,
+    0.26,
+    0.4785
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "Bronze_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.22,
+    0.5025,
+    0.0
+   ],
+   "size": [
+    1.42,
+    0.755,
+    1.4
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_Bronze_Epic",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "Bronze_Epic",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.22,
+    0.32,
+    -0.71
+   ],
+   "size": [
+    0.42,
+    0.1848,
+    0.06
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_Cloth_Common",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "Cloth_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Cloth",
+   "color": [
+    70,
+    94,
+    66
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_Darkstone_Epic",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "Darkstone_Epic",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkstone",
+   "color": [
+    140,
+    134,
+    124
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    0.22,
+    0.32,
+    -0.74
+   ],
+   "size": [
+    0.3444,
+    0.1386,
+    0.04
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_Eye_Epic",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "Eye_Epic",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Eye",
+   "color": [
+    86,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    0.22,
+    0.32,
+    -0.76
+   ],
+   "size": [
+    0.1092,
+    0.1092,
+    0.05
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_Glow_Legendary",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "Glow_Legendary",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    0.3,
+    1.18,
+    0.0
+   ],
+   "size": [
+    0.1141,
+    0.12,
+    0.1141
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 64
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_Moss_Rare",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "Moss_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.12,
+    0.9,
+    0.0
+   ],
+   "size": [
+    0.9,
+    0.06,
+    0.95
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_MossSway_Rare",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "MossSway_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.92,
+    0.185,
+    -0.315
+   ],
+   "size": [
+    0.2131,
+    0.23,
+    0.03
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_Stone_Common",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "Stone_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    0.1719,
+    0.5,
+    0.0
+   ],
+   "size": [
+    1.4686,
+    0.66,
+    1.3562
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_PauldronR_Stone_Legendary",
+   "entry": "Armor_Watcherstone_PauldronR",
+   "part": "Stone_Legendary",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    0.3,
+    1.0,
+    0.0
+   ],
+   "size": [
+    0.4785,
+    0.26,
+    0.4785
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BracerL_Bronze_Common",
+   "entry": "Armor_Watcherstone_BracerL",
+   "part": "Bronze_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.38,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.07,
+    1.282
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BracerL_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_BracerL",
+   "part": "Bronze_Uncommon",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.48,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.07,
+    1.282
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BracerL_Glow_Epic",
+   "entry": "Armor_Watcherstone_BracerL",
+   "part": "Glow_Epic",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    -0.0,
+    0.12,
+    -0.64
+   ],
+   "size": [
+    0.4,
+    0.04,
+    0.02
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Watcherstone_BracerL_Moss_Rare",
+   "entry": "Armor_Watcherstone_BracerL",
+   "part": "Moss_Rare",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    -0.62
+   ],
+   "size": [
+    0.5,
+    0.05,
+    0.03
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BracerL_Stone_Common",
+   "entry": "Armor_Watcherstone_BracerL",
+   "part": "Stone_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.95,
+    1.202
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BracerR_Bronze_Common",
+   "entry": "Armor_Watcherstone_BracerR",
+   "part": "Bronze_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.38,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.07,
+    1.282
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BracerR_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_BracerR",
+   "part": "Bronze_Uncommon",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.48,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.07,
+    1.282
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BracerR_Glow_Epic",
+   "entry": "Armor_Watcherstone_BracerR",
+   "part": "Glow_Epic",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    -0.0,
+    0.12,
+    -0.64
+   ],
+   "size": [
+    0.4,
+    0.04,
+    0.02
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Watcherstone_BracerR_Moss_Rare",
+   "entry": "Armor_Watcherstone_BracerR",
+   "part": "Moss_Rare",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    -0.62
+   ],
+   "size": [
+    0.5,
+    0.05,
+    0.03
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BracerR_Stone_Common",
+   "entry": "Armor_Watcherstone_BracerR",
+   "part": "Stone_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.95,
+    1.202
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_GloveL_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_GloveL",
+   "part": "Bronze_Uncommon",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.08,
+    -0.58
+   ],
+   "size": [
+    0.7,
+    0.08,
+    0.04
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_GloveL_Stone_Common",
+   "entry": "Armor_Watcherstone_GloveL",
+   "part": "Stone_Common",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.12,
+    0.38,
+    1.14
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_GloveR_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_GloveR",
+   "part": "Bronze_Uncommon",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.08,
+    -0.58
+   ],
+   "size": [
+    0.7,
+    0.08,
+    0.04
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_GloveR_Stone_Common",
+   "entry": "Armor_Watcherstone_GloveR",
+   "part": "Stone_Common",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.12,
+    0.38,
+    1.14
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_ThighL_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_ThighL",
+   "part": "Bronze_Uncommon",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.06,
+    1.173
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_ThighL_Moss_Rare",
+   "entry": "Armor_Watcherstone_ThighL",
+   "part": "Moss_Rare",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.173,
+    0.05,
+    1.153
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_ThighL_Stone_Common",
+   "entry": "Armor_Watcherstone_ThighL",
+   "part": "Stone_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.15,
+    0.0
+   ],
+   "size": [
+    1.153,
+    1.0,
+    1.133
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_ThighR_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_ThighR",
+   "part": "Bronze_Uncommon",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.06,
+    1.173
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_ThighR_Moss_Rare",
+   "entry": "Armor_Watcherstone_ThighR",
+   "part": "Moss_Rare",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    128,
+    62
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.173,
+    0.05,
+    1.153
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_ThighR_Stone_Common",
+   "entry": "Armor_Watcherstone_ThighR",
+   "part": "Stone_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.15,
+    0.0
+   ],
+   "size": [
+    1.153,
+    1.0,
+    1.133
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveL_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_GreaveL",
+   "part": "Bronze_Uncommon",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    -0.6,
+    0.0
+   ],
+   "size": [
+    1.213,
+    0.06,
+    1.193
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveL_Bronze_Rare",
+   "entry": "Armor_Watcherstone_GreaveL",
+   "part": "Bronze_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    -0.71
+   ],
+   "size": [
+    0.4,
+    0.176,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveL_Darkstone_Rare",
+   "entry": "Armor_Watcherstone_GreaveL",
+   "part": "Darkstone_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkstone",
+   "color": [
+    140,
+    134,
+    124
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    -0.74
+   ],
+   "size": [
+    0.328,
+    0.132,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveL_Eye_Rare",
+   "entry": "Armor_Watcherstone_GreaveL",
+   "part": "Eye_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Eye",
+   "color": [
+    86,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    -0.76
+   ],
+   "size": [
+    0.104,
+    0.104,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveL_Glow_Epic",
+   "entry": "Armor_Watcherstone_GreaveL",
+   "part": "Glow_Epic",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    -0.0,
+    0.42,
+    -0.79
+   ],
+   "size": [
+    0.048,
+    0.048,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveL_Stone_Common",
+   "entry": "Armor_Watcherstone_GreaveL",
+   "part": "Stone_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.005,
+    -0.0568
+   ],
+   "size": [
+    1.193,
+    1.25,
+    1.2865
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveR_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_GreaveR",
+   "part": "Bronze_Uncommon",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.6,
+    0.0
+   ],
+   "size": [
+    1.213,
+    0.06,
+    1.193
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveR_Bronze_Rare",
+   "entry": "Armor_Watcherstone_GreaveR",
+   "part": "Bronze_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    -0.71
+   ],
+   "size": [
+    0.4,
+    0.176,
+    0.06
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveR_Darkstone_Rare",
+   "entry": "Armor_Watcherstone_GreaveR",
+   "part": "Darkstone_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkstone",
+   "color": [
+    140,
+    134,
+    124
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    -0.74
+   ],
+   "size": [
+    0.328,
+    0.132,
+    0.04
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveR_Eye_Rare",
+   "entry": "Armor_Watcherstone_GreaveR",
+   "part": "Eye_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Eye",
+   "color": [
+    86,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    -0.76
+   ],
+   "size": [
+    0.104,
+    0.104,
+    0.05
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveR_Glow_Epic",
+   "entry": "Armor_Watcherstone_GreaveR",
+   "part": "Glow_Epic",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    110,
+    255,
+    160
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    110,
+    255,
+    160
+   ],
+   "center": [
+    0.0,
+    0.42,
+    -0.79
+   ],
+   "size": [
+    0.048,
+    0.048,
+    0.02
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Watcherstone_GreaveR_Stone_Common",
+   "entry": "Armor_Watcherstone_GreaveR",
+   "part": "Stone_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.005,
+    -0.0568
+   ],
+   "size": [
+    1.193,
+    1.25,
+    1.2865
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Watcherstone_BootL_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_BootL",
+   "part": "Bronze_Uncommon",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.2,
+    -0.08
+   ],
+   "size": [
+    1.18,
+    0.06,
+    1.32
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BootL_Stone_Common",
+   "entry": "Armor_Watcherstone_BootL",
+   "part": "Stone_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.08
+   ],
+   "size": [
+    1.16,
+    0.42,
+    1.3
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BootR_Bronze_Uncommon",
+   "entry": "Armor_Watcherstone_BootR",
+   "part": "Bronze_Uncommon",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    124,
+    62
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.2,
+    -0.08
+   ],
+   "size": [
+    1.18,
+    0.06,
+    1.32
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Watcherstone_BootR_Stone_Common",
+   "entry": "Armor_Watcherstone_BootR",
+   "part": "Stone_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Stone",
+   "color": [
+    216,
+    208,
+    190
+   ],
+   "material": {
+    "kind": "stone",
+    "metal": 0.0,
+    "roughness": 0.92,
+    "roblox": "Slate"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.08
+   ],
+   "size": [
+    1.16,
+    0.42,
+    1.3
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  }
+ ],
+ "tris": {
+  "Common": 2084,
+  "Uncommon": 3172,
+  "Rare": 4548,
+  "Epic": 5060,
+  "Legendary": 5500
+ },
+ "largestMesh": [
+  472,
+  "Armor_Watcherstone_Chest_MossSway_Rare"
+ ],
+ "slots": {
+  "Head": [
+   "Armor_Watcherstone_Helm"
+  ],
+  "Chest": [
+   "Armor_Watcherstone_Chest",
+   "Armor_Watcherstone_Belt"
+  ],
+  "Shoulders": [
+   "Armor_Watcherstone_PauldronL",
+   "Armor_Watcherstone_PauldronR"
+  ],
+  "Arms": [
+   "Armor_Watcherstone_BracerL",
+   "Armor_Watcherstone_BracerR",
+   "Armor_Watcherstone_GloveL",
+   "Armor_Watcherstone_GloveR"
+  ],
+  "Legs": [
+   "Armor_Watcherstone_ThighL",
+   "Armor_Watcherstone_ThighR",
+   "Armor_Watcherstone_GreaveL",
+   "Armor_Watcherstone_GreaveR",
+   "Armor_Watcherstone_BootL",
+   "Armor_Watcherstone_BootR"
+  ]
+ }
+}

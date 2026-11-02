@@ -1,0 +1,2992 @@
+{
+ "set": "ledgerwarden",
+ "model": "Ledgerwarden",
+ "name": "Ledgerwarden",
+ "glow": [
+  255,
+  200,
+  120
+ ],
+ "axes": "Roblox studs: X = character right, Y = up, -Z = front; centres relative to the body part centre",
+ "objects": [
+  {
+   "object": "Armor_Ledgerwarden_Helm_Ash_Common",
+   "entry": "Armor_Ledgerwarden_Helm",
+   "part": "Ash_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    132,
+    130,
+    126
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.015,
+    0.1874
+   ],
+   "size": [
+    1.6329,
+    2.072,
+    1.7359
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 264
+  },
+  {
+   "object": "Armor_Ledgerwarden_Helm_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_Helm",
+   "part": "Bronze_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0925,
+    0.2875,
+    -0.6775
+   ],
+   "size": [
+    0.545,
+    0.705,
+    0.085
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 140
+  },
+  {
+   "object": "Armor_Ledgerwarden_Helm_BronzeSway_Rare",
+   "entry": "Armor_Ledgerwarden_Helm",
+   "part": "BronzeSway_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.465,
+    -0.24,
+    -0.63
+   ],
+   "size": [
+    0.314,
+    0.564,
+    0.0981
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 216
+  },
+  {
+   "object": "Armor_Ledgerwarden_Helm_Bronze_Legendary",
+   "entry": "Armor_Ledgerwarden_Helm",
+   "part": "Bronze_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.7668,
+    -0.71
+   ],
+   "size": [
+    0.5602,
+    0.3978,
+    0.0315
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 424
+  },
+  {
+   "object": "Armor_Ledgerwarden_Helm_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_Helm",
+   "part": "Darkash_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.025,
+    -0.6805
+   ],
+   "size": [
+    1.399,
+    1.352,
+    0.08
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Ledgerwarden_Helm_Glow_Epic",
+   "entry": "Armor_Ledgerwarden_Helm",
+   "part": "Glow_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    200,
+    120
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    200,
+    120
+   ],
+   "center": [
+    0.22,
+    0.08,
+    -0.68
+   ],
+   "size": [
+    0.1,
+    0.1,
+    0.01
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Ledgerwarden_Helm_Ink_Rare",
+   "entry": "Armor_Ledgerwarden_Helm",
+   "part": "Ink_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ink",
+   "color": [
+    26,
+    30,
+    58
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.54,
+    0.485,
+    -0.24
+   ],
+   "size": [
+    0.0497,
+    0.1454,
+    0.1056
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Ledgerwarden_Helm_Lamp_Uncommon",
+   "entry": "Armor_Ledgerwarden_Helm",
+   "part": "Lamp_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lamp",
+   "color": [
+    255,
+    214,
+    130
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    0.22,
+    0.08,
+    -0.665
+   ],
+   "size": [
+    0.2,
+    0.1902,
+    0.01
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Ledgerwarden_Helm_Parchment_Rare",
+   "entry": "Armor_Ledgerwarden_Helm",
+   "part": "Parchment_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Parchment",
+   "color": [
+    226,
+    212,
+    172
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.585,
+    0.9,
+    0.075
+   ],
+   "size": [
+    0.1676,
+    0.7091,
+    0.557
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_Ash_Common",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "Ash_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    132,
+    130,
+    126
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.083,
+    1.838,
+    1.144
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_AshSway_Common",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "AshSway_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    132,
+    130,
+    126
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.6871,
+    0.7415
+   ],
+   "size": [
+    2.242,
+    3.0143,
+    0.7169
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 248
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "Bronze_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.15,
+    -0.61
+   ],
+   "size": [
+    0.77,
+    1.2,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_BronzeSway_Uncommon",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "BronzeSway_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.7446,
+    0.731
+   ],
+   "size": [
+    2.2184,
+    3.0893,
+    0.6979
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 248
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_Bronze_Rare",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "Bronze_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.1419,
+    0.0,
+    0.1856
+   ],
+   "size": [
+    0.7839,
+    1.3471,
+    1.9202
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 556
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "Darkash_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.205,
+    0.0
+   ],
+   "size": [
+    2.05,
+    1.31,
+    1.22
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 176
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_Darkash_Rare",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "Darkash_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.12,
+    -0.67
+   ],
+   "size": [
+    0.42,
+    0.48,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_Glow_Epic",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "Glow_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    200,
+    120
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    200,
+    120
+   ],
+   "center": [
+    -0.0,
+    -0.25,
+    -0.72
+   ],
+   "size": [
+    0.3,
+    0.04,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_Iron_Uncommon",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "Iron_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Iron",
+   "color": [
+    120,
+    122,
+    126
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.425,
+    -0.63
+   ],
+   "size": [
+    0.84,
+    0.23,
+    0.0693
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 252
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_Leather_Rare",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "Leather_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    92,
+    68,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.075,
+    0.015,
+    0.1575
+   ],
+   "size": [
+    1.4012,
+    1.5723,
+    1.819
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_Parchment_Rare",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "Parchment_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Parchment",
+   "color": [
+    226,
+    212,
+    172
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.213,
+    0.0,
+    0.1425
+   ],
+   "size": [
+    1.1175,
+    1.2962,
+    1.765
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ledgerwarden_Chest_ParchmentSway_Legendary",
+   "entry": "Armor_Ledgerwarden_Chest",
+   "part": "ParchmentSway_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Parchment",
+   "color": [
+    226,
+    212,
+    172
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1764,
+    1.0151
+   ],
+   "size": [
+    1.242,
+    0.7528,
+    0.0698
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Ledgerwarden_Belt_AshSway_Common",
+   "entry": "Armor_Ledgerwarden_Belt",
+   "part": "AshSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    132,
+    130,
+    126
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0297,
+    -0.8455,
+    -0.0098
+   ],
+   "size": [
+    2.4595,
+    1.4669,
+    1.5795
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 240
+  },
+  {
+   "object": "Armor_Ledgerwarden_Belt_BronzeSway_Uncommon",
+   "entry": "Armor_Ledgerwarden_Belt",
+   "part": "BronzeSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.495,
+    -0.2908,
+    -0.6725
+   ],
+   "size": [
+    1.05,
+    0.665,
+    0.285
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 336
+  },
+  {
+   "object": "Armor_Ledgerwarden_Belt_BronzeSway_Rare",
+   "entry": "Armor_Ledgerwarden_Belt",
+   "part": "BronzeSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.8611,
+    -0.3783,
+    -0.6
+   ],
+   "size": [
+    0.4069,
+    0.4677,
+    0.035
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 424
+  },
+  {
+   "object": "Armor_Ledgerwarden_Belt_DarkashSway_Uncommon",
+   "entry": "Armor_Ledgerwarden_Belt",
+   "part": "DarkashSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -1.54,
+    -0.625
+   ],
+   "size": [
+    1.21,
+    0.08,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Ledgerwarden_Belt_GlowSway_Epic",
+   "entry": "Armor_Ledgerwarden_Belt",
+   "part": "GlowSway_Epic",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Epic",
+   "sway": true,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    200,
+    120
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    200,
+    120
+   ],
+   "center": [
+    -0.0,
+    -0.25,
+    -0.805
+   ],
+   "size": [
+    0.04,
+    0.04,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Ledgerwarden_Belt_Iron_Common",
+   "entry": "Armor_Ledgerwarden_Belt",
+   "part": "Iron_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Iron",
+   "color": [
+    120,
+    122,
+    126
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.02,
+    -0.0339
+   ],
+   "size": [
+    2.4081,
+    0.23,
+    1.4021
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 896
+  },
+  {
+   "object": "Armor_Ledgerwarden_Belt_IronSway_Common",
+   "entry": "Armor_Ledgerwarden_Belt",
+   "part": "IronSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Iron",
+   "color": [
+    120,
+    122,
+    126
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1125,
+    -0.72
+   ],
+   "size": [
+    0.34,
+    0.475,
+    0.14
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 128
+  },
+  {
+   "object": "Armor_Ledgerwarden_Belt_Leather_Common",
+   "entry": "Armor_Ledgerwarden_Belt",
+   "part": "Leather_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    92,
+    68,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.151,
+    0.3,
+    1.164
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_Belt_ParchmentSway_Rare",
+   "entry": "Armor_Ledgerwarden_Belt",
+   "part": "ParchmentSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Parchment",
+   "color": [
+    226,
+    212,
+    172
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.55,
+    -0.55,
+    -0.66
+   ],
+   "size": [
+    0.35,
+    0.4351,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronL_Ash_Common",
+   "entry": "Armor_Ledgerwarden_PauldronL",
+   "part": "Ash_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    132,
+    130,
+    126
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronL_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_PauldronL",
+   "part": "Bronze_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.261,
+    0.05,
+    1.262
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronL_Bronze_Rare",
+   "entry": "Armor_Ledgerwarden_PauldronL",
+   "part": "Bronze_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.64,
+    0.5,
+    -0.1
+   ],
+   "size": [
+    0.05,
+    0.05,
+    0.3
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronL_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_PauldronL",
+   "part": "Darkash_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.05,
+    0.5,
+    0.0
+   ],
+   "size": [
+    1.2075,
+    0.32,
+    1.1957
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronL_Parchment_Rare",
+   "entry": "Armor_Ledgerwarden_PauldronL",
+   "part": "Parchment_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Parchment",
+   "color": [
+    226,
+    212,
+    172
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.62,
+    0.25,
+    -0.1
+   ],
+   "size": [
+    0.04,
+    0.555,
+    0.5124
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronR_Ash_Common",
+   "entry": "Armor_Ledgerwarden_PauldronR",
+   "part": "Ash_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    132,
+    130,
+    126
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronR_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_PauldronR",
+   "part": "Bronze_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.261,
+    0.05,
+    1.262
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronR_Bronze_Rare",
+   "entry": "Armor_Ledgerwarden_PauldronR",
+   "part": "Bronze_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.2,
+    0.9898,
+    -0.0527
+   ],
+   "size": [
+    0.28,
+    0.6795,
+    0.6746
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 96
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronR_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_PauldronR",
+   "part": "Darkash_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.05,
+    0.5,
+    0.0
+   ],
+   "size": [
+    1.2075,
+    0.32,
+    1.1957
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronR_Glow_Epic",
+   "entry": "Armor_Ledgerwarden_PauldronR",
+   "part": "Glow_Epic",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    200,
+    120
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    200,
+    120
+   ],
+   "center": [
+    0.2,
+    1.1,
+    -0.25
+   ],
+   "size": [
+    0.12,
+    0.16,
+    0.1039
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Ledgerwarden_PauldronR_Lamp_Rare",
+   "entry": "Armor_Ledgerwarden_PauldronR",
+   "part": "Lamp_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Lamp",
+   "color": [
+    255,
+    214,
+    130
+   ],
+   "material": {
+    "kind": "glass",
+    "metal": 0.0,
+    "roughness": 0.08,
+    "roblox": "Glass"
+   },
+   "glow": null,
+   "center": [
+    0.2,
+    1.1,
+    -0.25
+   ],
+   "size": [
+    0.2,
+    0.22,
+    0.2
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Ledgerwarden_BracerL_Ash_Common",
+   "entry": "Armor_Ledgerwarden_BracerL",
+   "part": "Ash_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    132,
+    130,
+    126
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.309,
+    0.9,
+    1.309
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_BracerL_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_BracerL",
+   "part": "Bronze_Uncommon",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.2,
+    0.0
+   ],
+   "size": [
+    1.161,
+    0.05,
+    1.162
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_BracerL_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_BracerL",
+   "part": "Darkash_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.5,
+    0.0
+   ],
+   "size": [
+    1.341,
+    0.1,
+    1.342
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_BracerR_Ash_Common",
+   "entry": "Armor_Ledgerwarden_BracerR",
+   "part": "Ash_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ash",
+   "color": [
+    132,
+    130,
+    126
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1,
+    0.0
+   ],
+   "size": [
+    1.309,
+    0.9,
+    1.309
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_BracerR_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_BracerR",
+   "part": "Bronze_Uncommon",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.2,
+    0.0
+   ],
+   "size": [
+    1.161,
+    0.05,
+    1.162
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_BracerR_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_BracerR",
+   "part": "Darkash_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.5,
+    0.0
+   ],
+   "size": [
+    1.341,
+    0.1,
+    1.342
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GloveL_Ink_Uncommon",
+   "entry": "Armor_Ledgerwarden_GloveL",
+   "part": "Ink_Uncommon",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ink",
+   "color": [
+    26,
+    30,
+    58
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.2,
+    -0.05,
+    -0.56
+   ],
+   "size": [
+    0.3,
+    0.18,
+    0.03
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GloveL_Ink_Rare",
+   "entry": "Armor_Ledgerwarden_GloveL",
+   "part": "Ink_Rare",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ink",
+   "color": [
+    26,
+    30,
+    58
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.25,
+    0.08,
+    -0.56
+   ],
+   "size": [
+    0.14,
+    0.1,
+    0.03
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GloveL_Leather_Common",
+   "entry": "Armor_Ledgerwarden_GloveL",
+   "part": "Leather_Common",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    92,
+    68,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.06,
+    0.36,
+    1.1
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GloveR_Ink_Uncommon",
+   "entry": "Armor_Ledgerwarden_GloveR",
+   "part": "Ink_Uncommon",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ink",
+   "color": [
+    26,
+    30,
+    58
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.2,
+    -0.05,
+    -0.56
+   ],
+   "size": [
+    0.3,
+    0.18,
+    0.03
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GloveR_Ink_Rare",
+   "entry": "Armor_Ledgerwarden_GloveR",
+   "part": "Ink_Rare",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Ink",
+   "color": [
+    26,
+    30,
+    58
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.25,
+    0.08,
+    -0.56
+   ],
+   "size": [
+    0.14,
+    0.1,
+    0.03
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GloveR_Leather_Common",
+   "entry": "Armor_Ledgerwarden_GloveR",
+   "part": "Leather_Common",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    92,
+    68,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.06,
+    0.36,
+    1.1
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_ThighL_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_ThighL",
+   "part": "Darkash_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    1.093,
+    1.15,
+    1.073
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_ThighR_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_ThighR",
+   "part": "Darkash_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    1.093,
+    1.15,
+    1.073
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GreaveL_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_GreaveL",
+   "part": "Bronze_Uncommon",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.58
+   ],
+   "size": [
+    0.2,
+    0.14,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GreaveL_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_GreaveL",
+   "part": "Darkash_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.1,
+    1.173
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GreaveL_Leather_Common",
+   "entry": "Armor_Ledgerwarden_GreaveL",
+   "part": "Leather_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    92,
+    68,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.12,
+    0.0
+   ],
+   "size": [
+    1.133,
+    1.0,
+    1.113
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GreaveR_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_GreaveR",
+   "part": "Bronze_Uncommon",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.58
+   ],
+   "size": [
+    0.2,
+    0.14,
+    0.05
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GreaveR_Darkash_Common",
+   "entry": "Armor_Ledgerwarden_GreaveR",
+   "part": "Darkash_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Darkash",
+   "color": [
+    72,
+    72,
+    76
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.33,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.1,
+    1.173
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_GreaveR_Leather_Common",
+   "entry": "Armor_Ledgerwarden_GreaveR",
+   "part": "Leather_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    92,
+    68,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.12,
+    0.0
+   ],
+   "size": [
+    1.133,
+    1.0,
+    1.113
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_BootL_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_BootL",
+   "part": "Bronze_Uncommon",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.08,
+    -0.62
+   ],
+   "size": [
+    0.3,
+    0.1,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_BootL_Leather_Common",
+   "entry": "Armor_Ledgerwarden_BootL",
+   "part": "Leather_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    92,
+    68,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.06
+   ],
+   "size": [
+    1.1,
+    0.38,
+    1.24
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_BootR_Bronze_Uncommon",
+   "entry": "Armor_Ledgerwarden_BootR",
+   "part": "Bronze_Uncommon",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bronze",
+   "color": [
+    178,
+    128,
+    70
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.08,
+    -0.62
+   ],
+   "size": [
+    0.3,
+    0.1,
+    0.05
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ledgerwarden_BootR_Leather_Common",
+   "entry": "Armor_Ledgerwarden_BootR",
+   "part": "Leather_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    92,
+    68,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.06
+   ],
+   "size": [
+    1.1,
+    0.38,
+    1.24
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  }
+ ],
+ "tris": {
+  "Common": 2964,
+  "Uncommon": 4516,
+  "Rare": 6376,
+  "Epic": 6448,
+  "Legendary": 6908
+ },
+ "largestMesh": [
+  896,
+  "Armor_Ledgerwarden_Belt_Iron_Common"
+ ],
+ "slots": {
+  "Head": [
+   "Armor_Ledgerwarden_Helm"
+  ],
+  "Chest": [
+   "Armor_Ledgerwarden_Chest",
+   "Armor_Ledgerwarden_Belt"
+  ],
+  "Shoulders": [
+   "Armor_Ledgerwarden_PauldronL",
+   "Armor_Ledgerwarden_PauldronR"
+  ],
+  "Arms": [
+   "Armor_Ledgerwarden_BracerL",
+   "Armor_Ledgerwarden_BracerR",
+   "Armor_Ledgerwarden_GloveL",
+   "Armor_Ledgerwarden_GloveR"
+  ],
+  "Legs": [
+   "Armor_Ledgerwarden_ThighL",
+   "Armor_Ledgerwarden_ThighR",
+   "Armor_Ledgerwarden_GreaveL",
+   "Armor_Ledgerwarden_GreaveR",
+   "Armor_Ledgerwarden_BootL",
+   "Armor_Ledgerwarden_BootR"
+  ]
+ }
+}

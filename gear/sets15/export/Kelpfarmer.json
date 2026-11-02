@@ -1,0 +1,3172 @@
+{
+ "set": "kelpfarmer",
+ "model": "Kelpfarmer",
+ "name": "Kelpfarmer",
+ "glow": [
+  120,
+  255,
+  170
+ ],
+ "axes": "Roblox studs: X = character right, Y = up, -Z = front; centres relative to the body part centre",
+ "objects": [
+  {
+   "object": "Armor_Kelpfarmer_Helm_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "Brass_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.38,
+    0.56,
+    -0.54
+   ],
+   "size": [
+    0.1425,
+    0.15,
+    0.118
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_FloatSway_Rare",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "FloatSway_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Float",
+   "color": [
+    204,
+    66,
+    50
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    1.05,
+    -0.13,
+    -0.2
+   ],
+   "size": [
+    0.3,
+    0.3,
+    0.2853
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 100
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_FloatSway_Legendary",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "FloatSway_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Float",
+   "color": [
+    204,
+    66,
+    50
+   ],
+   "material": {
+    "kind": "paint",
+    "metal": 0.0,
+    "roughness": 0.45,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.95,
+    -0.05,
+    0.5
+   ],
+   "size": [
+    0.24,
+    0.24,
+    0.2283
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 100
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_Glow_Epic",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "Glow_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    120,
+    255,
+    170
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    120,
+    255,
+    170
+   ],
+   "center": [
+    -0.59,
+    1.2,
+    -0.32
+   ],
+   "size": [
+    0.22,
+    0.18,
+    0.2866
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 108
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_Kelp_Rare",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "Kelp_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Kelp",
+   "color": [
+    58,
+    100,
+    50
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.6092,
+    0.8899,
+    -0.2441
+   ],
+   "size": [
+    0.2451,
+    0.5766,
+    0.4213
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 60
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_KelpSway_Legendary",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "KelpSway_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Kelp",
+   "color": [
+    58,
+    100,
+    50
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0001,
+    0.1227,
+    0.9775
+   ],
+   "size": [
+    1.33,
+    0.5546,
+    0.1143
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 80
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_Moss_Common",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "Moss_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    122,
+    58
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.56,
+    0.02
+   ],
+   "size": [
+    1.32,
+    0.13,
+    1.2869
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 52
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_RubberSway_Rare",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "RubberSway_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    1.05,
+    0.2,
+    -0.2
+   ],
+   "size": [
+    0.03,
+    0.4,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_RubberSway_Legendary",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "RubberSway_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.95,
+    0.235,
+    0.5
+   ],
+   "size": [
+    0.03,
+    0.33,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_Straw_Common",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "Straw_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Straw",
+   "color": [
+    222,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.69,
+    0.02
+   ],
+   "size": [
+    2.56,
+    0.58,
+    2.5211
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 172
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_Straw_Uncommon",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "Straw_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Straw",
+   "color": [
+    222,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.4,
+    0.02
+   ],
+   "size": [
+    2.43,
+    0.09,
+    2.3931
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 144
+  },
+  {
+   "object": "Armor_Kelpfarmer_Helm_StrawSway_Rare",
+   "entry": "Armor_Kelpfarmer_Helm",
+   "part": "StrawSway_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Straw",
+   "color": [
+    222,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    1.05,
+    -0.13,
+    -0.2
+   ],
+   "size": [
+    0.31,
+    0.08,
+    0.2948
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Brass_Common",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Brass_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.28,
+    0.01,
+    -0.64
+   ],
+   "size": [
+    0.22,
+    1.15,
+    0.05
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 176
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Brass_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.2325,
+    -0.02,
+    -0.64
+   ],
+   "size": [
+    1.075,
+    1.8,
+    0.07
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Brass_Legendary",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Brass_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.3,
+    1.05,
+    0.88
+   ],
+   "size": [
+    0.156,
+    0.072,
+    0.156
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Glow_Epic",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Glow_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    120,
+    255,
+    170
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    120,
+    255,
+    170
+   ],
+   "center": [
+    0.085,
+    0.845,
+    0.1693
+   ],
+   "size": [
+    0.77,
+    0.23,
+    1.6653
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 144
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_KelpSway_Rare",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "KelpSway_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Kelp",
+   "color": [
+    58,
+    100,
+    50
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.1605,
+    0.6447,
+    0.15
+   ],
+   "size": [
+    1.1399,
+    0.603,
+    1.53
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 160
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Moss_Common",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Moss_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    122,
+    58
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.9,
+    -0.02
+   ],
+   "size": [
+    1.4538,
+    0.24,
+    1.1803
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_MossSway_Uncommon",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "MossSway_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    122,
+    58
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.42,
+    0.5,
+    -0.6691
+   ],
+   "size": [
+    0.2614,
+    0.7267,
+    0.0981
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 60
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Oilskin_Common",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Oilskin_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Oilskin",
+   "color": [
+    184,
+    156,
+    70
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.0005,
+    -0.039
+   ],
+   "size": [
+    2.083,
+    1.839,
+    1.222
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Rubber_Rare",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Rubber_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.1,
+    0.0151,
+    0.0
+   ],
+   "size": [
+    1.3655,
+    1.582,
+    1.17
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Steel_Legendary",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Steel_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    170,
+    178,
+    182
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.06,
+    1.0739,
+    0.9838
+   ],
+   "size": [
+    0.084,
+    0.6118,
+    0.3968
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 84
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Straw_Rare",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Straw_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Straw",
+   "color": [
+    222,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.08,
+    -0.05,
+    0.84
+   ],
+   "size": [
+    1.14,
+    1.0,
+    0.614
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Wood_Rare",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Wood_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wood",
+   "color": [
+    122,
+    88,
+    54
+   ],
+   "material": {
+    "kind": "wood",
+    "metal": 0.0,
+    "roughness": 0.75,
+    "roblox": "Wood"
+   },
+   "glow": null,
+   "center": [
+    -0.08,
+    -0.01,
+    0.84
+   ],
+   "size": [
+    1.12,
+    0.84,
+    0.62
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 132
+  },
+  {
+   "object": "Armor_Kelpfarmer_Chest_Wood_Legendary",
+   "entry": "Armor_Kelpfarmer_Chest",
+   "part": "Wood_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wood",
+   "color": [
+    122,
+    88,
+    54
+   ],
+   "material": {
+    "kind": "wood",
+    "metal": 0.0,
+    "roughness": 0.75,
+    "roblox": "Wood"
+   },
+   "glow": null,
+   "center": [
+    0.3,
+    0.786,
+    0.88
+   ],
+   "size": [
+    0.12,
+    0.504,
+    0.12
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_Brass_Common",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "Brass_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.6
+   ],
+   "size": [
+    0.36,
+    0.26,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_BrassSway_Common",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "BrassSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.78,
+    -0.12,
+    -0.66
+   ],
+   "size": [
+    0.169,
+    0.078,
+    0.169
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_BrassSway_Uncommon",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "BrassSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -1.16,
+    -0.63
+   ],
+   "size": [
+    2.195,
+    0.06,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 24
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_Brass_Rare",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "Brass_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.65
+   ],
+   "size": [
+    0.5,
+    0.42,
+    0.13
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_Glow_Epic",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "Glow_Epic",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    120,
+    255,
+    170
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    120,
+    255,
+    170
+   ],
+   "center": [
+    1.23,
+    -0.35,
+    -0.1
+   ],
+   "size": [
+    0.02,
+    0.05,
+    0.36
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 12
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_Kelp_Rare",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "Kelp_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Kelp",
+   "color": [
+    58,
+    100,
+    50
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.0029,
+    0.0,
+    -0.68
+   ],
+   "size": [
+    0.2004,
+    0.3081,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_KelpSway_Rare",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "KelpSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Kelp",
+   "color": [
+    58,
+    100,
+    50
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    1.12,
+    -0.05,
+    -0.1
+   ],
+   "size": [
+    0.03,
+    0.36,
+    0.42
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 60
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_OilskinSway_Common",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "OilskinSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Oilskin",
+   "color": [
+    184,
+    156,
+    70
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.6706,
+    -0.0193
+   ],
+   "size": [
+    2.214,
+    1.1299,
+    1.6985
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 180
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "Rubber_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.034
+   ],
+   "size": [
+    2.171,
+    0.3,
+    1.252
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_Rubber_Rare",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "Rubber_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.65
+   ],
+   "size": [
+    0.4,
+    0.32,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_SteelSway_Common",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "SteelSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    170,
+    178,
+    182
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -1.0401,
+    0.0185,
+    -0.66
+   ],
+   "size": [
+    0.6628,
+    0.4299,
+    0.091
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 84
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_Steel_Rare",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "Steel_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Steel",
+   "color": [
+    170,
+    178,
+    182
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.09,
+    0.12,
+    -0.7
+   ],
+   "size": [
+    0.1606,
+    0.0889,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_StrawSway_Rare",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "StrawSway_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Straw",
+   "color": [
+    222,
+    196,
+    128
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    1.1,
+    -0.35,
+    -0.1
+   ],
+   "size": [
+    0.24,
+    0.42,
+    0.5
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_Belt_WoodSway_Common",
+   "entry": "Armor_Kelpfarmer_Belt",
+   "part": "WoodSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Wood",
+   "color": [
+    122,
+    88,
+    54
+   ],
+   "material": {
+    "kind": "wood",
+    "metal": 0.0,
+    "roughness": 0.75,
+    "roblox": "Wood"
+   },
+   "glow": null,
+   "center": [
+    -0.78,
+    -0.406,
+    -0.66
+   ],
+   "size": [
+    0.13,
+    0.546,
+    0.13
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Kelpfarmer_PauldronL_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_PauldronL",
+   "part": "Brass_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.31,
+    0.0
+   ],
+   "size": [
+    1.261,
+    0.05,
+    1.262
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_PauldronL_Glow_Epic",
+   "entry": "Armor_Kelpfarmer_PauldronL",
+   "part": "Glow_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    120,
+    255,
+    170
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    120,
+    255,
+    170
+   ],
+   "center": [
+    -0.37,
+    -0.15,
+    -0.7
+   ],
+   "size": [
+    0.1,
+    0.1,
+    0.0866
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 36
+  },
+  {
+   "object": "Armor_Kelpfarmer_PauldronL_KelpSway_Rare",
+   "entry": "Armor_Kelpfarmer_PauldronL",
+   "part": "KelpSway_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Kelp",
+   "color": [
+    58,
+    100,
+    50
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.3699,
+    0.2379,
+    -0.6892
+   ],
+   "size": [
+    0.3706,
+    0.7758,
+    0.1384
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 84
+  },
+  {
+   "object": "Armor_Kelpfarmer_PauldronL_Oilskin_Common",
+   "entry": "Armor_Kelpfarmer_PauldronL",
+   "part": "Oilskin_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Oilskin",
+   "color": [
+    184,
+    156,
+    70
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.05,
+    0.1175,
+    0.0
+   ],
+   "size": [
+    1.2079,
+    1.085,
+    1.1971
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_PauldronR_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_PauldronR",
+   "part": "Brass_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.31,
+    0.0
+   ],
+   "size": [
+    1.261,
+    0.05,
+    1.262
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_PauldronR_Oilskin_Common",
+   "entry": "Armor_Kelpfarmer_PauldronR",
+   "part": "Oilskin_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Oilskin",
+   "color": [
+    184,
+    156,
+    70
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.05,
+    0.1175,
+    0.0
+   ],
+   "size": [
+    1.2079,
+    1.085,
+    1.1971
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_PauldronR_Wood_Rare",
+   "entry": "Armor_Kelpfarmer_PauldronR",
+   "part": "Wood_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wood",
+   "color": [
+    122,
+    88,
+    54
+   ],
+   "material": {
+    "kind": "wood",
+    "metal": 0.0,
+    "roughness": 0.75,
+    "roblox": "Wood"
+   },
+   "glow": null,
+   "center": [
+    0.64,
+    0.42,
+    0.0
+   ],
+   "size": [
+    0.1541,
+    0.88,
+    0.8579
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 280
+  },
+  {
+   "object": "Armor_Kelpfarmer_BracerL_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_BracerL",
+   "part": "Brass_Uncommon",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.24,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.05,
+    1.282
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_BracerL_Moss_Common",
+   "entry": "Armor_Kelpfarmer_BracerL",
+   "part": "Moss_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    122,
+    58
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.241,
+    0.95,
+    1.242
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_BracerL_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_BracerL",
+   "part": "Rubber_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.36,
+    0.0
+   ],
+   "size": [
+    1.241,
+    0.28,
+    1.242
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_BracerR_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_BracerR",
+   "part": "Brass_Uncommon",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.24,
+    0.0
+   ],
+   "size": [
+    1.281,
+    0.05,
+    1.282
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_BracerR_Moss_Common",
+   "entry": "Armor_Kelpfarmer_BracerR",
+   "part": "Moss_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    122,
+    58
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.241,
+    0.95,
+    1.242
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_BracerR_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_BracerR",
+   "part": "Rubber_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.36,
+    0.0
+   ],
+   "size": [
+    1.241,
+    0.28,
+    1.242
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_GloveL_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_GloveL",
+   "part": "Rubber_Common",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.1,
+    0.38,
+    1.12
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_GloveR_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_GloveR",
+   "part": "Rubber_Common",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.1,
+    0.38,
+    1.12
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_ThighL_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_ThighL",
+   "part": "Brass_Uncommon",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.035,
+    -0.62
+   ],
+   "size": [
+    0.2,
+    0.65,
+    0.09
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_ThighL_Moss_Common",
+   "entry": "Armor_Kelpfarmer_ThighL",
+   "part": "Moss_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    122,
+    58
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.073,
+    1.25,
+    1.053
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_ThighL_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_ThighL",
+   "part": "Rubber_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    -0.1275,
+    0.0
+   ],
+   "size": [
+    1.293,
+    0.855,
+    1.273
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_ThighR_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_ThighR",
+   "part": "Brass_Uncommon",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.035,
+    -0.62
+   ],
+   "size": [
+    0.2,
+    0.65,
+    0.09
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_ThighR_Moss_Common",
+   "entry": "Armor_Kelpfarmer_ThighR",
+   "part": "Moss_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Moss",
+   "color": [
+    92,
+    122,
+    58
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.073,
+    1.25,
+    1.053
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_ThighR_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_ThighR",
+   "part": "Rubber_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.1275,
+    0.0
+   ],
+   "size": [
+    1.293,
+    0.855,
+    1.273
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Kelpfarmer_GreaveL_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_GreaveL",
+   "part": "Brass_Uncommon",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.12,
+    0.0
+   ],
+   "size": [
+    1.233,
+    0.04,
+    1.213
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_GreaveL_KelpSway_Rare",
+   "entry": "Armor_Kelpfarmer_GreaveL",
+   "part": "KelpSway_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Kelp",
+   "color": [
+    58,
+    100,
+    50
+   ],
+   "material": {
+    "kind": "plant",
+    "metal": 0.0,
+    "roughness": 0.7,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.3025,
+    0.35,
+    -0.62
+   ],
+   "size": [
+    0.1652,
+    0.4347,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Kelpfarmer_GreaveL_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_GreaveL",
+   "part": "Rubber_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.193,
+    1.15,
+    1.173
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_GreaveR_Brass_Uncommon",
+   "entry": "Armor_Kelpfarmer_GreaveR",
+   "part": "Brass_Uncommon",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Brass",
+   "color": [
+    192,
+    150,
+    72
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.12,
+    0.0
+   ],
+   "size": [
+    1.233,
+    0.04,
+    1.213
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_GreaveR_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_GreaveR",
+   "part": "Rubber_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    0.0
+   ],
+   "size": [
+    1.193,
+    1.15,
+    1.173
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_BootL_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_BootL",
+   "part": "Rubber_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.08
+   ],
+   "size": [
+    1.16,
+    0.42,
+    1.3
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_BootL_Wood_Uncommon",
+   "entry": "Armor_Kelpfarmer_BootL",
+   "part": "Wood_Uncommon",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wood",
+   "color": [
+    122,
+    88,
+    54
+   ],
+   "material": {
+    "kind": "wood",
+    "metal": 0.0,
+    "roughness": 0.75,
+    "roblox": "Wood"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.17,
+    -0.08
+   ],
+   "size": [
+    1.18,
+    0.08,
+    1.32
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_BootR_Rubber_Common",
+   "entry": "Armor_Kelpfarmer_BootR",
+   "part": "Rubber_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Rubber",
+   "color": [
+    50,
+    56,
+    52
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.08
+   ],
+   "size": [
+    1.16,
+    0.42,
+    1.3
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Kelpfarmer_BootR_Wood_Uncommon",
+   "entry": "Armor_Kelpfarmer_BootR",
+   "part": "Wood_Uncommon",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wood",
+   "color": [
+    122,
+    88,
+    54
+   ],
+   "material": {
+    "kind": "wood",
+    "metal": 0.0,
+    "roughness": 0.75,
+    "roblox": "Wood"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.17,
+    -0.08
+   ],
+   "size": [
+    1.18,
+    0.08,
+    1.32
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  }
+ ],
+ "tris": {
+  "Common": 1996,
+  "Uncommon": 2884,
+  "Rare": 4200,
+  "Epic": 4500,
+  "Legendary": 4832
+ },
+ "largestMesh": [
+  280,
+  "Armor_Kelpfarmer_PauldronR_Wood_Rare"
+ ],
+ "slots": {
+  "Head": [
+   "Armor_Kelpfarmer_Helm"
+  ],
+  "Chest": [
+   "Armor_Kelpfarmer_Chest",
+   "Armor_Kelpfarmer_Belt"
+  ],
+  "Shoulders": [
+   "Armor_Kelpfarmer_PauldronL",
+   "Armor_Kelpfarmer_PauldronR"
+  ],
+  "Arms": [
+   "Armor_Kelpfarmer_BracerL",
+   "Armor_Kelpfarmer_BracerR",
+   "Armor_Kelpfarmer_GloveL",
+   "Armor_Kelpfarmer_GloveR"
+  ],
+  "Legs": [
+   "Armor_Kelpfarmer_ThighL",
+   "Armor_Kelpfarmer_ThighR",
+   "Armor_Kelpfarmer_GreaveL",
+   "Armor_Kelpfarmer_GreaveR",
+   "Armor_Kelpfarmer_BootL",
+   "Armor_Kelpfarmer_BootR"
+  ]
+ }
+}

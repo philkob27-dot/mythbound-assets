@@ -1,0 +1,4203 @@
+{
+ "set": "ascendant",
+ "model": "Ascendant",
+ "name": "Eyrie Ascendant",
+ "glow": [
+  255,
+  226,
+  150
+ ],
+ "axes": "Roblox studs: X = character right, Y = up, -Z = front; centres relative to the body part centre",
+ "objects": [
+  {
+   "object": "Armor_Ascendant_Helm_Bone_Common",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Bone_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0495,
+    -0.04
+   ],
+   "size": [
+    1.42,
+    1.381,
+    1.44
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 308
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Bone_Uncommon",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Bone_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.85,
+    -0.72
+   ],
+   "size": [
+    0.26,
+    0.18,
+    0.08
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Bone_Rare",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Bone_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.08,
+    -0.765
+   ],
+   "size": [
+    0.3744,
+    0.1512,
+    0.03
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Feather_Uncommon",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Feather_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0021,
+    0.2,
+    -0.55
+   ],
+   "size": [
+    1.3624,
+    0.3897,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Feather_Rare",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Feather_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.2358,
+    -0.55
+   ],
+   "size": [
+    1.6497,
+    0.5968,
+    0.04
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 112
+  },
+  {
+   "object": "Armor_Ascendant_Helm_FeatherSway_Legendary",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "FeatherSway_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.15,
+    0.7
+   ],
+   "size": [
+    1.6114,
+    0.9918,
+    0.213
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 196
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Glow_Epic",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Glow_Epic",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    226,
+    150
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    226,
+    150
+   ],
+   "center": [
+    -0.0,
+    1.08,
+    -0.795
+   ],
+   "size": [
+    0.072,
+    0.072,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Gold_Uncommon",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Gold_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.42,
+    -0.72
+   ],
+   "size": [
+    0.6,
+    0.08,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Gold_Rare",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Gold_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    1.08,
+    -0.755
+   ],
+   "size": [
+    0.468,
+    0.216,
+    0.08
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Tip_Uncommon",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Tip_Uncommon",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0088,
+    0.3458,
+    -0.55
+   ],
+   "size": [
+    1.4541,
+    0.1444,
+    0.045
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Tip_Rare",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Tip_Rare",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0005,
+    -0.1518,
+    -0.55
+   ],
+   "size": [
+    1.6949,
+    0.5206,
+    0.045
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 112
+  },
+  {
+   "object": "Armor_Ascendant_Helm_TipSway_Legendary",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "TipSway_Legendary",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Legendary",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0015,
+    1.3683,
+    0.766
+   ],
+   "size": [
+    1.6704,
+    0.5955,
+    0.0929
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 196
+  },
+  {
+   "object": "Armor_Ascendant_Helm_Wool_Common",
+   "entry": "Armor_Ascendant_Helm",
+   "part": "Wool_Common",
+   "piece": "Helm",
+   "slot": "Head",
+   "attach": "Head",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wool",
+   "color": [
+    172,
+    148,
+    114
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.04,
+    0.1817
+   ],
+   "size": [
+    1.5929,
+    2.002,
+    1.6844
+   ],
+   "bodyCenter": [
+    -0.0,
+    4.54,
+    0.0
+   ],
+   "bodySize": [
+    1.159,
+    1.182,
+    1.161
+   ],
+   "tris": 264
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Bone_Common",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Bone_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.07,
+    -0.6
+   ],
+   "size": [
+    1.74,
+    1.2,
+    0.1
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 176
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Bone_Rare",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Bone_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0199,
+    0.4958,
+    0.025
+   ],
+   "size": [
+    0.4498,
+    0.7492,
+    1.69
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 216
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Feather_Common",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Feather_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0006,
+    0.98,
+    -0.3517
+   ],
+   "size": [
+    2.5823,
+    0.5627,
+    1.0709
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 168
+  },
+  {
+   "object": "Armor_Ascendant_Chest_FeatherSway_Common",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "FeatherSway_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.4877,
+    0.7157
+   ],
+   "size": [
+    2.3111,
+    2.6153,
+    0.703
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 360
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Feather_Uncommon",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Feather_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.0006,
+    0.98,
+    -0.4998
+   ],
+   "size": [
+    2.5823,
+    0.5619,
+    0.8809
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 140
+  },
+  {
+   "object": "Armor_Ascendant_Chest_FeatherSway_Uncommon",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "FeatherSway_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.012,
+    0.25,
+    0.82
+   ],
+   "size": [
+    1.716,
+    0.7908,
+    0.2055
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 140
+  },
+  {
+   "object": "Armor_Ascendant_Chest_FeatherSway_Rare",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "FeatherSway_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.012,
+    -0.37,
+    0.94
+   ],
+   "size": [
+    2.076,
+    0.7767,
+    0.2721
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 168
+  },
+  {
+   "object": "Armor_Ascendant_Chest_FeatherSway_Epic",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "FeatherSway_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.012,
+    -0.99,
+    1.06
+   ],
+   "size": [
+    2.436,
+    0.7567,
+    0.3368
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 196
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Glow_Epic",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Glow_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    226,
+    150
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    226,
+    150
+   ],
+   "center": [
+    -0.0,
+    0.18,
+    -0.835
+   ],
+   "size": [
+    0.056,
+    0.056,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Glow_Legendary",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Glow_Legendary",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "glow",
+   "colorRole": "Glow",
+   "color": [
+    255,
+    226,
+    150
+   ],
+   "material": {
+    "kind": "glow",
+    "metal": 0.0,
+    "roughness": 0.4,
+    "roblox": "Neon"
+   },
+   "glow": [
+    255,
+    226,
+    150
+   ],
+   "center": [
+    -0.12,
+    0.82,
+    0.885
+   ],
+   "size": [
+    0.048,
+    0.048,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Gold_Uncommon",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Gold_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.17,
+    -0.655
+   ],
+   "size": [
+    1.76,
+    0.99,
+    0.02
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 48
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Gold_Rare",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Gold_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.038,
+    0.4385,
+    0.025
+   ],
+   "size": [
+    0.476,
+    0.907,
+    1.72
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 164
+  },
+  {
+   "object": "Armor_Ascendant_Chest_GoldSway_Rare",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "GoldSway_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.525,
+    -0.68
+   ],
+   "size": [
+    0.98,
+    0.63,
+    0.0693
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 324
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Sash_Common",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Sash_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Sash",
+   "color": [
+    150,
+    62,
+    44
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    -0.56
+   ],
+   "size": [
+    0.3,
+    1.7,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Tip_Common",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Tip_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0109,
+    1.1809,
+    -0.2248
+   ],
+   "size": [
+    2.6919,
+    0.2289,
+    0.6967
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 168
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Tip_Uncommon",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Tip_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0109,
+    1.1809,
+    -0.3322
+   ],
+   "size": [
+    2.6919,
+    0.2289,
+    0.554
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 140
+  },
+  {
+   "object": "Armor_Ascendant_Chest_TipSway_Uncommon",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "TipSway_Uncommon",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0126,
+    0.5474,
+    0.8832
+   ],
+   "size": [
+    1.7298,
+    0.2285,
+    0.0906
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 140
+  },
+  {
+   "object": "Armor_Ascendant_Chest_TipSway_Rare",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "TipSway_Rare",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0126,
+    -0.0793,
+    1.0289
+   ],
+   "size": [
+    2.0898,
+    0.2274,
+    0.1085
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 168
+  },
+  {
+   "object": "Armor_Ascendant_Chest_TipSway_Epic",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "TipSway_Epic",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Epic",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0126,
+    -0.7081,
+    1.1739
+   ],
+   "size": [
+    2.4498,
+    0.2245,
+    0.1256
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 196
+  },
+  {
+   "object": "Armor_Ascendant_Chest_Wool_Common",
+   "entry": "Armor_Ascendant_Chest",
+   "part": "Wool_Common",
+   "piece": "Chest",
+   "slot": "Chest",
+   "attach": "UpperTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wool",
+   "color": [
+    172,
+    148,
+    114
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.063,
+    1.818,
+    1.124
+   ],
+   "bodyCenter": [
+    -0.0,
+    3.15,
+    0.0
+   ],
+   "bodySize": [
+    1.943,
+    1.698,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_Belt_BoneSway_Uncommon",
+   "entry": "Armor_Ascendant_Belt",
+   "part": "BoneSway_Uncommon",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.85,
+    -0.62
+   ],
+   "size": [
+    1.66,
+    1.36,
+    0.1
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 100
+  },
+  {
+   "object": "Armor_Ascendant_Belt_Bone_Rare",
+   "entry": "Armor_Ascendant_Belt",
+   "part": "Bone_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0109,
+    -0.0013,
+    -0.6525
+   ],
+   "size": [
+    0.2474,
+    0.3,
+    0.075
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 196
+  },
+  {
+   "object": "Armor_Ascendant_Belt_Gold_Common",
+   "entry": "Armor_Ascendant_Belt",
+   "part": "Gold_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    -0.6
+   ],
+   "size": [
+    0.46,
+    0.3,
+    0.06
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_Belt_Gold_Rare",
+   "entry": "Armor_Ascendant_Belt",
+   "part": "Gold_Rare",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.066,
+    0.121,
+    -0.665
+   ],
+   "size": [
+    0.1716,
+    0.0792,
+    0.08
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_Belt_Leather_Common",
+   "entry": "Armor_Ascendant_Belt",
+   "part": "Leather_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    88,
+    64,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    2.151,
+    0.3,
+    1.164
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_Belt_SashSway_Common",
+   "entry": "Armor_Ascendant_Belt",
+   "part": "SashSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Sash",
+   "color": [
+    150,
+    62,
+    44
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.8667,
+    -0.7248
+   ],
+   "size": [
+    0.33,
+    1.5066,
+    0.2496
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 28
+  },
+  {
+   "object": "Armor_Ascendant_Belt_WoolSway_Common",
+   "entry": "Armor_Ascendant_Belt",
+   "part": "WoolSway_Common",
+   "piece": "Belt",
+   "slot": "Chest",
+   "attach": "LowerTorso",
+   "rarity": "Common",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Wool",
+   "color": [
+    172,
+    148,
+    114
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0297,
+    -0.846,
+    -0.0047
+   ],
+   "size": [
+    2.4595,
+    1.4684,
+    1.6294
+   ],
+   "bodyCenter": [
+    -0.0,
+    2.15,
+    0.0
+   ],
+   "bodySize": [
+    1.991,
+    0.401,
+    1.004
+   ],
+   "tris": 240
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_Bone_Common",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "Bone_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.1432,
+    0.48,
+    0.0
+   ],
+   "size": [
+    1.3637,
+    0.52,
+    1.315
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_Bone_Epic",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "Bone_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.16,
+    0.32,
+    -0.715
+   ],
+   "size": [
+    0.208,
+    0.084,
+    0.03
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_FeatherSway_Uncommon",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "FeatherSway_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.6121,
+    0.05,
+    -0.15
+   ],
+   "size": [
+    0.2365,
+    0.5446,
+    0.64
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_FeatherSway_Rare",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "FeatherSway_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.6121,
+    0.05,
+    0.15
+   ],
+   "size": [
+    0.2365,
+    0.5446,
+    0.64
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_Gold_Uncommon",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "Gold_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.16,
+    0.21,
+    0.0
+   ],
+   "size": [
+    1.36,
+    0.05,
+    1.34
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_Gold_Epic",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "Gold_Epic",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.16,
+    0.32,
+    -0.705
+   ],
+   "size": [
+    0.26,
+    0.12,
+    0.08
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_Gold_Legendary",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "Gold_Legendary",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.1,
+    0.85,
+    0.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    0.0866
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 10
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_TipSway_Uncommon",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "TipSway_Uncommon",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.6417,
+    0.257,
+    -0.15
+   ],
+   "size": [
+    0.2307,
+    0.1525,
+    0.645
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_TipSway_Rare",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "TipSway_Rare",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.6417,
+    0.257,
+    0.15
+   ],
+   "size": [
+    0.2307,
+    0.1525,
+    0.645
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronL_Wool_Common",
+   "entry": "Armor_Ascendant_PauldronL",
+   "part": "Wool_Common",
+   "piece": "PauldronL",
+   "slot": "Shoulders",
+   "attach": "LeftUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wool",
+   "color": [
+    172,
+    148,
+    114
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    -1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_Bone_Common",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "Bone_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.1432,
+    0.48,
+    0.0
+   ],
+   "size": [
+    1.3637,
+    0.52,
+    1.315
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 88
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_Bone_Epic",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "Bone_Epic",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.16,
+    0.32,
+    -0.715
+   ],
+   "size": [
+    0.208,
+    0.084,
+    0.03
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_FeatherSway_Uncommon",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "FeatherSway_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.5907,
+    0.05,
+    -0.15
+   ],
+   "size": [
+    0.2336,
+    0.5446,
+    0.64
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_FeatherSway_Rare",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "FeatherSway_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Feather",
+   "color": [
+    112,
+    82,
+    60
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.5907,
+    0.05,
+    0.15
+   ],
+   "size": [
+    0.2336,
+    0.5446,
+    0.64
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_Gold_Uncommon",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "Gold_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.16,
+    0.21,
+    0.0
+   ],
+   "size": [
+    1.36,
+    0.05,
+    1.34
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_Gold_Epic",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "Gold_Epic",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Epic",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.16,
+    0.32,
+    -0.705
+   ],
+   "size": [
+    0.26,
+    0.12,
+    0.08
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_Gold_Legendary",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "Gold_Legendary",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Legendary",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.1,
+    0.85,
+    0.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    0.0866
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 10
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_TipSway_Uncommon",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "TipSway_Uncommon",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Uncommon",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.6218,
+    0.257,
+    -0.15
+   ],
+   "size": [
+    0.2285,
+    0.1525,
+    0.645
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_TipSway_Rare",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "TipSway_Rare",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Rare",
+   "sway": true,
+   "role": "solid",
+   "colorRole": "Tip",
+   "color": [
+    242,
+    238,
+    228
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    0.6218,
+    0.257,
+    0.15
+   ],
+   "size": [
+    0.2285,
+    0.1525,
+    0.645
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_PauldronR_Wool_Common",
+   "entry": "Armor_Ascendant_PauldronR",
+   "part": "Wool_Common",
+   "piece": "PauldronR",
+   "slot": "Shoulders",
+   "attach": "RightUpperArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wool",
+   "color": [
+    172,
+    148,
+    114
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    0.0
+   ],
+   "size": [
+    1.101,
+    0.95,
+    1.102
+   ],
+   "bodyCenter": [
+    1.472,
+    3.38,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.242,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BracerL_Bone_Common",
+   "entry": "Armor_Ascendant_BracerL",
+   "part": "Bone_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    -0.6
+   ],
+   "size": [
+    0.6,
+    0.7,
+    0.1
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BracerL_Gold_Uncommon",
+   "entry": "Armor_Ascendant_BracerL",
+   "part": "Gold_Uncommon",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.45,
+    0.0
+   ],
+   "size": [
+    1.241,
+    0.05,
+    1.242
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BracerL_Leather_Common",
+   "entry": "Armor_Ascendant_BracerL",
+   "part": "Leather_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    88,
+    64,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.35,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.08,
+    1.202
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BracerL_Wool_Common",
+   "entry": "Armor_Ascendant_BracerL",
+   "part": "Wool_Common",
+   "piece": "BracerL",
+   "slot": "Arms",
+   "attach": "LeftLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wool",
+   "color": [
+    172,
+    148,
+    114
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.141,
+    0.95,
+    1.142
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BracerR_Bone_Common",
+   "entry": "Armor_Ascendant_BracerR",
+   "part": "Bone_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.05,
+    -0.6
+   ],
+   "size": [
+    0.6,
+    0.7,
+    0.1
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BracerR_Gold_Uncommon",
+   "entry": "Armor_Ascendant_BracerR",
+   "part": "Gold_Uncommon",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.45,
+    0.0
+   ],
+   "size": [
+    1.241,
+    0.05,
+    1.242
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BracerR_Leather_Common",
+   "entry": "Armor_Ascendant_BracerR",
+   "part": "Leather_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    88,
+    64,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.35,
+    0.0
+   ],
+   "size": [
+    1.201,
+    0.08,
+    1.202
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BracerR_Wool_Common",
+   "entry": "Armor_Ascendant_BracerR",
+   "part": "Wool_Common",
+   "piece": "BracerR",
+   "slot": "Arms",
+   "attach": "RightLowerArm",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wool",
+   "color": [
+    172,
+    148,
+    114
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.141,
+    0.95,
+    1.142
+   ],
+   "bodyCenter": [
+    1.472,
+    2.71,
+    0.0
+   ],
+   "bodySize": [
+    1.001,
+    1.118,
+    1.002
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_GloveL_Gold_Rare",
+   "entry": "Armor_Ascendant_GloveL",
+   "part": "Gold_Rare",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.2326,
+    -0.5403
+   ],
+   "size": [
+    0.66,
+    0.2027,
+    0.1091
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 30
+  },
+  {
+   "object": "Armor_Ascendant_GloveL_Leather_Common",
+   "entry": "Armor_Ascendant_GloveL",
+   "part": "Leather_Common",
+   "piece": "GloveL",
+   "slot": "Arms",
+   "attach": "LeftHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    88,
+    64,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.06,
+    0.36,
+    1.1
+   ],
+   "bodyCenter": [
+    -1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_GloveR_Gold_Rare",
+   "entry": "Armor_Ascendant_GloveR",
+   "part": "Gold_Rare",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.2326,
+    -0.5403
+   ],
+   "size": [
+    0.66,
+    0.2027,
+    0.1091
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 30
+  },
+  {
+   "object": "Armor_Ascendant_GloveR_Leather_Common",
+   "entry": "Armor_Ascendant_GloveR",
+   "part": "Leather_Common",
+   "piece": "GloveR",
+   "slot": "Arms",
+   "attach": "RightHand",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    88,
+    64,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    1.06,
+    0.36,
+    1.1
+   ],
+   "bodyCenter": [
+    1.472,
+    2.11,
+    0.0
+   ],
+   "bodySize": [
+    0.984,
+    0.316,
+    1.028
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_ThighL_Wool_Common",
+   "entry": "Armor_Ascendant_ThighL",
+   "part": "Wool_Common",
+   "piece": "ThighL",
+   "slot": "Legs",
+   "attach": "LeftUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wool",
+   "color": [
+    172,
+    148,
+    114
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    1.093,
+    1.15,
+    1.073
+   ],
+   "bodyCenter": [
+    -0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_ThighR_Wool_Common",
+   "entry": "Armor_Ascendant_ThighR",
+   "part": "Wool_Common",
+   "piece": "ThighR",
+   "slot": "Legs",
+   "attach": "RightUpperLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Wool",
+   "color": [
+    172,
+    148,
+    114
+   ],
+   "material": {
+    "kind": "cloth",
+    "metal": 0.0,
+    "roughness": 0.88,
+    "roblox": "Fabric"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.08,
+    0.0
+   ],
+   "size": [
+    1.093,
+    1.15,
+    1.073
+   ],
+   "bodyCenter": [
+    0.497,
+    1.38,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.363,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_GreaveL_Bone_Common",
+   "entry": "Armor_Ascendant_GreaveL",
+   "part": "Bone_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.05,
+    -0.58
+   ],
+   "size": [
+    0.62,
+    0.8,
+    0.12
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_GreaveL_Bone_Rare",
+   "entry": "Armor_Ascendant_GreaveL",
+   "part": "Bone_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0119,
+    0.0986,
+    -0.6725
+   ],
+   "size": [
+    0.2699,
+    0.3272,
+    0.075
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 196
+  },
+  {
+   "object": "Armor_Ascendant_GreaveL_Gold_Uncommon",
+   "entry": "Armor_Ascendant_GreaveL",
+   "part": "Gold_Uncommon",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.4,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.05,
+    1.173
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_GreaveL_Gold_Rare",
+   "entry": "Armor_Ascendant_GreaveL",
+   "part": "Gold_Rare",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.072,
+    0.232,
+    -0.685
+   ],
+   "size": [
+    0.1872,
+    0.0864,
+    0.08
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_GreaveL_Leather_Common",
+   "entry": "Armor_Ascendant_GreaveL",
+   "part": "Leather_Common",
+   "piece": "GreaveL",
+   "slot": "Legs",
+   "attach": "LeftLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    88,
+    64,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.12,
+    0.0
+   ],
+   "size": [
+    1.133,
+    1.0,
+    1.113
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_GreaveR_Bone_Common",
+   "entry": "Armor_Ascendant_GreaveR",
+   "part": "Bone_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    0.05,
+    -0.58
+   ],
+   "size": [
+    0.62,
+    0.8,
+    0.12
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_GreaveR_Bone_Rare",
+   "entry": "Armor_Ascendant_GreaveR",
+   "part": "Bone_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Bone",
+   "color": [
+    236,
+    226,
+    200
+   ],
+   "material": {
+    "kind": "bone",
+    "metal": 0.0,
+    "roughness": 0.55,
+    "roblox": "SmoothPlastic"
+   },
+   "glow": null,
+   "center": [
+    -0.0119,
+    0.0986,
+    -0.6725
+   ],
+   "size": [
+    0.2699,
+    0.3272,
+    0.075
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 196
+  },
+  {
+   "object": "Armor_Ascendant_GreaveR_Gold_Uncommon",
+   "entry": "Armor_Ascendant_GreaveR",
+   "part": "Gold_Uncommon",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.4,
+    0.0
+   ],
+   "size": [
+    1.193,
+    0.05,
+    1.173
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_GreaveR_Gold_Rare",
+   "entry": "Armor_Ascendant_GreaveR",
+   "part": "Gold_Rare",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.072,
+    0.232,
+    -0.685
+   ],
+   "size": [
+    0.1872,
+    0.0864,
+    0.08
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 56
+  },
+  {
+   "object": "Armor_Ascendant_GreaveR_Leather_Common",
+   "entry": "Armor_Ascendant_GreaveR",
+   "part": "Leather_Common",
+   "piece": "GreaveR",
+   "slot": "Legs",
+   "attach": "RightLowerLeg",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    88,
+    64,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.12,
+    0.0
+   ],
+   "size": [
+    1.133,
+    1.0,
+    1.113
+   ],
+   "bodyCenter": [
+    0.497,
+    0.8,
+    0.0
+   ],
+   "bodySize": [
+    0.993,
+    1.301,
+    0.973
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BootL_Gold_Common",
+   "entry": "Armor_Ascendant_BootL",
+   "part": "Gold_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.0093,
+    -0.7652
+   ],
+   "size": [
+    0.2,
+    0.225,
+    0.4243
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 10
+  },
+  {
+   "object": "Armor_Ascendant_BootL_Gold_Uncommon",
+   "entry": "Armor_Ascendant_BootL",
+   "part": "Gold_Uncommon",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.0093,
+    -0.7652
+   ],
+   "size": [
+    0.88,
+    0.225,
+    0.4243
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Ascendant_BootL_Gold_Rare",
+   "entry": "Armor_Ascendant_BootL",
+   "part": "Gold_Rare",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    -0.0256,
+    0.6911
+   ],
+   "size": [
+    0.12,
+    0.1343,
+    0.2527
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 10
+  },
+  {
+   "object": "Armor_Ascendant_BootL_Leather_Common",
+   "entry": "Armor_Ascendant_BootL",
+   "part": "Leather_Common",
+   "piece": "BootL",
+   "slot": "Legs",
+   "attach": "LeftFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    88,
+    64,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.06
+   ],
+   "size": [
+    1.1,
+    0.38,
+    1.24
+   ],
+   "bodyCenter": [
+    -0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  },
+  {
+   "object": "Armor_Ascendant_BootR_Gold_Common",
+   "entry": "Armor_Ascendant_BootR",
+   "part": "Gold_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.0093,
+    -0.7652
+   ],
+   "size": [
+    0.2,
+    0.225,
+    0.4243
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 10
+  },
+  {
+   "object": "Armor_Ascendant_BootR_Gold_Uncommon",
+   "entry": "Armor_Ascendant_BootR",
+   "part": "Gold_Uncommon",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Uncommon",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    0.0,
+    -0.0093,
+    -0.7652
+   ],
+   "size": [
+    0.88,
+    0.225,
+    0.4243
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 20
+  },
+  {
+   "object": "Armor_Ascendant_BootR_Gold_Rare",
+   "entry": "Armor_Ascendant_BootR",
+   "part": "Gold_Rare",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Rare",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Gold",
+   "color": [
+    224,
+    182,
+    86
+   ],
+   "material": {
+    "kind": "metal",
+    "metal": 1.0,
+    "roughness": 0.32,
+    "roblox": "Metal"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    -0.0256,
+    0.6911
+   ],
+   "size": [
+    0.12,
+    0.1343,
+    0.2527
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 10
+  },
+  {
+   "object": "Armor_Ascendant_BootR_Leather_Common",
+   "entry": "Armor_Ascendant_BootR",
+   "part": "Leather_Common",
+   "piece": "BootR",
+   "slot": "Legs",
+   "attach": "RightFoot",
+   "rarity": "Common",
+   "sway": false,
+   "role": "solid",
+   "colorRole": "Leather",
+   "color": [
+    88,
+    64,
+    48
+   ],
+   "material": {
+    "kind": "leather",
+    "metal": 0.0,
+    "roughness": 0.62,
+    "roblox": "Leather"
+   },
+   "glow": null,
+   "center": [
+    -0.0,
+    0.02,
+    -0.06
+   ],
+   "size": [
+    1.1,
+    0.38,
+    1.24
+   ],
+   "bodyCenter": [
+    0.497,
+    0.156,
+    0.0
+   ],
+   "bodySize": [
+    1.009,
+    0.312,
+    1.001
+   ],
+   "tris": 44
+  }
+ ],
+ "tris": {
+  "Common": 2876,
+  "Uncommon": 4356,
+  "Rare": 6756,
+  "Epic": 7356,
+  "Legendary": 7796
+ },
+ "largestMesh": [
+  360,
+  "Armor_Ascendant_Chest_FeatherSway_Common"
+ ],
+ "slots": {
+  "Head": [
+   "Armor_Ascendant_Helm"
+  ],
+  "Chest": [
+   "Armor_Ascendant_Chest",
+   "Armor_Ascendant_Belt"
+  ],
+  "Shoulders": [
+   "Armor_Ascendant_PauldronL",
+   "Armor_Ascendant_PauldronR"
+  ],
+  "Arms": [
+   "Armor_Ascendant_BracerL",
+   "Armor_Ascendant_BracerR",
+   "Armor_Ascendant_GloveL",
+   "Armor_Ascendant_GloveR"
+  ],
+  "Legs": [
+   "Armor_Ascendant_ThighL",
+   "Armor_Ascendant_ThighR",
+   "Armor_Ascendant_GreaveL",
+   "Armor_Ascendant_GreaveR",
+   "Armor_Ascendant_BootL",
+   "Armor_Ascendant_BootR"
+  ]
+ }
+}

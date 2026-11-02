@@ -1,0 +1,194 @@
+{
+ "brows_c_soft": {
+  "decal": "82832286627781",
+  "image": "120131655704908"
+ },
+ "brows_c_straight": {
+  "decal": "114843094018905",
+  "image": "73004488785347"
+ },
+ "brows_r_heavy": {
+  "decal": "82698674963309",
+  "image": "140253236075772"
+ },
+ "brows_u_arch": {
+  "decal": "131452596583356",
+  "image": "90566035237005"
+ },
+ "brows_u_worried": {
+  "decal": "105054515477022",
+  "image": "89127171533826"
+ },
+ "eyes_c_calm_iris": {
+  "decal": "122231272160655",
+  "image": "71410902443747"
+ },
+ "eyes_c_calm_lines": {
+  "decal": "106228022101060",
+  "image": "123282009056515"
+ },
+ "eyes_c_calm_white": {
+  "decal": "74335599934933",
+  "image": "70724454947715"
+ },
+ "eyes_c_gentle_iris": {
+  "decal": "128455486727704",
+  "image": "98137802030107"
+ },
+ "eyes_c_gentle_lines": {
+  "decal": "82973114150062",
+  "image": "74663227239821"
+ },
+ "eyes_c_gentle_white": {
+  "decal": "121958209524648",
+  "image": "89617003810860"
+ },
+ "eyes_c_wide_iris": {
+  "decal": "85227293015554",
+  "image": "107419545584294"
+ },
+ "eyes_c_wide_lines": {
+  "decal": "82080946810319",
+  "image": "93394264885153"
+ },
+ "eyes_c_wide_white": {
+  "decal": "104236975690211",
+  "image": "97339699096806"
+ },
+ "eyes_l_crimson": {
+  "decal": "74036918391670",
+  "image": "77916328844953"
+ },
+ "eyes_l_gold": {
+  "decal": "112062091830889",
+  "image": "111379742660372"
+ },
+ "eyes_l_moon": {
+  "decal": "72413370718325",
+  "image": "84012733813671"
+ },
+ "eyes_l_rune": {
+  "decal": "136889006099457",
+  "image": "103284074949705"
+ },
+ "eyes_l_storm": {
+  "decal": "122860655488987",
+  "image": "112746666715968"
+ },
+ "eyes_l_tide": {
+  "decal": "133786368807466",
+  "image": "120456720123692"
+ },
+ "eyes_r_hawk_iris": {
+  "decal": "90281888839919",
+  "image": "80198564634859"
+ },
+ "eyes_r_hawk_lines": {
+  "decal": "94669662333548",
+  "image": "133330783629829"
+ },
+ "eyes_r_hawk_white": {
+  "decal": "87463150975013",
+  "image": "129617353269604"
+ },
+ "eyes_r_scarred_iris": {
+  "decal": "89710603721410",
+  "image": "102339345516166"
+ },
+ "eyes_r_scarred_lines": {
+  "decal": "83385230493642",
+  "image": "70866478727573"
+ },
+ "eyes_r_scarred_white": {
+  "decal": "107784709279777",
+  "image": "92460660871805"
+ },
+ "eyes_u_bright_iris": {
+  "decal": "126783253771952",
+  "image": "124744391388888"
+ },
+ "eyes_u_bright_lines": {
+  "decal": "106209004669152",
+  "image": "81986913855324"
+ },
+ "eyes_u_bright_white": {
+  "decal": "95809269778520",
+  "image": "77156680538294"
+ },
+ "eyes_u_fox_iris": {
+  "decal": "82355381109771",
+  "image": "129362680524671"
+ },
+ "eyes_u_fox_lines": {
+  "decal": "130692635930475",
+  "image": "96940650575611"
+ },
+ "eyes_u_fox_white": {
+  "decal": "96341737799510",
+  "image": "91477122878302"
+ },
+ "eyes_u_hooded_iris": {
+  "decal": "132404842404272",
+  "image": "88616190000685"
+ },
+ "eyes_u_hooded_lines": {
+  "decal": "132550854136473",
+  "image": "111159032920336"
+ },
+ "eyes_u_hooded_white": {
+  "decal": "77509701911243",
+  "image": "89484217425085"
+ },
+ "marks_ash_smear": {
+  "decal": "83738689027568",
+  "image": "87772162530751"
+ },
+ "marks_lightning": {
+  "decal": "118211814302286",
+  "image": "106980368102855"
+ },
+ "marks_moon_mark": {
+  "decal": "106536074547070",
+  "image": "86878953499804"
+ },
+ "marks_rune_brow": {
+  "decal": "72004021596419",
+  "image": "76411164766870"
+ },
+ "marks_storm_veins": {
+  "decal": "123622661995878",
+  "image": "91649962723533"
+ },
+ "marks_sun_dots": {
+  "decal": "120970931418231",
+  "image": "95166515903083"
+ },
+ "marks_tide_lines": {
+  "decal": "122944469740548",
+  "image": "101088628162926"
+ },
+ "mouths_c_flat": {
+  "decal": "126306010845850",
+  "image": "76310881951976"
+ },
+ "mouths_c_soft": {
+  "decal": "110191569102030",
+  "image": "96417679129744"
+ },
+ "mouths_r_fangs_low": {
+  "decal": "137237140287376",
+  "image": "126555956258455"
+ },
+ "mouths_u_frown": {
+  "decal": "115923572414175",
+  "image": "96504426325666"
+ },
+ "mouths_u_laugh": {
+  "decal": "90378673616587",
+  "image": "125516505436879"
+ },
+ "mouths_u_smug": {
+  "decal": "82129909553427",
+  "image": "83131501225378"
+ }
+}

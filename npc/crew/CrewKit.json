@@ -1,0 +1,623 @@
+{
+ "axes": "Blender: -Y front, +X character left, Z up. Roblox: X = -bx, Y = bz, Z = by",
+ "pieces": {
+  "Hood": {
+   "attach": "Head",
+   "roles": [
+    "Cloth",
+    "Lining",
+    "Glow"
+   ]
+  },
+  "HoodLong": {
+   "attach": "Head",
+   "roles": [
+    "Cloth",
+    "Lining",
+    "Glow"
+   ]
+  },
+  "Wrap": {
+   "attach": "Head",
+   "roles": [
+    "Cloth2"
+   ]
+  },
+  "BoneMask": {
+   "attach": "Head",
+   "roles": [
+    "Bone",
+    "Glow",
+    "Paint"
+   ]
+  },
+  "VaneMask": {
+   "attach": "Head",
+   "roles": [
+    "Bone",
+    "Paint",
+    "Gold"
+   ]
+  },
+  "KnightHelm": {
+   "attach": "Head",
+   "roles": [
+    "Metal",
+    "Gold",
+    "Lining"
+   ]
+  },
+  "Tunic": {
+   "attach": "UpperTorso",
+   "roles": [
+    "Cloth",
+    "Lining",
+    "Cloth2",
+    "Leather",
+    "Metal",
+    "Glow"
+   ]
+  },
+  "RobeTop": {
+   "attach": "UpperTorso",
+   "roles": [
+    "Cloth",
+    "Cloth2",
+    "Glow",
+    "Leather"
+   ]
+  },
+  "Coat": {
+   "attach": "UpperTorso",
+   "roles": [
+    "Cloth",
+    "Lining",
+    "Gold",
+    "Cloth2",
+    "Paint"
+   ]
+  },
+  "BruteTop": {
+   "attach": "UpperTorso",
+   "roles": [
+    "Cloth",
+    "Lining",
+    "Cloth2",
+    "Leather",
+    "Metal",
+    "Glow",
+    "Fur"
+   ]
+  },
+  "Surcoat": {
+   "attach": "UpperTorso",
+   "roles": [
+    "Cloth",
+    "Cloth2",
+    "Gold",
+    "Metal"
+   ]
+  },
+  "Cloak": {
+   "attach": "UpperTorso",
+   "roles": [
+    "Cloth",
+    "Lining",
+    "Metal"
+   ]
+  },
+  "CloakLong": {
+   "attach": "UpperTorso",
+   "roles": [
+    "Cloth",
+    "Lining",
+    "Metal"
+   ]
+  },
+  "Quiver": {
+   "attach": "UpperTorso",
+   "roles": [
+    "Leather",
+    "Metal",
+    "Wood",
+    "Fletch"
+   ]
+  },
+  "Belt": {
+   "attach": "LowerTorso",
+   "roles": [
+    "Cloth",
+    "Leather",
+    "Metal",
+    "Glow"
+   ]
+  },
+  "SashBelt": {
+   "attach": "LowerTorso",
+   "roles": [
+    "Cloth",
+    "Leather",
+    "Metal",
+    "Glow",
+    "Lining"
+   ]
+  },
+  "RobeBelt": {
+   "attach": "LowerTorso",
+   "roles": [
+    "Cloth",
+    "Leather",
+    "Metal",
+    "Glow"
+   ]
+  },
+  "Satchel": {
+   "attach": "LowerTorso",
+   "roles": [
+    "Leather",
+    "Bone",
+    "Glow"
+   ]
+  },
+  "SleeveL": {
+   "attach": "LeftUpperArm",
+   "roles": [
+    "Cloth",
+    "Cloth2",
+    "Leather"
+   ]
+  },
+  "CoatSleeveL": {
+   "attach": "LeftUpperArm",
+   "roles": [
+    "Cloth",
+    "Gold"
+   ]
+  },
+  "PauldronL": {
+   "attach": "LeftUpperArm",
+   "roles": [
+    "Metal",
+    "Leather",
+    "Glow"
+   ]
+  },
+  "PauldronHeavyL": {
+   "attach": "LeftUpperArm",
+   "roles": [
+    "Metal",
+    "Leather"
+   ]
+  },
+  "BracerL": {
+   "attach": "LeftLowerArm",
+   "roles": [
+    "Cloth",
+    "Leather"
+   ]
+  },
+  "BellSleeveL": {
+   "attach": "LeftLowerArm",
+   "roles": [
+    "Cloth",
+    "Glow"
+   ]
+  },
+  "KnightBracerL": {
+   "attach": "LeftLowerArm",
+   "roles": [
+    "Cloth",
+    "Leather",
+    "Metal"
+   ]
+  },
+  "CoatCuffL": {
+   "attach": "LeftLowerArm",
+   "roles": [
+    "Cloth",
+    "Cloth2",
+    "Gold"
+   ]
+  },
+  "GloveL": {
+   "attach": "LeftHand",
+   "roles": [
+    "Leather"
+   ]
+  },
+  "TrouserL": {
+   "attach": "LeftUpperLeg",
+   "roles": [
+    "Cloth2"
+   ]
+  },
+  "BootL": {
+   "attach": "LeftLowerLeg",
+   "roles": [
+    "Leather",
+    "Cloth2"
+   ]
+  },
+  "TallBootL": {
+   "attach": "LeftLowerLeg",
+   "roles": [
+    "Leather",
+    "Gold"
+   ]
+  },
+  "KnightBootL": {
+   "attach": "LeftLowerLeg",
+   "roles": [
+    "Leather",
+    "Metal"
+   ]
+  },
+  "FootL": {
+   "attach": "LeftFoot",
+   "roles": [
+    "Leather"
+   ]
+  },
+  "RobeSkirtL": {
+   "attach": "LeftUpperLeg",
+   "roles": [
+    "Cloth",
+    "Glow"
+   ]
+  },
+  "CoatTailL": {
+   "attach": "LeftUpperLeg",
+   "roles": [
+    "Cloth",
+    "Gold"
+   ]
+  },
+  "SleeveR": {
+   "attach": "RightUpperArm",
+   "roles": [
+    "Cloth",
+    "Cloth2",
+    "Leather"
+   ]
+  },
+  "CoatSleeveR": {
+   "attach": "RightUpperArm",
+   "roles": [
+    "Cloth",
+    "Gold"
+   ]
+  },
+  "PauldronR": {
+   "attach": "RightUpperArm",
+   "roles": [
+    "Metal",
+    "Leather",
+    "Glow"
+   ]
+  },
+  "PauldronHeavyR": {
+   "attach": "RightUpperArm",
+   "roles": [
+    "Metal",
+    "Leather"
+   ]
+  },
+  "BracerR": {
+   "attach": "RightLowerArm",
+   "roles": [
+    "Cloth",
+    "Leather"
+   ]
+  },
+  "BellSleeveR": {
+   "attach": "RightLowerArm",
+   "roles": [
+    "Cloth",
+    "Glow"
+   ]
+  },
+  "KnightBracerR": {
+   "attach": "RightLowerArm",
+   "roles": [
+    "Cloth",
+    "Leather",
+    "Metal"
+   ]
+  },
+  "CoatCuffR": {
+   "attach": "RightLowerArm",
+   "roles": [
+    "Cloth",
+    "Cloth2",
+    "Gold"
+   ]
+  },
+  "GloveR": {
+   "attach": "RightHand",
+   "roles": [
+    "Leather"
+   ]
+  },
+  "TrouserR": {
+   "attach": "RightUpperLeg",
+   "roles": [
+    "Cloth2"
+   ]
+  },
+  "BootR": {
+   "attach": "RightLowerLeg",
+   "roles": [
+    "Leather",
+    "Cloth2"
+   ]
+  },
+  "TallBootR": {
+   "attach": "RightLowerLeg",
+   "roles": [
+    "Leather",
+    "Gold"
+   ]
+  },
+  "KnightBootR": {
+   "attach": "RightLowerLeg",
+   "roles": [
+    "Leather",
+    "Metal"
+   ]
+  },
+  "FootR": {
+   "attach": "RightFoot",
+   "roles": [
+    "Leather"
+   ]
+  },
+  "RobeSkirtR": {
+   "attach": "RightUpperLeg",
+   "roles": [
+    "Cloth",
+    "Glow"
+   ]
+  },
+  "CoatTailR": {
+   "attach": "RightUpperLeg",
+   "roles": [
+    "Cloth",
+    "Gold"
+   ]
+  }
+ },
+ "body": {
+  "Head": {
+   "center": [
+    0.0,
+    0.0,
+    4.54
+   ],
+   "size": [
+    1.159,
+    1.161,
+    1.182
+   ]
+  },
+  "UpperTorso": {
+   "center": [
+    0.0,
+    0.0,
+    3.15
+   ],
+   "size": [
+    1.943,
+    1.004,
+    1.698
+   ]
+  },
+  "LowerTorso": {
+   "center": [
+    0.0,
+    0.0,
+    2.15
+   ],
+   "size": [
+    1.991,
+    1.004,
+    0.401
+   ]
+  },
+  "LeftUpperArm": {
+   "center": [
+    1.472,
+    0.0,
+    3.38
+   ],
+   "size": [
+    1.001,
+    1.002,
+    1.242
+   ]
+  },
+  "LeftLowerArm": {
+   "center": [
+    1.472,
+    0.0,
+    2.71
+   ],
+   "size": [
+    1.001,
+    1.002,
+    1.118
+   ]
+  },
+  "LeftHand": {
+   "center": [
+    1.472,
+    0.0,
+    2.11
+   ],
+   "size": [
+    0.984,
+    1.028,
+    0.316
+   ]
+  },
+  "RightUpperArm": {
+   "center": [
+    -1.472,
+    0.0,
+    3.38
+   ],
+   "size": [
+    1.001,
+    1.002,
+    1.242
+   ]
+  },
+  "RightLowerArm": {
+   "center": [
+    -1.472,
+    0.0,
+    2.71
+   ],
+   "size": [
+    1.001,
+    1.002,
+    1.118
+   ]
+  },
+  "RightHand": {
+   "center": [
+    -1.472,
+    0.0,
+    2.11
+   ],
+   "size": [
+    0.984,
+    1.028,
+    0.316
+   ]
+  },
+  "LeftUpperLeg": {
+   "center": [
+    0.497,
+    0.0,
+    1.38
+   ],
+   "size": [
+    0.993,
+    0.973,
+    1.363
+   ]
+  },
+  "LeftLowerLeg": {
+   "center": [
+    0.497,
+    0.0,
+    0.8
+   ],
+   "size": [
+    0.993,
+    0.973,
+    1.301
+   ]
+  },
+  "LeftFoot": {
+   "center": [
+    0.497,
+    0.0,
+    0.156
+   ],
+   "size": [
+    1.009,
+    1.001,
+    0.312
+   ]
+  },
+  "RightUpperLeg": {
+   "center": [
+    -0.497,
+    0.0,
+    1.38
+   ],
+   "size": [
+    0.993,
+    0.973,
+    1.363
+   ]
+  },
+  "RightLowerLeg": {
+   "center": [
+    -0.497,
+    0.0,
+    0.8
+   ],
+   "size": [
+    0.993,
+    0.973,
+    1.301
+   ]
+  },
+  "RightFoot": {
+   "center": [
+    -0.497,
+    0.0,
+    0.156
+   ],
+   "size": [
+    1.009,
+    1.001,
+    0.312
+   ]
+  }
+ },
+ "tris": {
+  "Hood": 4540,
+  "HoodLong": 4752,
+  "Wrap": 752,
+  "BoneMask": 2348,
+  "VaneMask": 1524,
+  "KnightHelm": 864,
+  "Tunic": 1608,
+  "RobeTop": 1752,
+  "Coat": 2352,
+  "BruteTop": 4728,
+  "Surcoat": 1592,
+  "Cloak": 2168,
+  "CloakLong": 2168,
+  "Quiver": 480,
+  "Belt": 1212,
+  "SashBelt": 1200,
+  "RobeBelt": 1060,
+  "Satchel": 316,
+  "SleeveL": 972,
+  "CoatSleeveL": 780,
+  "PauldronL": 604,
+  "PauldronHeavyL": 780,
+  "BracerL": 1280,
+  "BellSleeveL": 672,
+  "KnightBracerL": 1388,
+  "CoatCuffL": 1120,
+  "GloveL": 296,
+  "TrouserL": 480,
+  "BootL": 1600,
+  "TallBootL": 1004,
+  "KnightBootL": 1056,
+  "FootL": 232,
+  "RobeSkirtL": 1008,
+  "CoatTailL": 1008,
+  "SleeveR": 972,
+  "CoatSleeveR": 780,
+  "PauldronR": 604,
+  "PauldronHeavyR": 780,
+  "BracerR": 1280,
+  "BellSleeveR": 672,
+  "KnightBracerR": 1388,
+  "CoatCuffR": 1120,
+  "GloveR": 296,
+  "TrouserR": 480,
+  "BootR": 1600,
+  "TallBootR": 1004,
+  "KnightBootR": 1056,
+  "FootR": 232,
+  "RobeSkirtR": 1008,
+  "CoatTailR": 1008
+ }
+}

@@ -197,9 +197,60 @@ local SKIN = {
 	C(234, 184, 146), C(196, 142, 104), C(150, 100, 70), C(110, 72, 50), C(246, 210, 180), C(214, 160, 120),
 }
 
-local function faceDecal(model: Model, kind: string)
+-- Our own modular faces (FaceParts, the decals players build their face from), picked per kind of
+-- person from a pool by the seed. The face goes on a classic head over the rig's head (PlayerLook).
+type FacePool = { eyes: { string }, brows: { string }, mouth: { string }, nose: { string }, mark: { string } }
+local FACE_POOLS: { [string]: FacePool } = {
+	crew = { eyes = { "u01", "u02", "u03", "u05", "r01", "r03", "u_hooded", "r_hawk" }, brows = { "u06", "u08", "u10", "r12", "r13", "r_heavy" },
+		mouth = { "c_flat", "u_frown", "r_gritted", "u_smug", "c03" }, nose = { "c01", "c03", "u07", "r_broken" },
+		mark = { "", "", "stubble", "dirt", "cheek_scar", "nose_scar", "eye_scar", "" } },
+	knight = { eyes = { "c01", "c03", "c05", "c_calm", "u02", "u04", "c_gentle", "r_hawk" }, brows = { "c01", "c03", "c_straight", "u07", "r_heavy", "c_soft" },
+		mouth = { "c01", "c_flat", "c_soft", "c04", "u_smug" }, nose = { "c01", "c02", "c04", "u06", "u09" },
+		mark = { "", "", "", "stubble", "cheek_scar", "freckles", "" } },
+	dame = { eyes = { "c_gentle", "c_calm", "u_bright", "u_fox", "c06", "c_wide" }, brows = { "c_thin", "u_arch", "c_soft", "c02" },
+		mouth = { "c_soft", "c02", "c_flat", "u_smug" }, nose = { "c_button", "c01", "c02" },
+		mark = { "", "", "freckles", "beauty_mark", "" } },
+}
+local EYE_COLORS = { "brown", "hazel", "amber", "green", "sea", "blue", "grey", "dark" }
+
+-- A seeded modular face; spec overrides parts (eyes, brows, mouth, nose, mark, eyeColor). False when the
+-- face images are not there (the caller falls back to a Roblox style face then).
+function NpcFactory.face(model: Model, pool: string, seed: number, hairColor: Color3?, spec: { [string]: string }?): boolean
 	local head = model:FindFirstChild("Head")
 	if not head or not head:IsA("BasePart") then
+		return false
+	end
+	local ok, PlayerLook = pcall(function()
+		return require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("gear"):WaitForChild("PlayerLook")) :: any
+	end)
+	if not ok or not PlayerLook or not PlayerLook.setModularFace then
+		return false
+	end
+	local p = FACE_POOLS[pool] or FACE_POOLS.crew
+	local rng = Random.new(seed * 7 + 3)
+	local function pick(list: { string }): string
+		return list[rng:NextInteger(1, #list)]
+	end
+	local look: { [string]: any } = {
+		eyes = pick(p.eyes), brows = pick(p.brows), mouth = pick(p.mouth), nose = pick(p.nose), mark = pick(p.mark),
+		eyeColor = EYE_COLORS[rng:NextInteger(1, #EYE_COLORS)],
+	}
+	for k, v in spec or {} do
+		look[k] = v
+	end
+	local done = false
+	pcall(function()
+		done = PlayerLook.setModularFace(head, look, hairColor or C(40, 30, 24))
+	end)
+	return done
+end
+
+local function faceDecal(model: Model, kind: string, seed: number?, pool: string?)
+	local head = model:FindFirstChild("Head")
+	if not head or not head:IsA("BasePart") then
+		return
+	end
+	if NpcFactory.face(model, pool or "crew", seed or 1) then
 		return
 	end
 	local ok, FolkLooks = pcall(function()
@@ -296,7 +347,7 @@ function NpcFactory.crew(role: string, seed: number, paletteName: string?): Mode
 	local model = body(skin, pal.Cloth, pal.Cloth2)
 	NpcFactory.wearOutfit(model, OUTFITS[role] or OUTFITS.grunt, pal)
 	local faces = FACE_BY_ROLE[role] or FACE_BY_ROLE.grunt
-	faceDecal(model, faces[rng:NextInteger(1, #faces)])
+	faceDecal(model, faces[rng:NextInteger(1, #faces)], seed, "crew")
 	if role == "brute" then
 		model:ScaleTo(1.12)
 	elseif role == "leader" then
@@ -317,7 +368,9 @@ function NpcFactory.vane(masked: boolean?): Model
 		NpcFactory.strip(model, { "Mask" })
 	end
 	hair(model, "Folk_Hair_Ponytail", C(30, 30, 34))
-	faceDecal(model, "stern")
+	if not NpcFactory.face(model, "dame", 5, C(30, 30, 34), { eyes = "r_hawk", brows = "u_arch", mouth = "c_flat", nose = "c01", mark = "cheek_scar", eyeColor = "grey" }) then
+		faceDecal(model, "stern")
+	end
 	finish(model)
 	model.Name = "Vane"
 	return model
@@ -335,7 +388,16 @@ function NpcFactory.knight(seed: number, rune: boolean?, palette: Palette?): Mod
 		NpcFactory.wearPiece(model, "PauldronHeavyL", pal)
 		NpcFactory.wearPiece(model, "PauldronHeavyR", pal)
 	end
-	faceDecal(model, "stern")
+	faceDecal(model, "stern", seed, "knight")
+	if not rune then
+		-- Highwatch wears no Thrallbinder glow: the rings on the plate are gold
+		for _, d in model:GetDescendants() do
+			if d:IsA("BasePart") and d.Material == Enum.Material.Neon then
+				d.Color = pal.Gold
+				d.Material = Enum.Material.Metal
+			end
+		end
+	end
 	finish(model)
 	model.Name = if rune then "RuneKnight" else "Knight"
 	return model

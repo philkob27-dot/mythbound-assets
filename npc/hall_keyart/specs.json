@@ -1,0 +1,217 @@
+[
+ {
+  "id": "Portrait_1",
+  "seed": 101,
+  "pal": "gold",
+  "age": 1.0,
+  "mirror": true,
+  "sun": [
+   0.38,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_2",
+  "seed": 102,
+  "pal": "dusk",
+  "age": 0.86,
+  "mirror": true,
+  "sun": [
+   0.38,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_3",
+  "seed": 103,
+  "pal": "storm",
+  "age": 0.77,
+  "mirror": true,
+  "sun": [
+   0.38,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_4",
+  "seed": 104,
+  "pal": "dawn",
+  "age": 0.68,
+  "mirror": false,
+  "sun": [
+   0.62,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_5",
+  "seed": 105,
+  "pal": "teal",
+  "age": 0.62,
+  "mirror": false,
+  "sun": [
+   0.62,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_6",
+  "seed": 106,
+  "pal": "ember",
+  "age": 0.57,
+  "mirror": false,
+  "sun": [
+   0.62,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_7",
+  "seed": 107,
+  "pal": "gold",
+  "age": 0.48,
+  "mirror": false,
+  "sun": [
+   0.62,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_8",
+  "seed": 108,
+  "pal": "dawn",
+  "age": 0.42,
+  "mirror": true,
+  "sun": [
+   0.38,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_9",
+  "seed": 109,
+  "pal": "dusk",
+  "age": 0.36,
+  "mirror": true,
+  "sun": [
+   0.38,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_10",
+  "seed": 110,
+  "pal": "teal",
+  "age": 0.28,
+  "mirror": true,
+  "sun": [
+   0.38,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_11",
+  "seed": 111,
+  "pal": "storm",
+  "age": 0.22,
+  "mirror": false,
+  "sun": [
+   0.62,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_12",
+  "seed": 112,
+  "pal": "gold",
+  "age": 0.15,
+  "mirror": false,
+  "sun": [
+   0.62,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_13",
+  "seed": 113,
+  "pal": "dawn",
+  "age": 0.12,
+  "mirror": false,
+  "sun": [
+   0.62,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_14",
+  "seed": 114,
+  "pal": "dusk",
+  "age": 0.05,
+  "mirror": false,
+  "sun": [
+   0.62,
+   0.3
+  ],
+  "cx": 0.5,
+  "cy": 0.42,
+  "zoom": 0.84
+ },
+ {
+  "id": "Portrait_Vane",
+  "seed": 99,
+  "pal": "ember",
+  "age": 0.0,
+  "mirror": false,
+  "sun": [
+   0.62,
+   0.3
+  ],
+  "cx": 0.44,
+  "cy": 0.5,
+  "zoom": 1.0,
+  "size": [
+   756,
+   972
+  ],
+  "lift": 1.35
+ }
+]

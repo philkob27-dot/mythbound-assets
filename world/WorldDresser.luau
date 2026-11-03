@@ -275,7 +275,7 @@ function D.placeRocks(area, cells, out: Folder, rng: Random)
 	end
 	local cand = {}
 	for _, c in cells do
-		if c.n.Y < 0.82 and c.m ~= Enum.Material.Water and riverDist(c.p) > 24 and not keptOut(area, c.p) then
+		if c.n.Y < (area.rocksMaxNy or 0.82) and c.m ~= Enum.Material.Water and riverDist(c.p) > 24 and not keptOut(area, c.p) then
 			table.insert(cand, c)
 		end
 	end
@@ -291,6 +291,7 @@ function D.placeRocks(area, cells, out: Folder, rng: Random)
 		local scale = if steep then rng:NextNumber(1.3, 2.0) else rng:NextNumber(0.9, 1.5)
 		local size = base * scale
 		local footprint = math.max(size.X, size.Z)
+		if area.rocksCap and n >= area.rocksCap then break end
 		if free(c.p, footprint) then
 			local out2 = Vector3.new(c.n.X, 0, c.n.Z)
 			if out2.Magnitude < 0.05 then
@@ -392,7 +393,9 @@ function D.cover(area, cells, out: Folder, rng: Random)
 		return n
 	end
 	local W = D.Cover
-	local n1 = pass(0.8, function(c)
+	-- v4b: area.coverMaxNy / area.edgeMaxNy (defaults 0.8 / 0.86). Thinned style (cliff bands on steep ground
+	-- only, not a boulder field): coverMaxNy 0.66, edgeMaxNy 0 (no edge pass).
+	local n1 = pass(area.coverMaxNy or 0.8, function(c)
 		if c.n.Y >= 0.6 and area.extras ~= false and rng:NextNumber() < 0.3 then
 			local e = pick(rng, EXTRA_MID)
 			if hasKit(e) then return e end
@@ -401,7 +404,7 @@ function D.cover(area, cells, out: Folder, rng: Random)
 	end, function(c)
 		return if c.n.Y < 0.6 then rng:NextNumber(W.steepW[1], W.steepW[2]) else rng:NextNumber(W.midW[1], W.midW[2])
 	end, W.sink, 0.32)
-	local n2 = pass(0.86, function(c)
+	local n2 = pass(area.edgeMaxNy or 0.86, function(c)
 		return pick(rng, COVER_EDGE)
 	end, function(c)
 		return rng:NextNumber(W.edgeW[1], W.edgeW[2])
@@ -823,7 +826,18 @@ function D.buildMasks(opts)
 			end
 			if ok2 and cf and size then
 				local r = math.max(size.X, size.Z) / 2 + 25
-				if r < 900 then table.insert(masks, { cf.Position.X, cf.Position.Z, r, "Towns." .. c.Name }) end
+				if r <= 220 then
+					table.insert(masks, { cf.Position.X, cf.Position.Z, r, "Towns." .. c.Name })
+				else
+					-- spread-out sets (sea arches, walls along a coast): one circle per child part/model, not one
+					-- huge circle that would mask a whole biome
+					for _, ch in c:GetChildren() do
+						local okc, ccf, cs = pcall(function() if ch:IsA("Model") then return ch:GetBoundingBox() elseif ch:IsA("BasePart") then return ch.CFrame, ch.Size end return nil end)
+						if okc and ccf and cs then
+							table.insert(masks, { ccf.Position.X, ccf.Position.Z, math.min(math.max(cs.X, cs.Z) / 2 + 20, 220), "Towns." .. c.Name .. "." .. ch.Name })
+						end
+					end
+				end
 			end
 		end
 	end)
@@ -854,6 +868,7 @@ function D.addArea(name: string, mn: Vector3, mx: Vector3, opts)
 		birchGroups = opts.birchGroups or 0,
 		coverMaterials = opts.coverMaterials or { [Enum.Material.Rock] = true, [Enum.Material.Slate] = true, [Enum.Material.Basalt] = true, [Enum.Material.Limestone] = true },
 		waterMask = true,
+		coverMaxNy = opts.coverMaxNy, edgeMaxNy = opts.edgeMaxNy,
 	}
 	D.Areas[name] = a
 	return a
